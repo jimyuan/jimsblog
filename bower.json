@@ -1,0 +1,24 @@
+{
+  "name": "0-degrees",
+  "version": "0.0.0",
+  "authors": [
+    "Jim Yuan <aquarior@gmail.com>"
+  ],
+  "description": "Jim's blog build by Jekyll",
+  "keywords": [
+    "blog",
+    "jekyll",
+    "front-end"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1"
+  }
+}
