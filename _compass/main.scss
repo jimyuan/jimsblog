@@ -1,0 +1,29 @@
+@charset "utf-8";
+@import "compass/css3";
+@import "../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap";
+
+#navbar-top{
+  border: none;
+  background: rgba(0, 0, 0, .5);
+  .navbar-brand{
+    color: $body-bg;
+    @include text-shadow($gray-light 1px 1px);
+  }
+}
+
+#home-jumbo{
+  height: 330px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 100%;
+  background-image: url(../img/jumbo_12.jpg);
+}
+
+.last-post{
+  margin-top: 15px*2;
+  padding-bottom:15px;
+  background-color:rgba(255, 255, 255, .6);
+  p{
+    font-size: 1.1em;
+  }
+}

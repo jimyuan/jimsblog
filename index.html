@@ -1,23 +1,44 @@
 ---
 layout: default
 ---
+<header id="home-jumbo" class="top-header jumbotron">
+  <div class="container">
+    <div class="row">
+     <div class="col-xs-8 last-post col-xs-offset-1">
+       {% assign post = site.posts.first %}
+       <h2>{{post.title}}</h2>
+       <p>{{post.excerpt}}</p>
+       <a href="{{post.url}}" class="pull-right">继续阅读全文 <i class="glyphicon glyphicon-forward"></i></a>
+     </div>
+    </div>
+  </div>
+</header>
 
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<section class="container">
+  <main class="row">
+    <div class="col-xs-8">
+      <h3 class="page-header"><i class="glyphicon glyphicon-th-list"></i> 最新文章</h3>
+      <ul class="list-unstyled">
+        {% for post in site.posts limit:8 %}
+        <li>
+          <h4>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <small>({{ post.date | date: "%b %d, %Y" }})</small>
+          </h4>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="col-xs-4">
+      <h3 class="page-header"><i class="glyphicon glyphicon-tags"></i> 分类标签</h3>
+      <ul class="list-inline">
+        {% for tag in site.tags %}
+        {% assign t = tag | first %}
+        <li>
+          <span class="label label-info">{{t}}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </main>
+</section>
