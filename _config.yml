@@ -14,4 +14,4 @@ excerpt_separator: <!--more-->
 exclude: ["bower.json", "package.json", "bower_components", "node_modules"]
 
 # Build settings
-#markdown: kramdown
+markdown: redcarpet

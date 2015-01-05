@@ -1,0 +1,8 @@
+<h3 class="page-header"><i class="glyphicon glyphicon-tag"></i> 分类标签</h3>
+<ul class="list-inline">
+  {% for tag in site.tags %}
+  <li>
+    <span class="label label-info">{{tag | first}}</span>
+  </li>
+  {% endfor %}
+</ul>

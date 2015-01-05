@@ -1,15 +1,32 @@
 ---
 layout: default
 ---
-<div class="post">
+<section class="container">
+  <main class="row">
+    <article class="col-xs-10 post-article">
+      <h3 class="page-header">
+        {{ page.title }}
+        <small><i class="glyphicon glyphicon-calendar"></i> {{ page.date | date: "%b %d, %Y" }}</small></h3>
+      <div class="content">
+        {{content}}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
-</div>
+        {% if page.tags.size > 0 %}
+        <hr>
+        <div class="panel panel-default clearfix">
+          <ul class="list-inline post-tags panel-body pull-right">
+            <li><i class="glyphicon glyphicon-tags"></i></li>
+            {% for tag in page.tags %}
+            <li>
+              <span class="label label-info">{{tag}}</span>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+      </div>
+    </article>
+    <aside class="col-xs-2 post-aside">
+      {% include tags.html %}
+    </aside>
+  </main>
+</section>

@@ -1,0 +1,29 @@
+---
+layout: default
+title: "Blog List"
+---
+<section class="container">
+  <main class="row">
+    <article class="col-xs-10 post-article">
+      <h3 class="page-header">
+        <i class="glyphicon glyphicon-th-list"></i> 文章列表</h3>
+      <ul class="list-unstyled post-list">
+        {% for post in site.posts %}
+        <li>
+          <h4>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+              <i class="glyphicon glyphicon-chevron-right"></i>{{ post.title }}
+            </a>
+            <small>
+              <i class="glyphicon glyphicon-calendar"></i>{{ post.date | date: "%b %d, %Y" }}
+            </small>
+          </h4>
+        </li>
+        {% endfor %}
+      </ul>
+    </article>
+    <aside class="col-xs-2 post-aside">
+      {% include tags.html %}
+    </aside>
+  </main>
+</section>
