@@ -84,5 +84,8 @@ footer{
   padding:$grid-gutter-width 0;
   background-color: $gray;
   color: $gray-lighter;
+}
 
+.demo{
+  width:calc(Math.random()*100);
 }

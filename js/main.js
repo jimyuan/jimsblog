@@ -5,7 +5,7 @@
     for(var i = 1; i <= num; i++){
       i < 10 ? sn.push('0' + i) : sn.push(i + '');
     }
-    index = Math.ceil(Math.random() * num);
+    index = Math.ceil(Math.random() * num) - 1;
     homeJumbo.css('backgroundImage', 'url(/blog/img/jumbo_' + sn[index] + '.jpg)').fadeIn('slow');
   }
 })(jQuery);
