@@ -8,7 +8,7 @@ layout: default
         {% assign post = site.posts.first %}
         <h2>{{post.title}} <small>{{ post.date | date: "%b %d, %Y" }}</small></h2>
         <p>{{post.excerpt}}</p>
-        <a href="{{post.url}}" class="pull-right">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="pull-right">
           继续阅读全文 <i class="glyphicon glyphicon-forward"></i></a>
       </div>
     </div>
@@ -20,7 +20,7 @@ layout: default
     <div class="col-xs-8">
       <h3 class="page-header">
         <i class="glyphicon glyphicon-fire"></i> 最新文章
-        <a href="{{site.baseurl}}/list.html" class="pull-right more-article">
+        <a href="{{ "/list.html" | prepend: site.baseurl}}" class="pull-right more-article">
           <small class="label label-default">more</small>
         </a>
       </h3>

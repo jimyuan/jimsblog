@@ -6,6 +6,6 @@
       i < 10 ? sn.push('0' + i) : sn.push(i + '');
     }
     index = Math.ceil(Math.random() * num);
-    homeJumbo.css('backgroundImage', 'url(/img/jumbo_' + sn[index] + '.jpg)').fadeIn('slow');
+    homeJumbo.css('backgroundImage', 'url(/blog/img/jumbo_' + sn[index] + '.jpg)').fadeIn('slow');
   }
 })(jQuery);

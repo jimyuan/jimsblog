@@ -2,7 +2,7 @@
 title: 摄氏零度
 email: do.not@email.me
 description: 分享内容，扩展思想……
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://yuanjiachen.com" # the base hostname & protocol for your site
 twitter_username: aquarior77
 github_username:  jimyuan
