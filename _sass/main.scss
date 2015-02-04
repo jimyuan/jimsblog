@@ -1,7 +1,10 @@
 @charset "utf-8";
 @import "compass/css3";
 @import "../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap";
+// @import "../bower_components/font-awesome/scss/font-awesome";
 @import "syntax";
+
+// $fa-font-path: "../fonts/fa";
 
 #navbar-top{
   border: none;
@@ -52,14 +55,16 @@ section.container{
   }
 }
 
+// main article style
 .post-article{
   margin-top: $grid-gutter-width + 50;
   padding-bottom:$grid-gutter-width;
   @include box-shadow(0 0 10px $gray-lighter);
   .content {
-    font-size: 1.2em;
-    p{
-      text-indent: 2em;
+    font-size: 1em;
+    line-height: 1.8em;
+    h4:nth-child(n+2){
+      margin-top: $grid-gutter-width;
     }
   }
 }
