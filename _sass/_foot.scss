@@ -1,0 +1,17 @@
+footer{
+  padding:$grid-gutter-width 0;
+  background-color: rgba($gray, .9);
+  color: $gray-lighter;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  width: 100vw;
+}
+
+.jims-avatar{
+  margin-top: $grid-gutter-width;
+  img{
+    display: block;
+    margin: 0 auto;
+  }
+}

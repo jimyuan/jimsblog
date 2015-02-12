@@ -10,3 +10,6 @@ exclude: ["bower.json", "package.json", "bower_components", "node_modules"]
 
 # Build settings
 markdown: redcarpet
+
+# server settings
+host: 0.0.0.0

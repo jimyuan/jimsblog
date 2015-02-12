@@ -1,32 +1,26 @@
 ---
 layout: default
 ---
-<section class="container">
-  <main class="row">
-    <article class="col-xs-10 post-article">
-      <h3 class="page-header">
-        {{ page.title }}
-        <small><i class="glyphicon glyphicon-calendar"></i> {{ page.date | date: "%b %d, %Y" }}</small></h3>
-      <div class="content">
-        {{content}}
-
+<main class="row">
+  <article class="col-xs-12 col-lg-10 col-lg-offset-1">
+    <div class="post-container">
+      <h4>{{ page.title }}</h4>
+      <div class="subst">
+        <small><i class="glyphicon glyphicon-calendar"></i> {{ page.date | date: "%b %d, %Y" }}</small>
         {% if page.tags.size > 0 %}
-        <hr>
-        <div class="panel panel-default clearfix">
-          <ul class="list-inline post-tags panel-body pull-right">
-            <li><i class="glyphicon glyphicon-tags"></i></li>
-            {% for tag in page.tags %}
-            <li>
-              <span class="label label-info">{{tag}}</span>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
+        <ul class="list-inline post-tags pull-right">
+          <li><i class="glyphicon glyphicon-tags"></i></li>
+          {% for tag in page.tags %}
+          <li>
+            <span class="label label-info">{{tag}}</span>
+          </li>
+          {% endfor %}
+        </ul>
         {% endif %}
       </div>
-    </article>
-    <aside class="col-xs-2 post-aside">
-      {% include tags.html %}
-    </aside>
-  </main>
-</section>
+      <div class="post-content">
+        {{content}}
+      </div>
+    </div>
+  </article>
+</main>
