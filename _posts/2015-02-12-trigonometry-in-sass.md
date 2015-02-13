@@ -191,7 +191,7 @@ Yeah! Give me five!
 </svg>
 
 当然啦，我们上面辛苦的来的_Sass function_不能白瞎，得充分利用！干脆把svg得到的图形作为背景图，用CSS定义出来如何？
-{% highlight sass %}
+{% highlight scss %}
 .svg-triangle {
   $h: 100;
   $w: tan(30deg) * 2 * $h;
@@ -201,7 +201,7 @@ Yeah! Give me five!
 }
 {% endhighlight %}
 编译后得到：
-{% highlight scss %}
+{% highlight css %}
 .svg-triangle{
   width:115.47005px;
   height:100px;
