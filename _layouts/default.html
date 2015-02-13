@@ -10,8 +10,12 @@
       {{ content }}
     </section>
     {% include footer.html %}
-    <script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
-    <script src="http://cdn.bootcss.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script src="//cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdn.bootcss.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
     <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+    {% if page.jsfile == 'Math' %}
+    <script type="text/x-mathjax-config;executed=true">MathJax.Hub.Config({messageStyle:"none",tex2jax:{inlineMath:[["$","$"]],displayMath:[["$$","$$"]]}});</script>
+    <script src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
   </body>
 </html>

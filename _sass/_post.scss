@@ -37,6 +37,7 @@ figure.equation {
   padding: $grid-gutter-width/2 0;
 }
 
+// for blog: 20150-02-12
 @mixin clip-path($clip) {
   -webkit-clip-path: $clip;
   -moz-clip-path: $clip;
@@ -55,4 +56,12 @@ figure.equation {
 .my-triangle {
   @include equ-triangle(100px);
   background: #f00;
+}
+
+.svg-triangle {
+  $h: 100;
+  $w: tan(30deg) * 2 * $h;
+  width: $w + px;
+  height: $h + px;
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='#{$w}' height='#{$h}'><polygon points='#{$w/2},0 #{$w},#{$h} 0,#{$h}' fill='red'/></svg>");
 }
