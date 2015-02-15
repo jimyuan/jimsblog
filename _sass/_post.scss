@@ -29,6 +29,7 @@
 
 figure.equation {
   font-size: 150%;
+  background: lighten(#eee, 5%);
   display: block;
   margin: 0 0 $grid-gutter-width/2;
   overflow: auto;
