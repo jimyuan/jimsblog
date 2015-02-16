@@ -3,8 +3,6 @@ title: 摄氏零度
 email: do.not@email.me
 description: 分享内容，扩展思想……
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
-twitter_username: aquarior77
-github_username:  jimyuan
 excerpt_separator: <!--more-->
 exclude: ["bower.json", "package.json", "bower_components", "node_modules"]
 
@@ -12,4 +10,5 @@ exclude: ["bower.json", "package.json", "bower_components", "node_modules"]
 markdown: redcarpet
 
 # server settings
-host: 0.0.0.0
+host: localhost
+port: 8000
