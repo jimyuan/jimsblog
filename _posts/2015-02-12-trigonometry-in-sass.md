@@ -211,4 +211,4 @@ Yeah! Give me five!
 look! 这样做得好处就是内联svg的兼容性比上面的`clip-path`强好多。
 <div class="svg-triangle"></div>
 <hr>
-<span class="glyphicon glyphicon-info-sign"></span> 以上内容基本参考自：[https://unindented.org/articles/trigonometry-in-sass/](https://unindented.org/articles/trigonometry-in-sass/)
+以上内容基本参考自：<span class="glyphicon glyphicon-globe"></span> <a href="https://unindented.org/articles/trigonometry-in-sass/" target="new">https://unindented.org/articles/trigonometry-in-sass/</a>

@@ -3,8 +3,6 @@ layout: post
 title:  Web 中文字体应用指南
 tags: CSS
 ---
-转载自：https://ruby-china.org/topics/14005
-
 在 Web 上应用字体是一项基本技术，同时也是一门艺术。对于英文字体来说可选择的范围实在是太广泛了，合理的使用它们将会为你的网站增色不少。关于英文字体的使用和搭配技巧，在这里不做赘述，只推荐一套非常好的视频：[Fundamentals of Design by CodeSchool](http://www.codeschool.com/courses/fundamentals-of-design)
 
 <!--more-->
@@ -113,3 +111,7 @@ BTW，如果你也像我一样不喜欢呆头呆脑的微软雅黑，那就干�
 3. Mac 下的冬青体效果极佳，但是该字体在 Mac OS X 10.6 以前是没有的，所以谨慎考虑你的用户群体，或者使用华文黑体系列做 fallback；
 
 最后，我不想再和任何人争论字体的优劣，本文的目的是介绍使用方法而不是字体选择。“美”或“丑”向来都是很主观的事情，只因为我是作者，所以我免不了会有倾向性，然而我也相信你自己会有正确的判断，和我较真没有任何实际意义。
+
+<hr>
+
+以上内容转载自：<span class="glyphicon glyphicon-globe"></span> <a href="https://ruby-china.org/topics/14005" target="new">https://ruby-china.org/topics/14005</a>
