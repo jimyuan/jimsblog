@@ -6,7 +6,7 @@ tags: CSS
 
 **过完年的第一篇博客，先恭祝自己羊年顺利，阖家平安！这里是我的新家，虽然之前也写了很多博客，但大都是过时的文章，就不从其他地方再搬过来了，如果有人搜到了本博客，那恭喜了，您在2015必将一飞冲天，哈哈~~**
 
-言归正传，开始正文了！在CSS中，我们很多人会忽略掉控制CSS计数器的几个CSS属性，例如`counter-reset`和`counter-increment`：
+言归正传，开始正文了！在CSS中，我们很多人会忽略掉控制CSS计数器的几个CSS属性，例如 `counter-reset` 和 `counter-increment`：
 
 <!--more-->
 
@@ -25,7 +25,7 @@ __HTML:__
 <h6>Java</h6>
 {% endhighlight %}
 
-__CSS:__
+<strong>CSS:</strong>
 {% highlight css %}
 body {
   /* 重置计数器成0 */
@@ -64,7 +64,7 @@ __HTML:__
 <h6>Oracle</h6>
 {% endhighlight %}
 
-__CSS:__
+<strong>CSS:</strong>
 {% highlight css %}
 body {
   counter-reset: chapter;  
@@ -141,42 +141,45 @@ CSS计数器对创建有序列表特别有用，因为在孩子元素中会自�
 __CSS:__
 {% highlight css %}
 ol {
-  counter-reset: ol-list;                /* 为每个ol元素创建新的计数器实例 */
+  /* 为每个ol元素创建新的计数器实例 */
+  counter-reset: ol-list;
   list-style-type: none;
 }
 li:before {
-  counter-increment: ol-list;            /* 只增加计数器的当前实例 */
-  content: counters(ol-list, ".") " ";   /* 为所有计数器实例增加以“.”分隔的值 */
+  /* 只增加计数器的当前实例 */
+  counter-increment: ol-list;
+  /* 为所有计数器实例增加以“.”分隔的值 */
+  content: counters(ol-list, ".") " ";
 }
 {% endhighlight %}
-__HTML:__
+<strong>HTML:</strong>
 {% highlight html %}
 <ol>
-  <li>item</li>          <!-- 1     -->
-  <li>item               <!-- 2     -->
+  <li>item</li>
+  <li>item
     <ol>
-      <li>item</li>      <!-- 2.1   -->
-      <li>item</li>      <!-- 2.2   -->
-      <li>item           <!-- 2.3   -->
+      <li>item</li>
+      <li>item</li>
+      <li>item 
         <ol>
-          <li>item</li>  <!-- 2.3.1 -->
-          <li>item</li>  <!-- 2.3.2 -->
+          <li>item</li>
+          <li>item</li>
         </ol>
         <ol>
-          <li>item</li>  <!-- 2.3.1 -->
-          <li>item</li>  <!-- 2.3.2 -->
-          <li>item</li>  <!-- 2.3.3 -->
+          <li>item</li>
+          <li>item</li>
+          <li>item</li>
         </ol>
       </li>
-      <li>item</li>      <!-- 2.4   -->
+      <li>item</li>
     </ol>
   </li>
-  <li>item</li>          <!-- 3     -->
-  <li>item</li>          <!-- 4     -->
+  <li>item</li>
+  <li>item</li>
 </ol>
 <ol>
-  <li>item</li>          <!-- 1     -->
-  <li>item</li>          <!-- 2     -->
+  <li>item</li>
+  <li>item</li>
 </ol>
 {% endhighlight %}
 

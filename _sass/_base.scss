@@ -30,3 +30,13 @@ section.container{
     text-decoration: underline;
   }
 }
+
+.log-list{
+  li{
+    line-height: 2em;
+    color: $gray-light;
+  }
+  .glyphicon, strong{
+    color: #000;
+  }
+}

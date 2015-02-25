@@ -6,9 +6,16 @@ layout: default
     <div class="post-container">
       <h4>{{ page.title }}</h4>
       <div class="subst">
-        <small><i class="glyphicon glyphicon-calendar"></i> {{ page.date | date: "%b %d, %Y" }}</small>
+        <small>
+          <i class="glyphicon glyphicon-calendar"></i> 
+          {{ page.date | date: "%b %d, %Y" }}
+        </small>
+        <small>
+          <span class="glyphicon glyphicon-comment"></span>
+          <a href="{{ page.url | prepend: site.baseurl }}#disqus_thread">0 Comments</a>
+        </small>
         {% if page.tags.size > 0 %}
-        <ul class="list-inline post-tags pull-right">
+        <ul class="list-inline post-tags pull-right hidden-xs">
           <li><i class="glyphicon glyphicon-tags"></i></li>
           {% for tag in page.tags %}
           <li>
@@ -23,4 +30,20 @@ layout: default
       </div>
     </div>
   </article>
+  <div class="col-xs-12 col-lg-10 col-lg-offset-1">
+    <div class="comments-area">
+      <h4 class="page-title">最新评论</h4>
+      <hr>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+          var disqus_shortname = 'ssld'; 
+          (function() {
+              var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+              dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+              (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          })();
+      </script>
+      <noscript>如要查看评论，请开启浏览器的Javascript功能。</noscript>
+    </div>
+  </div>
 </main>

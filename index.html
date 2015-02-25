@@ -13,14 +13,21 @@ layout: default
           <span class="glyphicon glyphicon-calendar"></span>
           {{ post.date | date: "%b %d, %Y" }}
         </small>
-        <span class="pull-right">
-          {% if post.tags.size > 0 %}
-          <strong>tags: </strong>
+        <small>
+          <span class="glyphicon glyphicon-comment"></span>
+          <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">0 Comments</a>
+        </small>
+        
+        {% if post.tags.size > 0 %}
+        <ul class="list-inline post-tags pull-right hidden-xs">
+          <li><i class="glyphicon glyphicon-tags"></i></li>
           {% for tag in post.tags %}
-          <span class="label label-default">{{tag}}</span>
+          <li>
+            <span class="label label-info">{{tag}}</span>
+          </li>
           {% endfor %}
-          {% endif %}
-        </span>
+        </ul>
+        {% endif %}
       </div>
       <p>{{post.excerpt}}</p>
       <a href="{{ post.url | prepend: site.baseurl }}" class="pull-right btn btn-info btn-sm">

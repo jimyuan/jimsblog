@@ -17,6 +17,9 @@
   p{
     font-size: 1.1em;
   }
+  &:hover{
+    border-color: $brand-info;
+  }
 }
 
 .subst{
@@ -26,6 +29,10 @@
   .label{
     font-size: 10px;
   }
+  small {
+    margin-right: 5px;
+  }
+
 }
 
 .tags-list{

@@ -16,8 +16,9 @@
       <ul class="nav navbar-nav">
         <li{% if page.name == 'index.html' %}{{' class="active"'}}{% endif %}><a href='{{ "/" | prepend:site.baseurl }}'>首页</a></li>
         <li{% if page.name == 'list.html' %}{{' class="active"'}}{% endif %}><a href='{{"/list.html" | prepend:site.baseurl"}}'>列表</a></li>
+        <li{% if page.name == 'milestone.html' %}{{' class="active"'}}{% endif %}><a href='{{"/milestone.html" | prepend:site.baseurl"}}'>日志</a></li>
       </ul>
-      {% if page.name == 'index.html' or page.name == 'list.html' %}
+      {% if page.name == 'index.html' or page.name == 'list.html' or page.name %}
       <ul class="nav navbar-nav navbar-right hidden-xs">
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">背景 <span class="caret"></span></a>
