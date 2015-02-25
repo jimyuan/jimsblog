@@ -4,7 +4,7 @@ title:  Git 常见问题
 tags: Git
 ---
 
-####✱ 如何Create和Clone一个新的 git repo
+#### 如何Create和Clone一个新的 git repo
 
 #####创建一个remote git repo
 
@@ -23,7 +23,7 @@ tags: Git
 
 ----
 
-####✱ 如何将local repo连接到新的remote repo
+#### 如何将local repo连接到新的remote repo
 
 #####创建一个新的remote repo
 <kbd>git init --bare test.git</kbd>
@@ -40,7 +40,7 @@ tags: Git
 
 ---
 
-####✱ 如何删除远程的分支
+#### 如何删除远程的分支
 
 #####假设已经用以下命令建立了一个远程分支
 <kbd>git push origin newfeature</kbd>
@@ -53,7 +53,7 @@ tags: Git
 
 ---
 
-####✱ 合并多个commit至一个commit的简单方法
+#### 合并多个commit至一个commit的简单方法
 
 #####切换至主要分支，例如master或releases/R3
 <kbd>git co releases/R3</kbd><br>

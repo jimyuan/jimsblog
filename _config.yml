@@ -10,5 +10,5 @@ exclude: ["bower.json", "package.json", "bower_components", "node_modules"]
 markdown: redcarpet
 
 # server settings
-host: localhost
+host: 0.0.0.0
 port: 8000

@@ -2,7 +2,7 @@
 layout: post
 title:  发一篇不太厚道的博文
 ---
-####✱ Sublime Text 3 （Build 3059） 
+#### Sublime Text 3 （Build 3059） 
 
 <!--more-->
 

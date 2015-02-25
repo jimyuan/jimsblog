@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 移动开发之META标记
-tags: iOS meta
+tags: iOS HTML
 ---
 
-####✱ viewport
+#### viewport
 代码大概是这样的：
 {% highlight html %}
 <meta name="viewport" content="width=device-width, initial-scale=1">
