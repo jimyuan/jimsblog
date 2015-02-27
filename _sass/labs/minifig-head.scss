@@ -1,0 +1,112 @@
+@import "_labs";
+
+// --- variables setting --- //
+// * 常数设定 * //
+$border-color:          #000 !default;
+$golden-color:          rgb(252, 247, 49) !default;
+$lego-red:              rgb(233, 63,  51) !default;
+
+// * 容器尺寸 * //
+$block-size:            800px !default;
+
+// * 根据容器尺寸设定基本单位 * //
+$unit:                  $block-size/40 !default;
+
+// * 描边宽度 * //
+$border-width:          $unit  !default;
+
+
+// * 脸的尺寸 * //
+$face-width:            $unit*20 !default;
+$face-height:           $unit*17 !default;
+$face-top-width:        $unit*10 !default;
+$face-top-height:       $unit*4  !default;
+$face-bottom-width:     $unit*13 !default;
+$face-bottom-height:    $unit*2.5 !default;
+
+// --- mixins setting --- //
+@mixin make-block($w, $h, $block-top: true){
+  position: absolute;
+  content: "";
+  display: block;
+  @include size($w, $h);
+  border: $border-width solid $border-color;  
+  background-color: #fff;
+  left: 50%;
+  margin-left: -$w/2;
+
+  @if $block-top {
+    border-bottom-width: 0;
+    top: -$h - $border-width;
+    border-radius: $unit $unit 0 0;
+  }
+  @else {
+    border-top-width: 0;
+    bottom: -$h - $border-width;
+    border-radius: 0 0 $unit $unit;
+  }
+}
+
+@mixin eyes($i: true){
+  content: "";
+  display: block;
+  background-color: #000;
+  @include square($unit*2);
+  border-radius: 50%;
+  position: absolute;
+  top: $unit*4;
+  @if $i {
+    left: -$unit*2; 
+  }
+  @else {
+    right: -$unit*2;
+  }
+}
+
+// --- styles setting --- //
+// * 画布大小设定 * //
+.lego-block{
+  @include square($block-size);
+  position: relative;
+  border: $border-width*1.5 solid $border-color;
+  background-color: $lego-red;
+}
+
+// * 头像绘制 * //
+.head{
+  @include size($face-width, $face-height);
+  position: absolute;
+  top: 50%; left: 50%;
+  margin-left: -$face-width/2;
+  margin-top: -$face-height/2;
+  border: $border-width solid $border-color;
+  background-color: #fff;
+  border-radius: $unit*3;
+  box-shadow: 0 0 0 $border-width $golden-color;
+  &:before{
+    @include make-block($face-top-width, $face-top-height);
+    box-shadow: (-$border-width/2) (-$border-width/2) 0 $border-width/2 $golden-color,
+                $border-width/2 (-$border-width/2) 0 $border-width/2 $golden-color;
+  }
+  &:after{
+    @include make-block($face-bottom-width, $face-bottom-height, false);
+    box-shadow: (-$border-width/2) $border-width/2 0 $border-width/2 $golden-color,
+                $border-width/2 $border-width/2 0 $border-width/2 $golden-color;
+  }
+}
+
+.emotion{
+  $ew: $unit*6; $eh: $unit*10;
+  @include size($ew, $eh);
+  position: absolute;
+  left: 50%; top: 50%;
+  margin-left: -$ew/2;
+  margin-top: -$eh/2;
+  border-bottom: $border-width*0.75 solid $border-color;
+  &:before{
+    @include eyes();
+  }
+  &:after{
+    @include eyes(false);
+  }
+}
