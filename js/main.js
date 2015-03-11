@@ -50,9 +50,9 @@
         $(this).css('opacity', 1);
       });
     });
-
-    // 开新窗口的link
-    $('.glyphicon-globe+a').attr('target', 'new');
   }
-  // dpMenu.on('click')
+
+  // 开新窗口的link
+  $('.glyphicon-globe+a').attr('target', 'new');
+
 })(jQuery);

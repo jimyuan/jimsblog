@@ -16,32 +16,113 @@ tags: iOS HTML
 区域加入下面代码即可。
 对应不同的iOS设备，地道点的话，我们一般要准备4种不同尺寸的图片，推荐png格式，当然，jpg也可以。以下代码排列组合将能适应目前的iOS设备需求了。
 {% highlight html %}
-<!-- iPhone -->
-<link href="touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
-<!-- iPad-->
-<link href="touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-<!-- iPhone Retina-->
-<link href="touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-<!-- iPad Retina -->
-<link href="touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+<!-- iPad retina icon -->
+<link href="apple-touch-icon-precomposed-152x152.png"
+      sizes="152x152"
+      rel="apple-touch-icon-precomposed">
+
+<!-- iPad retina icon (iOS < 7) -->
+<link href="apple-touch-icon-precomposed-144x144.png"
+      sizes="144x144"
+      rel="apple-touch-icon-precomposed">
+
+<!-- iPad non-retina icon -->
+<link href="apple-touch-icon-precomposed-76x76.png"
+      sizes="76x76"
+      rel="apple-touch-icon-precomposed">
+
+<!-- iPad non-retina icon (iOS < 7) -->
+<link href="apple-touch-icon-precomposed-72x72.png"
+      sizes="72x72"
+      rel="apple-touch-icon-precomposed">
+
+<!-- iPhone 6 Plus icon -->
+<link href="apple-touch-icon-precomposed-180x180.png"
+      sizes="120x120"
+      rel="apple-touch-icon-precomposed">
+
+<!-- iPhone retina icon (iOS < 7) -->
+<link href="apple-touch-icon-precomposed-114x114.png"
+      sizes="114x114"
+      rel="apple-touch-icon-precomposed">
+
+<!-- iPhone non-retina icon (iOS < 7) -->
+<link href="apple-touch-icon-precomposed-57x57.png"
+      sizes="57x57"
+      rel="apple-touch-icon-precomposed">
 {% endhighlight %}
 当然，rel值也可以设置成“apple-touch-icon-precomposed”，区别就在于是否会应用iOS中自动给图标添加的那层高光。
 
-#### 动画面设置
+#### 启动动画面设置
 apple-touch-startup-image是用来标示启动画面的，启动画面的图片尺寸并非完全等于设备的尺寸，在图片高度上，非retina设备要减去20px，retina设备要减去40px。
 Web App运行起来要像Native App，那么就要去掉Safari的一些默认控件，比如地址栏、状态栏之类的。meta设置前面讲过了，这里就忽略了。
 iPhone的启动画面就一个状态，而iPad则可以分成portrait和landscape两种。
+补充： iphone 6+ 也有portrait和landscape两种状态了。
 {% highlight html %}
-<!-- iPhone -->
-<link href="startup-320x460.png" rel="apple-touch-startup-image" media="screen and (max-device-width: 320px)">
-<!-- iPhone Retina --> 
-<link href="startup-640x920.png" rel="apple-touch-startup-image" media="screen and (max-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2)">
-<!-- iPhone5 -->
-<link href="startup-640x1096.png" rel="apple-touch-startup-image" media="screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" />
-<!-- iPad -->
-<link href="startup-1024x748.png" rel="apple-touch-startup-image" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
-<link href="startup-768x1004.png" rel="apple-touch-startup-image" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
-<!-- iPad Retina -->
-<link href="startup-2048x1496.png" rel="apple-touch-startup-image" media="screen and (min-device-width:481px) and (max-device-width:1024px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio: 2)">
-<link href="startup-1536x2008.png" rel="apple-touch-startup-image" media="screen and (min-device-width:481px) and (max-device-width:1024px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio: 2)">
+<!-- iPad retina portrait startup image -->
+<link href="apple-touch-startup-image-1536x2008.png"
+      media="(device-width: 768px) and (device-height: 1024px)
+             and (-webkit-device-pixel-ratio: 2)
+             and (orientation: portrait)"
+      rel="apple-touch-startup-image">
+
+<!-- iPad retina landscape startup image -->
+<link href="apple-touch-startup-image-1496x2048.png"
+      media="(device-width: 768px) and (device-height: 1024px)
+             and (-webkit-device-pixel-ratio: 2)
+             and (orientation: landscape)"
+      rel="apple-touch-startup-image">
+
+<!-- iPad non-retina portrait startup image -->
+<link href="apple-touch-startup-image-768x1004.png"
+      media="(device-width: 768px) and (device-height: 1024px)
+             and (-webkit-device-pixel-ratio: 1)
+             and (orientation: portrait)"
+      rel="apple-touch-startup-image">
+
+<!-- iPad non-retina landscape startup image -->
+<link href="apple-touch-startup-image-748x1024.png"
+      media="(device-width: 768px) and (device-height: 1024px)
+             and (-webkit-device-pixel-ratio: 1)
+             and (orientation: landscape)"
+      rel="apple-touch-startup-image">
+
+<!-- iPhone 6 Plus portrait startup image -->
+<link href="apple-touch-startup-image-1242x2148.png"
+      media="(device-width: 414px) and (device-height: 736px)
+             and (-webkit-device-pixel-ratio: 3)
+             and (orientation: portrait)"
+      rel="apple-touch-startup-image">
+
+<!-- iPhone 6 Plus landscape startup image -->
+<link href="apple-touch-startup-image-1182x2208.png"
+      media="(device-width: 414px) and (device-height: 736px)
+             and (-webkit-device-pixel-ratio: 3)
+             and (orientation: landscape)"
+      rel="apple-touch-startup-image">
+
+<!-- iPhone 6 startup image -->
+<link href="apple-touch-startup-image-750x1294.png"
+      media="(device-width: 375px) and (device-height: 667px)
+             and (-webkit-device-pixel-ratio: 2)"
+      rel="apple-touch-startup-image">
+
+<!-- iPhone 5 startup image -->
+<link href="apple-touch-startup-image-640x1096.png"
+      media="(device-width: 320px) and (device-height: 568px)
+             and (-webkit-device-pixel-ratio: 2)"
+      rel="apple-touch-startup-image">
+
+<!-- iPhone < 5 retina startup image -->
+<link href="apple-touch-startup-image-640x920.png"
+      media="(device-width: 320px) and (device-height: 480px)
+             and (-webkit-device-pixel-ratio: 2)"
+      rel="apple-touch-startup-image">
+
+<!-- iPhone < 5 non-retina startup image -->
+<link href="apple-touch-startup-image-320x460.png"
+      media="(device-width: 320px) and (device-height: 480px)
+             and (-webkit-device-pixel-ratio: 1)"
+      rel="apple-touch-startup-image">
 {% endhighlight %}
+

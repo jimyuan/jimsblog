@@ -54,12 +54,12 @@ $face-bottom-height:    $unit*2.5 !default;
   @include square($unit*2);
   border-radius: 50%;
   position: absolute;
-  top: $unit*4;
+  top: $unit*4 - $border-width*.75;
   @if $i {
-    left: -$unit*2; 
+    left: -$unit*2 - $border-width*.75; 
   }
   @else {
-    right: -$unit*2;
+    right: -$unit*2 - $border-width*.75;
   }
 }
 
@@ -102,6 +102,8 @@ $face-bottom-height:    $unit*2.5 !default;
   left: 50%; top: 50%;
   margin-left: -$ew/2;
   margin-top: -$eh/2;
+  border-radius: 50%/25%;
+  border: $border-width*0.75 solid transparent;
   border-bottom: $border-width*0.75 solid $border-color;
   &:before{
     @include eyes();

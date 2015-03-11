@@ -2,9 +2,11 @@
 title: 摄氏零度
 email: do.not@email.me
 description: 分享内容，扩展思想……
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: http://jimyuan.github.io/blog
+baseurl: /blog # the subpath of your site, e.g. /blog/
 excerpt_separator: <!--more-->
 exclude: ["bower.json", "package.json", "bower_components", "node_modules"]
+touch_icons: [57, 72, 76, 114, 144, 152, 180]
 
 # Build settings
 markdown: redcarpet
