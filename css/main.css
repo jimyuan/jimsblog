@@ -8527,48 +8527,49 @@ section.container {
 .post-container, .comments-area {
   padding: 15px;
   border: 1px solid #eeeeee;
+  line-height: 1.8;
 }
-/* line 5, ../_sass/_post.scss */
+/* line 6, ../_sass/_post.scss */
 .post-container > h4, .comments-area > h4 {
   color: #337ab7;
 }
 
-/* line 10, ../_sass/_post.scss */
+/* line 11, ../_sass/_post.scss */
 .comments-area {
   margin-top: 15px;
 }
-/* line 12, ../_sass/_post.scss */
+/* line 13, ../_sass/_post.scss */
 .comments-area > h4 {
   color: #777777;
 }
 
-/* line 17, ../_sass/_post.scss */
+/* line 18, ../_sass/_post.scss */
 .post-aside {
   -webkit-box-shadow: 0 0 10px #eeeeee;
   box-shadow: 0 0 10px #eeeeee;
 }
 
-/* line 21, ../_sass/_post.scss */
+/* line 22, ../_sass/_post.scss */
 .post-content {
   padding-top: 30px;
 }
-/* line 23, ../_sass/_post.scss */
+/* line 24, ../_sass/_post.scss */
 .post-content h4:not(:first-child) {
   margin-bottom: 15px;
   margin-top: 30px;
 }
 
-/* line 29, ../_sass/_post.scss */
+/* line 30, ../_sass/_post.scss */
 .post-tags {
   font-size: 10px;
   margin: 0;
 }
-/* line 32, ../_sass/_post.scss */
+/* line 33, ../_sass/_post.scss */
 .post-tags li ~ li {
   padding-right: 0;
 }
 
-/* line 37, ../_sass/_post.scss */
+/* line 38, ../_sass/_post.scss */
 span.glyphicon + a {
   word-wrap: break-word;
 }

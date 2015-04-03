@@ -2,6 +2,7 @@
 .post-container, .comments-area{
   padding: $grid-gutter-width/2;
   border: 1px solid $gray-lighter;
+  line-height: 1.8;
   & > h4 {
     color: $link-color;
   }
