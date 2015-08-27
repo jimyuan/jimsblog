@@ -10,7 +10,7 @@ tags: CSS
 
 <!--more-->
 
-昨天用了纯CSS先写了点，把大致的难点都搞定了，由于代码里牵涉到许多计算，所以今天干脆用 <span class="glyphicon glyphicon-globe"></span> [Sass](http://sass-lang.com/) 重写了一下，这下轻松多了。Sass代码我就不贴了，把生成好的CSS贴出来吧，对了，有点需要声明的是，由于在页面中引用了 <span class="glyphicon glyphicon-globe"></span> [Bootstrap](http://v3.bootcss.com/) 的样式框架，页面中所有的对象都被重新赋予了 `box-sizing: border-box` 的值，已不同于标准的盒模型size的定义。
+昨天用了纯CSS先写了点，把大致的难点都搞定了，由于代码里牵涉到许多计算，所以今天干脆用 <span class="fa fa-link"></span> [Sass](http://sass-lang.com/) 重写了一下，这下轻松多了。Sass代码我就不贴了，把生成好的CSS贴出来吧，对了，有点需要声明的是，由于在页面中引用了 <span class="fa fa-link"></span> [Bootstrap](http://v3.bootcss.com/) 的样式框架，页面中所有的对象都被重新赋予了 `box-sizing: border-box` 的值，已不同于标准的盒模型size的定义。
 
 对了，这里的css绘制我没有把 `clip-path` 和内联SVG方法算在里面，他们都具备矢量路径绘制功能，啥形状不能画出来啊，而且前者由于浏览器的影响，支持度不高，就不在此讨论了。关于 `clip-path` 我在前面的blog [在Sass中实现三角函数计算]({{'/2015/02/12/trigonometry-in-sass.html' | prepend: site.baseurl}})中有写过示例代码。
 
@@ -117,5 +117,3 @@ __CSS:__
   right: -40px;
 }
 {% endhighlight %}
-
-嗯，还没贴DEMO地址呢，看这里！看这里！[看这里！]({{'/labs/minifig-head.html' | prepend: site.baseurl}}) 啥，说没效果？把你那低等浏览器赶紧扔了！ 其实这个例子对于高手来讲，还是太简单了，过段时间我看看能不能做个复杂的出来，嘿嘿！

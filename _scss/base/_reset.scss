@@ -1,0 +1,56 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: $base-font-size;
+}
+
+html, body {
+  height: auto;
+  min-height: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+abbr {
+  border-bottom: $abbr-border-bottom;
+  cursor: help;
+}
+
+p {
+  color: #333;
+  line-height: 1.5;
+}
+
+small,
+.small {
+  font-size: 0.707rem;
+}
+
+img {
+  width: auto;
+  max-width: 100%;
+}
+
+body,
+button {
+  margin: 0;
+}
+
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+svg {
+  max-height: 100%;
+}

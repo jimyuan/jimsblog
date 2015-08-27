@@ -1,44 +1,23 @@
 ---
 layout: default
 ---
-<div class="home-wrap" data-root="{{site.baseurl}}"></div>
-<div class="row">
-  <div class="col-sm-9 col-xs-12">
-    {% for post in site.posts limit:8 %}
-    <div class="home-block clearfix">
-      {% assign post = site.posts.first %}
-      <h4><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h4>
-      <div class="subst">
-        <small>
-          <span class="glyphicon glyphicon-calendar"></span>
-          {{ post.date | date: "%b %d, %Y" }}
-        </small>
-        <small>
-          <span class="glyphicon glyphicon-comment"></span>
-          <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">0 Comments</a>
-        </small>
-        
-        {% if post.tags.size > 0 %}
-        <ul class="list-inline post-tags pull-right hidden-xs">
-          <li><i class="glyphicon glyphicon-tags"></i></li>
-          {% for tag in post.tags %}
-          <li>
-            <span class="label label-info">{{tag}}</span>
-          </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
+<div class="home">
+
+  <div class="posts">
+    {% for post in paginator.posts %}
+      <div class="post py3">
+        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+        <p class="post-summary">
+          {% if post.summary %}
+            {{ post.summary }}
+          {% else %}
+            {{ post.excerpt }}
+          {% endif %}
+        </p>
       </div>
-      <p>{{post.excerpt}}</p>
-      <a href="{{ post.url | prepend: site.baseurl }}" class="pull-right btn btn-info btn-sm">
-        <i class="glyphicon glyphicon-circle-arrow-right"></i> 阅读全文</a>
-    </div>
     {% endfor %}
   </div>
-  <div class="col-sm-3 col-xs-12">
-    <div class="home-block clearfix tags-list">{% include tags.html %}</div>
-  </div>
-</div>
-<div class="photo-info">
-  <span class="label label-default"></span>
+
+  {% include pagination.html %}
 </div>

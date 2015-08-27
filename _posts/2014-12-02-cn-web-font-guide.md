@@ -3,7 +3,7 @@ layout: post
 title:  Web 中文字体应用指南
 tags: CSS
 ---
-在 Web 上应用字体是一项基本技术，同时也是一门艺术。对于英文字体来说可选择的范围实在是太广泛了，合理的使用它们将会为你的网站增色不少。关于英文字体的使用和搭配技巧，在这里不做赘述，只推荐一套非常好的视频：<span class="glyphicon glyphicon-globe"></span> [Fundamentals of Design by CodeSchool](http://www.codeschool.com/courses/fundamentals-of-design)
+在 Web 上应用字体是一项基本技术，同时也是一门艺术。对于英文字体来说可选择的范围实在是太广泛了，合理的使用它们将会为你的网站增色不少。关于英文字体的使用和搭配技巧，在这里不做赘述，只推荐一套非常好的视频：<span class="fa fa-link"></span> [Fundamentals of Design by CodeSchool](http://www.codeschool.com/courses/fundamentals-of-design)
 
 <!--more-->
 
@@ -114,4 +114,4 @@ BTW，如果你也像我一样不喜欢呆头呆脑的微软雅黑，那就干�
 
 <hr>
 
-以上内容转载自：<span class="glyphicon glyphicon-globe"></span> <a href="https://ruby-china.org/topics/14005" target="new">https://ruby-china.org/topics/14005</a>
+以上内容转载自：<span class="fa fa-link"></span> <a href="https://ruby-china.org/topics/14005" target="new">https://ruby-china.org/topics/14005</a>

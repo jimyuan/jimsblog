@@ -1,30 +1,25 @@
-<footer class="site-footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-4 col-xs-12">
-        <div class="media">
-          <a href="{{ "/" | prepend:site.baseurl}}" class="media-left">
-            <img src="{{site.baseurl}}/img/avatar.png" alt="Jim's Blog" class="img-circle" width="50">
-          </a>
-          <div class="media-body">
-          <p>The contents of this website are ©&nbsp;2015  under the terms of the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE">MIT&nbsp;License</a>.</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-8 hidden-sm hidden-xs text-right">
-        <p>
-          Thanks the excellent tool
-          <a href="http://jekyllrb.com/">
-            <img src="{{site.baseurl}}/img/jekyll-logo.png" width="100" alt="GitHub • Social coding">
-          </a>
-        </p>
-        <p>
-          Proudly hosted by
-          <a href="https://github.com">
-            <img src="{{site.baseurl}}/img/github-logo.png" width="100" height="30" alt="GitHub • Social coding">
-          </a>
-        </p>
-      </div>
-    </div>
+<footer class="center">
+  <div class="measure">
+    <p>The contents of this website are ©&nbsp;2015  under the terms of the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE">MIT&nbsp;License</a>.</p>
+    <p>
+      Layout & Functions based on <a href="https://github.com/johnotander/pixyll">Pixyll</a>.
+    </p>
+    <p>
+      Thanks the excellent tool
+      <a href="http://jekyllrb.com/">
+        <img src="/blog/img/jekyll-logo.png" width="100" alt="GitHub • Social coding">
+      </a>
+    </p>
+    <p>
+      Proudly hosted by
+      <a href="https://github.com">
+        <img src="/blog/img/github-logo.png" width="100" height="30" alt="GitHub • Social coding">
+      </a>
+    </p>
   </div>
 </footer>
+
+{% if page.jsfile == 'Math' %}
+<script type="text/x-mathjax-config;executed=true">MathJax.Hub.Config({messageStyle:"none",tex2jax:{inlineMath:[["$","$"]],displayMath:[["$$","$$"]]}});</script>
+<script src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}

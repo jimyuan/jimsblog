@@ -1,16 +1,66 @@
 # Site settings
-title: 摄氏零度
-email: do.not@email.me
-description: 分享内容，扩展思想……
-url: http://jimyuan.github.io/blog
-baseurl: /blog # the subpath of your site, e.g. /blog/
+title:       摄氏零度
+email:
+author:      "Jim YUan"
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+baseurl:     /blog
+url:         "http://jimyuan.github.io/blog"
+date_format: "%b %-d, %Y"
 excerpt_separator: <!--more-->
-exclude: ["bower.json", "package.json", "bower_components", "node_modules"]
 touch_icons: [57, 72, 76, 114, 144, 152, 180]
+exclude: ["node_modules", "gulpfile.js", "package.json", "README.md", "LICENSE.txt]
+
+# RSS
+show_rss:
+
+# Google services
+google_analytics:
+google_verification:
+
+# Baidu tongji
+baidu_tongji: "754e4c909194173b0646898b26d1acbd"
+
+# Optional features
+animated:           true
+show_related_posts: false
+show_post_footers:  true
+show_social_icons:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: ssld
+
+# Social icons
+github_username:
+bitbucket_username:
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username:
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: false
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
 
 # Build settings
-markdown: redcarpet
-
-# server settings
-host: 0.0.0.0
-port: 8000
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+paginate:     8
+sass:
+  compressed: true

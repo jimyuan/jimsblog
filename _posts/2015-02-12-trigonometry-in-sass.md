@@ -21,7 +21,7 @@ tags: Sass CSS
 做出来就下面那样，要哪个角度，就将其他的颜色设成transparent就行了。
 <div style="width: 0; height: 0;border-width: 50px; border-style: solid; border-color: blue red yellow black;"></div>
 
-当然，在CSS3中还有种新的方法叫`clip-path`的，可以绘制多边形，用法非常灵活，但是去了 <span class="glyphicon glyphicon-globe"></span> [caniuse](http://caniuse.com/#search=clip-path)网站查了下，支持度貌似还很不够，不过是个不错的方法，例如下面的代码：
+当然，在CSS3中还有种新的方法叫`clip-path`的，可以绘制多边形，用法非常灵活，但是去了 <span class="fa fa-link"></span> [caniuse](http://caniuse.com/#search=clip-path)网站查了下，支持度貌似还很不够，不过是个不错的方法，例如下面的代码：
 {% highlight css %}
 .polygon {
   width: 100px;
@@ -42,20 +42,20 @@ tags: Sass CSS
 
 用js的语法来表达，边长的长度`x = Math.tan(30 * Math.PI / 180) * y * 2`( JS里三角函数用的是弧度，要把角度转换一下才能计算 ), 问题解决了，我用该方法根据给定的高度，就能算出在一个矩形里用polygon画等边三角形路径时3个点得坐标了：`polygon(0.5x 0, x y, 0 y)`, y给定后，x的值通过以上方法就可以得出啦！
 
-其实这么简单的事情，是不值得太高兴的，问题来了，如果我想在 <span class="glyphicon glyphicon-globe"></span> [Sass](http://sass-lang.com/)中要将这个东西封装一下，写一个mixin，传入高度，立刻给我生成一个等边三角形的CSS代码，那就省力了吧，嘿嘿，实现不了！
+其实这么简单的事情，是不值得太高兴的，问题来了，如果我想在 <span class="fa fa-link"></span> [Sass](http://sass-lang.com/)中要将这个东西封装一下，写一个mixin，传入高度，立刻给我生成一个等边三角形的CSS代码，那就省力了吧，嘿嘿，实现不了！
 
 原因很简单，在Sass中，能够进行简单的加减乘除四则运算，但是没有内建的类似JS的`Math.sin()`或`Math.cos()`等三角函数的计算方法，傻眼了吧，没有三角函数，就没法做上面的事儿啊！
 
 #### 数值方法 (NUMERICAL METHODS)
-问题总是可以解决的，但是我的大部分数学知识早就灰飞烟灭了，如果你掌握了那啥 <span class="glyphicon glyphicon-globe"></span> [数值分析](http://zh.wikipedia.org/wiki/数值分析), 那啥 <span class="glyphicon glyphicon-globe"></span> [CORDIC算法](http://en.wikipedia.org/wiki/Cordic)，那啥 <span class="glyphicon glyphicon-globe"></span> [Chebyshev多项式](http://en.wikipedia.org/wiki/Chebyshev_polynomial)，或者那啥 <span class="glyphicon glyphicon-globe"></span> [极值逼近算法](http://en.wikipedia.org/wiki/Remez_algorithm)，这就不是问题啦！天哪，我在上面写了点啥？所以啊，我复制、粘贴了 <span class="glyphicon glyphicon-globe"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)来实现咱们的`sin()`或者`cos()`计算：
+问题总是可以解决的，但是我的大部分数学知识早就灰飞烟灭了，如果你掌握了那啥 <span class="fa fa-link"></span> [数值分析](http://zh.wikipedia.org/wiki/数值分析), 那啥 <span class="fa fa-link"></span> [CORDIC算法](http://en.wikipedia.org/wiki/Cordic)，那啥 <span class="fa fa-link"></span> [Chebyshev多项式](http://en.wikipedia.org/wiki/Chebyshev_polynomial)，或者那啥 <span class="fa fa-link"></span> [极值逼近算法](http://en.wikipedia.org/wiki/Remez_algorithm)，这就不是问题啦！天哪，我在上面写了点啥？所以啊，我复制、粘贴了 <span class="fa fa-link"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)来实现咱们的`sin()`或者`cos()`计算：
 
-<figure class="equation">$$ \begin{aligned} \sin x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n+1)!}}x^{{2n+1}} = x - {\frac {x^{3}}{3!}} + {\frac {x^{5}}{5!}} - \cdots \\\\ \cos x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n)!}}x^{{2n}} = 1 - {\frac {x^{2}}{2!}} + {\frac {x^{4}}{4!}} - \cdots \end{aligned} $$</figure>
+<figure class="equation">$$ \begin{aligned} \sin x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n+1)!}}x^{{2n+1}} = x - {\frac {x^{3}}{3!}} + {\frac {x^{5}}{5!}} - \cdots \\\\\\ \cos x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n)!}}x^{{2n}} = 1 - {\frac {x^{2}}{2!}} + {\frac {x^{4}}{4!}} - \cdots \end{aligned} $$</figure>
 
 哦，天那，上面又是啥玩意儿？习惯一下，随便看两眼…… 不管如何，我们要依靠上面的算法来解决问题啊亲！所以我们需要把以上的算法翻译成Sass能认的语法。
 
 #### 乘方 (POWER)
-上面的 <span class="glyphicon glyphicon-globe"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)中，我们需要对x<sup>2n+1</sup>和x<sup>2n</sup>进行展开操作，但是在现有的Sass中没有这种运算方法，所以我们先先写个_power function_:
-<figure class="equation">$$ \begin{aligned} b^{n} & = {\overbrace {b \times \cdots \times b}^{n}} \\\\ b^{-n} & = {\frac {1}{\underbrace {b \times \cdots \times b}_{n}}} \end{aligned} $$</figure>
+上面的 <span class="fa fa-link"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)中，我们需要对x<sup>2n+1</sup>和x<sup>2n</sup>进行展开操作，但是在现有的Sass中没有这种运算方法，所以我们先先写个_power function_:
+<figure class="equation">$$ \begin{aligned} b^{n} & = {\overbrace {b \times \cdots \times b}^{n}} \\\\\\ b^{-n} & = {\frac {1}{\underbrace {b \times \cdots \times b}_{n}}} \end{aligned} $$</figure>
 
 将“火星语”翻译成Sass能理解的语法：
 {% highlight scss %}
@@ -77,7 +77,7 @@ tags: Sass CSS
 
 #### 阶乘 (FACTORIAL)
 表达式(2n+1)!和(2n)!需要一个阶乘算法的函数，不过这要比上面简单的多：
-<figure class="equation">$$ n! = { \begin{cases} 1 & \text{if } n = 0 \\\\ (n-1)! \times n & \text{if } n > 0 \end{cases} } $$</figure>
+<figure class="equation">$$ n! = { \begin{cases} 1 & \text{if } n = 0 \\\\\\ (n-1)! \times n & \text{if } n > 0 \end{cases} } $$</figure>
 
 同样，将算法转换成Sass的语法：
 {% highlight scss %}
@@ -93,7 +93,7 @@ tags: Sass CSS
 {% endhighlight %}
 
 #### 正弦、余弦和正切 (SINES, COSINES AND TANGENTS)
-现在，必要的算法工具已准备妥当，可以创建我们的三角函数算法了，让我们跟随着 <span class="glyphicon glyphicon-globe"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)的脚步，奔跑吧，兄弟！
+现在，必要的算法工具已准备妥当，可以创建我们的三角函数算法了，让我们跟随着 <span class="fa fa-link"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)的脚步，奔跑吧，兄弟！
 {% highlight scss %}
 @function pi() {
   @return 3.14159265359;
@@ -142,20 +142,15 @@ tags: Sass CSS
 Yeah! Give me five!
 
 有了以上利器，我刚才说的在Sass中写等边三角形，简直就易如反掌了啊！
-{% highlight scss %}
-@mixin clip-path($clip) {
-  -webkit-clip-path: $clip;
-  -moz-clip-path: $clip;
-  -ms-clip-path: $clip;
-  clip-path: $clip;
-}
 
+*注：这里我在scss里把私有前缀省略了，建议编译的时候使用autoprefixer等工具帮助你自动添加前缀，在scss中，我们只写标准css语法*
+{% highlight scss %}
 @mixin equ-triangle($height){
   $h: $height;
   $w: tan(30deg) * 2 * $h;
   width: $w;
   height: $h;
-  @include clip-path(polygon($w/2 0, $w $h, 0 $h));
+  clip-path: polygon($w/2 0, $w $h, 0 $h);
 }
 
 .my-triangle {
@@ -211,4 +206,4 @@ Yeah! Give me five!
 look! 这样做得好处就是内联svg的兼容性比上面的`clip-path`强好多。
 <div class="svg-triangle"></div>
 <hr>
-以上内容基本参考自：<span class="glyphicon glyphicon-globe"></span> <https://unindented.org/articles/trigonometry-in-sass/>
+以上内容基本参考自：<span class="fa fa-link"></span> <https://unindented.org/articles/trigonometry-in-sass/>

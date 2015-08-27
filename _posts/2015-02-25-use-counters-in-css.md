@@ -220,6 +220,6 @@ li:before {
 
 参考文章：
 
-<span class="glyphicon glyphicon-globe"></span> <https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Counters>
+<span class="fa fa-link"></span> <https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Counters>
 
-<span class="glyphicon glyphicon-globe"></span> <http://basicuse.net/articles/pl/textile/html_css/how_to_use_counters_in_css>
+<span class="fa fa-link"></span> <http://basicuse.net/articles/pl/textile/html_css/how_to_use_counters_in_css>
