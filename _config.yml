@@ -8,7 +8,7 @@ url:         "http://jimyuan.github.io/blog"
 date_format: "%b %-d, %Y"
 excerpt_separator: <!--more-->
 touch_icons: [57, 72, 76, 114, 144, 152, 180]
-exclude: ["node_modules", "gulpfile.js", "package.json", "README.md", "LICENSE.txt]
+exclude: ["node_modules", "gulpfile.js", "package.json", "README.md", "LICENSE.txt"]
 
 # RSS
 show_rss:
