@@ -1,8 +1,8 @@
 # Site settings
 title:       摄氏零度
 email:
-author:      "Jim YUan"
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      "Jim Yuan"
+description: "This is Jim\'s Blog. We talk about Front-end, Lego, Photo-graph"
 baseurl:     /blog
 url:         "http://jimyuan.github.io/blog"
 date_format: "%b %-d, %Y"

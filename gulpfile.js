@@ -105,11 +105,8 @@
   gulp.task('watch', function () {
       gulp.watch(_.sass + '/**/*.scss', ['sass']);
       gulp.watch(_.js + '/**/*.js', ['js']);
-      gulp.watch(['*.{html,md}', '_includes/*', '_layouts/*', '_posts/*'], ['jekyll-rebuild']);
-      gulp.watch(_.img + '/**/*.{jpg,png}', function(){
-        return gulp.src(_.img + '/**/*.{jpg,png}')
-          .pipe($.browserSync.reload());
-      })
+      gulp.watch(['*.{html,md}', '_includes/*', '_layouts/*', '_posts/*', _.img + '/**/*.{jpg,png}'], ['jekyll-rebuild']);
+
   });
 
   //|**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
