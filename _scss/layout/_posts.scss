@@ -3,6 +3,10 @@
   margin: 0;
 }
 
+.post-content {
+  word-break: break-all;
+}
+
 .posts .post {
   margin-bottom: 0.75em;
   border-bottom: thin solid #f3f3f3;

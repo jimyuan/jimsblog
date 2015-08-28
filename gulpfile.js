@@ -73,7 +73,7 @@
   //|   and site (for future jekyll builds)
   //|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
   gulp.task('sass', function () {
-    return gulp.src(_.sass + '/**/*.scss')
+    return gulp.src(_.sass + '/*.scss')
       .pipe($.plumber({ errorHandler: handleError}))
       .pipe($.sourcemaps.init())
       .pipe($.sass({
