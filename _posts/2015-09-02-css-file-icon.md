@@ -27,9 +27,9 @@ tags: css
 
 scss 代码：
 {% highlight scss %}
-$iw: 100px;       // icon width
-$ih: $iw * 1.32;  // icon height
-$br: $ih / 20;    // icon radius
+$iw: 80px;       // icon width
+$ih: $iw * 1.3;  // icon height
+$br: $ih / 20;   // icon radius
 
 // define icon type & colors
 $types: (
@@ -109,5 +109,7 @@ $types: (
 <div class="file-type file-doc" data-type="DOC"></div>
 <div class="file-type file-xls" data-type="XLS"></div>
 <div class="file-type file-ppt" data-type="PPT"></div>
+
+不过还是有点bug，右上角的尺寸根据设定的图标尺寸的某个比例计算得出后，由于 Scss 计算的精度问题而可能产生细缝，要稍微调整下长宽以及比例的数值。
 
 其实，只用一个容器，通过 CSS 实现一些复杂的图案，一直有大神在搞啊，请看这个网站  [one-div.com](http://one-div.com/)，你看了某些图标大概会惊叹，这玩意儿用一个容器就实现了？呵呵……
