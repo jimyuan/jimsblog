@@ -1,0 +1,88 @@
+.css-icon {
+  font-size: 4em;
+
+  > span:nth-child(1) {
+    color: blue;
+  }
+
+  > span:nth-child(2) {
+    color: green;
+  }
+
+  > span:nth-child(3) {
+    color: orange;
+  }
+}
+
+$iw: 100px;       // icon width
+$ih: $iw * 1.32;  // icon height
+$br: $ih / 20;    // icon radius
+
+// icon type colors
+$types: (
+  'doc': blue,
+  'xls': green,
+  'ppt': orange
+);
+
+.file-type {
+  width: $iw;
+  height: $ih;
+  display: inline-block;
+  margin-bottom: 20px;
+  position: relative;
+  border-style: solid;
+  border-width: 0 0 $iw $ih / 2;
+  border-radius: $br;
+
+  &:before,
+  &:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: ($ih - $iw) / 2 ($iw / 2 - $ih / 4);
+  }
+
+  &:before {
+    z-index: 2;
+    border-bottom-left-radius: $br;
+  }
+
+  &:after {
+    content: attr(data-type);
+    z-index: 1;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    font-family: Monaco, monospace;
+    font-size: $iw * 0.18;
+    color: white;
+    text-indent:  -$iw * 0.7;
+    line-height: $ih * 1.4;
+  }
+}
+
+@each $type, $bg in $types {
+  .file-#{$type} {
+    border-color: $bg;
+
+    &:before {
+      border-color: lighten($bg, 10%);
+      box-shadow: -5px 5px 5px darken($bg, 5%);
+    }
+
+    &:after {
+      border-color: $bg;
+    }
+
+    &:before,
+    &:after {
+      border-top-color: transparent;
+      border-right-color: transparent;
+    }
+  }
+}
