@@ -22,5 +22,4 @@ archive.org 这个网站可以从历史长河中追寻一些逝去的网页快�
 
 ![the-fuck]({{'/img/little-misc/the-fuck.gif' | prepend: site.baseurl}})
 
-
-<script src="http://www.xiami.com/widget/player-single?uid=0&sid=1774565074&mode=js"></script>
+<embed src="http://www.xiami.com/widget/0_1774565074/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>
