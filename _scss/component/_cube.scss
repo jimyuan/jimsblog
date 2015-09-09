@@ -1,4 +1,4 @@
-$cube-width: 26px;
+$cube-width: 22px;
 $alpha: 0.8;
 
 .cube-container {
@@ -6,7 +6,7 @@ $alpha: 0.8;
   display: inline-block;
   perspective: $cube-width * 3;
   vertical-align: middle;
-  margin-right: 15px;
+  margin-right: 10px;
 }
 
 .cube {

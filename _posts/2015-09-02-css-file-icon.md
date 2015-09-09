@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  用 CSS 绘制文档图标
-tags: css
+tags: CSS
 ---
 
 貌似前两天在看微信公众号推送来得一些技术文章，其中有一个叫 cssmagic 的小伙，他写了篇[重拾 CSS 的乐趣](https://github.com/cssmagic/blog/issues/52)的文章，蛮有意思，有时候用 css 来实现一些图形效果，对于当事人来讲，目的是什么？作者和我的观点一致：主要是好玩！文章中提及到了一个叫 [fileicon.css](https://github.com/picturepan2/fileicon.css) 的开源项目，的确蛮好玩，不过去看看该项目的 [issue](https://github.com/picturepan2/fileicon.css/issues/2) 就知道，实现上存在着一些瑕疵，cssmagic 通过了一些“奇淫技巧”解决了使用该 css 框架生成 file icon 时右上角无法透明的缺点，不过仍然还存在着代码冗余等一些问题，不过目前看来，还没有一个更好的解决方法。
