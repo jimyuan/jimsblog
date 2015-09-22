@@ -26,3 +26,23 @@ _前言：其实这份文档是写给自己用作备份的。以下设置针对�
       * alfred: 逆天工具
       * xtrafinder: 系统 Finder 增强工具
 * [__oh my zsh:__](http://ohmyz.sh/) 安装—— `sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+### 本人常用 atom 插件：
+* ConvertToUtf8Plus
+* angularjs
+* atom-material-syntax
+* atom-material-ui
+* autocomplete-paths
+* color-picker
+* emmet
+* file-icons
+* japanese-wrap
+* minimap
+* open-recent
+* simplified-chinese-menu
+* tree-view-git-status
+
+`apm install ConvertToUtf8Plus angularjs atom-material-syntax atom-material-ui autocomplete-paths color-picker emmet file-icons japanese-wrap minimap open-recent simplified-chinese-menu tree-view-git-status`
+
+### 本人常用 oh my zsh 插件(~/.zshrc)：
+`plugins=(git tmux atom sublime autojump colored-man osx brew thefuck brew-cask bower common-aliases npm)`
