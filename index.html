@@ -8,13 +8,10 @@ layout: default
       <div class="post py3">
         <p class="post-meta">{{ post.date | date: site.date_format }}</p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-        <p class="post-summary">
-          {% if post.summary %}
-            {{ post.summary }}
-          {% else %}
-            {{ post.excerpt }}
-          {% endif %}
-        </p>
+        {{ post.excerpt }}
+        <div class="right-align">
+          <a href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-hand-o-right"></i> 阅读全文 </a>
+        </div>
       </div>
     {% endfor %}
   </div>

@@ -4,7 +4,9 @@ title:  Angularjs Filter 用法备忘
 tags: angularjs
 ---
 
-老是忘记 Angularjs 的一些语法和有哪些内置 filter，写个备忘。
+老是忘记 Angularjs 的一些语法和有哪些内置 filter，写个备忘，我这边用 ng 框架做开发的项目还真是不多，只能自己找点小项目练练手了，一段时间不做就立马生疏啊。
+
+<!--more-->
 
 ## 在模板中使用 filter
 最简单的，用管道符 “|”：
