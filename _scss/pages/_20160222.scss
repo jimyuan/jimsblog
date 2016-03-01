@@ -1,0 +1,15 @@
+[alt^='akangon'] {
+  display: block;
+  max-width: 100%;
+  border: 5px solid rgba(gray, 0.6);
+  border-radius: 10px;
+
+   + .fa {
+     color: blue;
+     margin-left: 10px;
+   }
+
+   ~ span {
+     color: blue;
+   }
+}
