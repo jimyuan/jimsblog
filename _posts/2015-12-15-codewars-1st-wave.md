@@ -10,7 +10,7 @@ tags: js codewars
 
 <!--more-->
 
-##1. 将句子的首字母大写
+## 1. 将句子的首字母大写
 {% highlight text %}
 'hello javascript' => 'Hello Javascript'
 {% endhighlight %}
@@ -23,7 +23,7 @@ String.prototype.toJadenCase = function () {
 
 __小结:__ 本体应该是挑战前期遇到的简单题目，主要考点应该是 `replace` 的高级用法，利用正则匹配，第二个参数是个 callback，我们用的比较少。
 
-##2. 将数组扁平化，仅转化一层即可
+## 2. 将数组扁平化，仅转化一层即可
 {% highlight text %}
 [1,[2,3],[4,5]] => [1,2,3,4,5]
 {% endhighlight %}
@@ -46,7 +46,7 @@ var flatten = function (array){
 
 __小结:__ 就你会用 push.apply？人家巧妙的运用了 concat.apply，将需要扁平化的数组当做参数传递了进去，我还在傻乎乎的用循环一个一个去 push，唉~~~
 
-##3. 为数组添加方法，寻找该数组中的最大值
+## 3. 为数组添加方法，寻找该数组中的最大值
 本题总算找回些颜面，我做出的基本就是最优解之一：
 {% highlight js %}
 Array.prototype.max = function(){
@@ -61,7 +61,7 @@ Array.prototype.max = function() {
 {% endhighlight %}
 __小结:__ 这 `...` 何许意思？查了下资料，原来是 ES6 中新增的运算符，虽然现在用途还不大，不过还是开阔了眼界！那回头再看第二题，类推一下，那个高票答案也能改写成 `return [].concat(...array)` 了吧，嘿嘿！
 
-##4. 设计一个只运行一次的函数
+## 4. 设计一个只运行一次的函数
 说实话，这个对我来讲，真有点摸不着头脑，只能看下现成答案了：
 {% highlight js %}
 function once(fn) {
@@ -76,7 +76,7 @@ function once(fn) {
 {% endhighlight %}
 __小结:__ 利用闭包的特性，将判断变量常驻内存，closure is my short slab！
 
-##5. 数组或字符串处理
+## 5. 数组或字符串处理
 {% highlight text %}
 'abbdcc' => ['a','b','d','c']
 [3,4,4,6,2,2] => [3,4,6,2]
@@ -93,7 +93,7 @@ function uniqueInOrder(it) {
 {% endhighlight %}
 __小结:__ 这题我做的时候复杂了点，还要先判断是 String 还是 Array，将 String 转成 Array 后才进行处理，后来这个高票答案告诉我，String 也是可以通过下标取值的，唉，low 了！另一个小技巧就是，last 变量赋值传参两不误！
 
-##6. 将句子中单词长度>4的单词反写
+## 6. 将句子中单词长度>4的单词反写
 {% highlight text %}
 'black or white' => 'kcalb or etihw'
 {% endhighlight %}
@@ -115,7 +115,7 @@ function spinWords(str){
 {% endhighlight %}
 __小结:__ 类似这种字符串处理，有时用正则是最有效的手段，但正则也是一个比较难掌握的技巧，要苦练！另外这个 `replace` 的运用技巧，咱在第一题里已经见过了。
 
-##7. 将rgb值转为16进制，参数范围在0-255，超出范围则取最近有效值
+## 7. 将rgb值转为16进制，参数范围在0-255，超出范围则取最近有效值
 {% highlight text %}
 128,180, 250 => 80B4FA
 120,300, -10 => 78FF00
@@ -131,7 +131,7 @@ function rgb(r, g, b){
 {% endhighlight %}
 __小结:__ 精华在此处 `Math.max(0, Math.min(255, v))`，巧妙的利用 `Math.min()` 和 `Math.max()` 运算，将 v 值限定在了指定的范围内！另外注意 `toString()` 的用法，此方法可以通过传入进制参数，将 Number 类型在转成 String 类型的同时，转换成指定的进制，进制范围在 2-36 之间。
 
-##8. 在数组中寻找与给定单词含相同字母及长度的字符串
+## 8. 在数组中寻找与给定单词含相同字母及长度的字符串
 {% highlight text %}
 给定字符串 'aabb'，则：
 ['abab', 'abcd', 'aabbb', 'bbaa', 'babac'] => ['abab', 'bbaa']
@@ -146,7 +146,7 @@ function anagrams(word, words) {
 {% endhighlight %}
 __小结:__ 这题主要考思路，思路对了，这个算法就简单了，将字符串拆分成数组，经过排列后再 join，这样就算再无序的两组 String 也可以在同一个基础上进行比较了。
 
-##9. 根据给定的选择符字符串，计算2者的权重
+## 9. 根据给定的选择符字符串，计算2者的权重
 {% highlight text %}
 compare('div.class #id', 'div.class') => 'div.class #id'
 compare('div.class', '#id') => '#id'
@@ -161,7 +161,7 @@ function compare(a,b){
 {% endhighlight %}
 __小结:__ 这题没啥好小结，这就是算法的精妙，我读书少，甘拜下风！
 
-##10. 将数组中的0移到末尾
+## 10. 将数组中的0移到末尾
 {% highlight text %}
 ['a',0,0,3,'b',0,8] => ['a',3,'b',8,0,0,0]
 {% endhighlight %}

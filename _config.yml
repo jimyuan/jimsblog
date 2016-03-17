@@ -60,8 +60,6 @@ share_hackernews: false
 # Build settings
 gems:         [jekyll-paginate]
 paginate:     8
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+markdown:     kramdown
 sass:
   compressed: true

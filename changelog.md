@@ -3,6 +3,7 @@ layout: page
 title: 更新日志
 permalink: /changelog/
 ---
+* _2016-03-17_ 根据 github 的要求，修改 markdown 引擎为 kramdown
 * _2015-08-27_ 上新版！上新版！上新版！
 * _2015-02-25_ 添加disqus的评论功能
 * _2015-02-16_ 添加百度统计工具

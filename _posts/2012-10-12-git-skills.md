@@ -4,65 +4,93 @@ title:  Git 常见问题
 tags: Git
 ---
 
-#### 如何Create和Clone一个新的 git repo
+## 如何 Create 和 Clone 一个新的 git repo
 
-#####创建一个remote git repo
+### 创建一个 remote git repo
 
 <!--more-->
 
-<kbd>git init --bare test.git</kbd>
+```
+git init --bare test.git
+```
 
-#####Clone repo
-<kbd>git clone test.git</kbd>
+### Clone repo
+```
+git clone test.git
+```
 
-#####创建一些文件并checkin
-<kbd>git add -A git commit -m "some message"</kbd>
+### 创建一些文件并 checkin
+```
+git add -A git commit -m "some message"
+```
 
-#####第一次 Push到remote repo的 master branch
-<kbd>git push origin master</kbd>
+### 第一次 Push 到 remote repo 的 master branch
+```
+git push origin master
+```
 
 ----
 
-#### 如何将local repo连接到新的remote repo
+## 如何将 local repo 连接到新的 remote repo
 
-#####创建一个新的remote repo
-<kbd>git init --bare test.git</kbd>
+### 创建一个新的 remote repo
+```
+git init --bare test.git
+```
 
-#####回到本地，将remote repo添加的local repo
-<kbd>git remote add origin /xxx/test.git</kbd>
+### 回到本地，将 remote repo 添加的 local repo
+```
+git remote add origin /xxx/test.git
+```
 
-#####初次将所有本地内容push到remote repo上，并建立remote master branch
-<kbd>git push origin master</kbd>
+### 初次将所有本地内容 push 到 remote repo 上，并建立 remote master branch
+```
+git push origin master
+```
 
-#####让本地master branch跟踪remote, 让本地在push的时候自动与remote branch合并,在pull的时候自动从远程获取更新
-<kbd>git config branch.[branch-name].remote [remote-name] </kbd><br>
-<kbd>git config branch.[branch-name].merge [remote-master]</kbd>
-
----
-
-#### 如何删除远程的分支
-
-#####假设已经用以下命令建立了一个远程分支
-<kbd>git push origin newfeature</kbd>
-
-#####可以用以下命令删除这个远程分支
-<kbd>git push origin :newfeature</kbd>
-
-#####如果要删除本地分支，可以用以下命令
-<kbd>git branch -d newfeature</kbd>
+### 让本地 master branch 跟踪 remote, 让本地在 push 的时候自动与 remote branch 合并，在 pull 的时候自动从远程获取更新
+```
+git config branch.[branch-name].remote [remote-name]
+git config branch.[branch-name].merge [remote-master]
+```
 
 ---
 
-#### 合并多个commit至一个commit的简单方法
+## 如何删除远程的分支
 
-#####切换至主要分支，例如master或releases/R3
-<kbd>git co releases/R3</kbd><br>
-<kbd>git fetch</kbd> (# this may be necessary (depending on your git config) to receive updates on origin/master git pull)
+### 假设已经用以下命令建立了一个远程分支
+```
+git push origin newfeature
+```
 
-#####将feature brach合并入主要分支
-<kbd>git merge NS-168</kbd>
+### 可以用以下命令删除这个远程分支
+```
+git push origin :newfeature
+```
 
-#####Reset 主要分支至远程origin的状态
-<kbd>git reset origin/releases/R3</kbd>
+### 如果要删除本地分支，可以用以下命令
+```
+git branch -d newfeature
+```
 
-#####Git 将unstage所有本地新的更改,然后我们可以将这些在feature_brach的生成的更新作为一个commit
+---
+
+## 合并多个 commit 至一个 commit 的简单方法
+
+### 切换至主要分支，例如 master 或 releases/R3
+```
+git co releases/R3
+git fetch
+```
+
+### 将 feature brach 合并入主要分支
+```
+git merge NS-168
+```
+
+### Reset 主要分支至远程 origin 的状态
+```
+git reset origin/releases/R3
+```
+
+### Git 将 unstage 所有本地新的更改,然后我们可以将这些在 feature_brach 的生成的更新作为一个 commit
