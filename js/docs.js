@@ -19,8 +19,16 @@
   }
 
   // 开新窗口的link
-  var linkArr = document.querySelectorAll('.fa-link+a');
-  for(var i=0, x=linkArr.length; i<x; i++){
-    linkArr[i].target = 'new';
+  function newWin() {
+    var curHost = location.hostname,
+        curLink = document.querySelectorAll('.post-content a'),
+        reg = new RegExp('^(http|https)://' + curHost), obj;
+    for(var i = 0, x = curLink.length; i < x; i ++){
+      obj = curLink[i];
+      if(!reg.test(obj.href)) {
+        obj.target = 'new';
+      }
+    }
   }
+  newWin();
 })();

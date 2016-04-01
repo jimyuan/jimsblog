@@ -29,13 +29,13 @@ __HTML:__
 {% highlight css %}
 body {
   /* 重置计数器成0 */
-  counter-reset: section; 
+  counter-reset: section;
 }
 h6:before {
   /* 增加计数器值 */
   counter-increment: section;
   /* 显示计数器 */
-  content: "Section " counter(section) ": "; 
+  content: "Section " counter(section) ": ";
 }
 {% endhighlight %}
 
@@ -160,7 +160,7 @@ li:before {
     <ol>
       <li>item</li>
       <li>item</li>
-      <li>item 
+      <li>item
         <ol>
           <li>item</li>
           <li>item</li>
@@ -191,7 +191,7 @@ li:before {
       <ol>
         <li>item</li>
         <li>item</li>
-        <li>item 
+        <li>item
           <ol>
             <li>item</li>
             <li>item</li>
@@ -220,6 +220,6 @@ li:before {
 
 参考文章：
 
-<span class="fa fa-link"></span> <https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Counters>
+[<span class="fa fa-link"></span> https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Counters](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Counters)
 
-<span class="fa fa-link"></span> <http://basicuse.net/articles/pl/textile/html_css/how_to_use_counters_in_css>
+[<span class="fa fa-link"></span> http://basicuse.net/articles/pl/textile/html_css/how_to_use_counters_in_css](http://basicuse.net/articles/pl/textile/html_css/how_to_use_counters_in_css)

@@ -1,0 +1,16 @@
+[alt^='nz:'] {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  border: 10px solid lighten(gray, 30%);
+
+   + .fa {
+     color: $blue;
+     margin-left: 10px;
+   }
+
+   ~ span {
+     font-size: 0.8rem;
+     color: $blue;
+   }
+}

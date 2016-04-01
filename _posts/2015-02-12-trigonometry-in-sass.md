@@ -49,13 +49,13 @@ tags: Sass CSS
 #### 数值方法 (NUMERICAL METHODS)
 问题总是可以解决的，但是我的大部分数学知识早就灰飞烟灭了，如果你掌握了那啥 <span class="fa fa-link"></span> [数值分析](http://zh.wikipedia.org/wiki/数值分析), 那啥 <span class="fa fa-link"></span> [CORDIC算法](http://en.wikipedia.org/wiki/Cordic)，那啥 <span class="fa fa-link"></span> [Chebyshev多项式](http://en.wikipedia.org/wiki/Chebyshev_polynomial)，或者那啥 <span class="fa fa-link"></span> [极值逼近算法](http://en.wikipedia.org/wiki/Remez_algorithm)，这就不是问题啦！天哪，我在上面写了点啥？所以啊，我复制、粘贴了 <span class="fa fa-link"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)来实现咱们的`sin()`或者`cos()`计算：
 
-<figure class="equation">$$ \begin{aligned} \sin x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n+1)!}}x^{{2n+1}} = x - {\frac {x^{3}}{3!}} + {\frac {x^{5}}{5!}} - \cdots \\\\\\ \cos x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n)!}}x^{{2n}} = 1 - {\frac {x^{2}}{2!}} + {\frac {x^{4}}{4!}} - \cdots \end{aligned} $$</figure>
+<figure class="equation">$$ \begin{aligned} \sin x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n+1)!}}x^{{2n+1}} = x - {\frac {x^{3}}{3!}} + {\frac {x^{5}}{5!}} - \cdots \\\\ \cos x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n)!}}x^{{2n}} = 1 - {\frac {x^{2}}{2!}} + {\frac {x^{4}}{4!}} - \cdots \end{aligned} $$</figure>
 
 哦，天那，上面又是啥玩意儿？习惯一下，随便看两眼…… 不管如何，我们要依靠上面的算法来解决问题啊亲！所以我们需要把以上的算法翻译成Sass能认的语法。
 
 #### 乘方 (POWER)
 上面的 <span class="fa fa-link"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)中，我们需要对x<sup>2n+1</sup>和x<sup>2n</sup>进行展开操作，但是在现有的Sass中没有这种运算方法，所以我们先先写个_power function_:
-<figure class="equation">$$ \begin{aligned} b^{n} & = {\overbrace {b \times \cdots \times b}^{n}} \\\\\\ b^{-n} & = {\frac {1}{\underbrace {b \times \cdots \times b}_{n}}} \end{aligned} $$</figure>
+<figure class="equation">$$ \begin{aligned} b^{n} & = {\overbrace {b \times \cdots \times b}^{n}} \\\\ b^{-n} & = {\frac {1}{\underbrace {b \times \cdots \times b}_{n}}} \end{aligned} $$</figure>
 
 将“火星语”翻译成Sass能理解的语法：
 {% highlight scss %}
@@ -77,7 +77,7 @@ tags: Sass CSS
 
 #### 阶乘 (FACTORIAL)
 表达式(2n+1)!和(2n)!需要一个阶乘算法的函数，不过这要比上面简单的多：
-<figure class="equation">$$ n! = { \begin{cases} 1 & \text{if } n = 0 \\\\\\ (n-1)! \times n & \text{if } n > 0 \end{cases} } $$</figure>
+<figure class="equation">$$ n! = { \begin{cases} 1 & \text{if } n = 0 \\\\ (n-1)! \times n & \text{if } n > 0 \end{cases} } $$</figure>
 
 同样，将算法转换成Sass的语法：
 {% highlight scss %}
@@ -143,7 +143,7 @@ Yeah! Give me five!
 
 有了以上利器，我刚才说的在Sass中写等边三角形，简直就易如反掌了啊！
 
-*注：这里我在scss里把私有前缀省略了，建议编译的时候使用autoprefixer等工具帮助你自动添加前缀，在scss中，我们只写标准css语法*
+*注：这里我在scss里把私有前缀省略了，建议编译的时候使用 [autoprefixer](https://www.npmjs.com/package/autoprefixer) 等 POSTCSS 工具帮助你自动添加前缀，在scss中，我们只写标准css语法*
 {% highlight scss %}
 @mixin equ-triangle($height){
   $h: $height;
@@ -206,4 +206,4 @@ Yeah! Give me five!
 look! 这样做得好处就是内联svg的兼容性比上面的`clip-path`强好多。
 <div class="svg-triangle"></div>
 <hr>
-以上内容基本参考自：<span class="fa fa-link"></span> <https://unindented.org/articles/trigonometry-in-sass/>
+以上内容基本参考自：[<span class="fa fa-link"></span> https://unindented.org/articles/trigonometry-in-sass/](https://unindented.org/articles/trigonometry-in-sass/)
