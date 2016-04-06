@@ -30,10 +30,10 @@ Ticktock, Ticktock，出发的日子临近了，行装检查了一遍又一遍�
 ## [Day-1(12/18) 路漫漫其修远兮]({{ '/2016/03/28/lost-in-middle-earth-day-1.html' | prepend: site.baseurl }})
 上海(Shanghai) -> 香港(Hongkong) -> 奥克兰(Auckland)
 
-## [Day-2(12/19) 天苍苍，野茫茫，风吹草低见牛羊]({{ '/2016/03/31/lost-in-middle-earth-day-2.html' | prepend: site.baseurl }})
+## [Day-2(12/19) 风吹草低见牛羊]({{ '/2016/03/31/lost-in-middle-earth-day-2.html' | prepend: site.baseurl }})
 奥克兰(Auckland) -> 基督城(Christchurch) -> 霍基蒂卡(Hokitika)
 
-## Day-3(12/20) 林间徒步好风光
+## [Day-3(12/20) 林间徒步好风光]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})
 霍基蒂卡(Hokitika) -> 福克斯冰川(Fox Glacier)
 
 ## Day-4(12/21) 冰川风雨起苍黄，末日小车走匆忙
