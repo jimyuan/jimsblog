@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  中土流连——新西兰自驾之旅（Day-1）
+title:  Lost in Middle Earth (Day-1)
 tags: middle-earth
 ---
 
