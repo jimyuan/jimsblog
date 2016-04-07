@@ -14,19 +14,15 @@
   <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}">
 
   <!-- Fonts -->
-  <link href="//fonts.useso.com/css?family=Merriweather:900,900italic,300,300italic" rel="stylesheet" type="text/css">
-  <link href="//fonts.useso.com/css?family=Lato:900,300" rel="stylesheet" type="text/css">
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="{{ '/css/docs.css' | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 
   <!-- Verifications -->
-  {% if site.google_verification %}
-  <meta name="google-site-verification" content="{{ site.google_verification }}">
-  {% endif %}
-
+  {% if site.google_verification %}<meta name="google-site-verification" content="{{ site.google_verification }}">{% endif %}
   <!-- Icons -->
+
   {% for icon in site.touch_icons %}
   <link href="{{ '/img/ios/' | prepend: site.baseurl }}touch-icon-{{icon}}.png" sizes="{{icon}}x{{icon}}" rel="apple-touch-icon-precomposed">{% endfor %}
   <link rel="icon" type="image/png" href="{{'/favicon.ico' | prepend: site.baseurl}}">
