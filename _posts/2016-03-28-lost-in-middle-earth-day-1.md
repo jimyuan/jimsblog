@@ -39,4 +39,4 @@ tags: middle-earth
 
 ![nz: distance]({{ '/img/nz/distance.jpg' | prepend: site.baseurl }})
 
-### 请看下篇：[Day-2(12/19) 风吹草低见牛羊]({{ '/2016/03/31/lost-in-middle-earth-day-2.html' | prepend: site.baseurl }})
+### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-2(12/19) 风吹草低见牛羊]({{ '/2016/03/31/lost-in-middle-earth-day-2.html' | prepend: site.baseurl }})

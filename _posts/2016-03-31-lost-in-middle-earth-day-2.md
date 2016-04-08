@@ -159,4 +159,4 @@ tags: middle-earth
 ![nz: overview]({{ '/img/nz/hokitika-overview.jpg' | prepend: site.baseurl }})
 
 
-### 请看下篇：[Day-3(12/20) 林间徒步好风光]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})
+### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-3(12/20) 林间徒步好风光]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})

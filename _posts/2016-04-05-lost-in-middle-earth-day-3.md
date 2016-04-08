@@ -33,7 +33,7 @@ tags: middle-earth
 总算解决个心头小疙瘩，心情大好啊！恰在此时，一汪湛蓝直抵心头，美呆！延指示开到湖边，停车驻足，再次观望，依然美呆！湖边已然停好了4、5辆车了。看上去有钓鱼的，湖里已经有人在玩皮划艇了，风稍微有点大啊，有点担心他们的小舟啊……
 
 ![nz: 皮划艇]({{ '/img/nz/kayak.jpg' | prepend: site.baseurl }})
-<i class="fa fa-hand-o-up"></i> <span>老外真会玩啊！</span>
+<i class="fa fa-hand-o-up"></i> <span>泛舟 Lake Ianthe，老外真会玩啊！</span>
 
 此湖唤作 [<i class="fa fa-map-marker"></i> Lake Ianthe]( http://dwz.cn/32VeNo)，今儿查地图，竟然也有个中文译名——艾恩西湖。这美景切勿辜负，那咱就在这景致里歇歇再走，拿些零食与啤酒，就着这秀色美餐一顿吧。
 
@@ -46,31 +46,35 @@ tags: middle-earth
 <i class="fa fa-hand-o-up"></i> <span>鱼不能乱钓，要有规矩啊！这才叫可持续发展！</span>
 
 ![nz: fiser]({{ '/img/nz/fisher-by-the-lake.jpg' | prepend: site.baseurl }})
-<i class="fa fa-hand-o-up"></i> <span>嘿，我说，你有许可证吗？</span>
+<i class="fa fa-hand-o-up"></i> <span>Yo, show me your license!</span>
 
-侧风蛮大的，皮划艇老外（谁是老外）终于精疲力尽爬上岸了。这秀色也餐的差不多了，起身继续吧。要说这中土到处是美景啊，我们在 [<i class="fa fa-map-marker"></i> Whataroa]( http://dwz.cn/32VFkI) 加了个油，调皮了一会儿，然后一脚油门，又有大美湖们接踵而至。
+侧风蛮大的，皮划艇老外（谁是老外）终于精疲力尽爬上岸了。在这湖边看着这群人惬意的生活，心想这何时才能成为我们的常态啊，不说了，喝酒！当然，离开之前，镜头全方位咔嚓行动，必须的！
 
 ![nz: 皮划艇]({{ '/img/nz/play-kayak.jpg' | prepend: site.baseurl }})
 <i class="fa fa-hand-o-up"></i> <span>小样，累趴了吧！</span>
 
+这秀色也餐的差不多了，起身继续吧。油量告警咯，在 [<i class="fa fa-map-marker"></i> Whataroa]( http://dwz.cn/32VFkI) 加个油吧，一伙儿人第一次玩自助加油，折腾了好一会总算弄会了，加满咯，然后一脚油门，又有大美湖们接踵而至。
+
 ![nz: 滑滑梯]({{ '/img/nz/on-the-slide.jpg' | prepend: site.baseurl }})
 <i class="fa fa-hand-o-up"></i> <span>在 Whataroa 加油，小小调皮了一下！</span>
 
-这一路上的美湖真是无穷无尽，来不及看啊！在这驾驶体验极好的6号公路上，跨过了 Waitangitanoa River，先是 [<i class="fa fa-map-marker"></i> Lake Wahapo](http://dwz.cn/32WXW2)， 然后再是 [<i class="fa fa-map-marker"></i> Lake Mapourika](http://dwz.cn/32VKVd)（梅普里卡湖）。这景象，就像沉迷二次元的小宅男突然被人带进了展会看车模，怎么满眼望去都是美女啊，还都是真的！[梅普里卡湖](https://zh.wikipedia.org/wiki/梅普里卡湖)是新西兰西海岸最大的湖泊（wiki 说的，我不信！），这湖水，蓝的让人心碎啊！
+这一路上的美湖真是无穷无尽，来不及看啊！在这驾驶体验极好的6号公路上，跨过了 Waitangitanoa River，路过了 [<i class="fa fa-map-marker"></i> Lake Wahapo](http://dwz.cn/32WXW2)， 又路过 [<i class="fa fa-map-marker"></i> Lake Mapourika](http://dwz.cn/32VKVd)（梅普里卡湖）。这景象，就像沉迷二次元的小宅男突然被人带进了展会看车模，怎么满眼望去都是美女啊，还都是真的！[梅普里卡湖](https://zh.wikipedia.org/wiki/梅普里卡湖)是新西兰西海岸最大的湖泊（wiki 说的，我不信！），这湖水，蓝的让人心碎啊！
 
 ![nz: Waitangitanoa River]({{ '/img/nz/waitangitanoa-river.jpg' | prepend: site.baseurl }})
 <i class="fa fa-hand-o-up"></i> <span>Waitangitanoa River，连河流都泛着蓝色</span>
+
+路边这些值得一看的景致，总会在恰当的地方建有观景点，让人们可以驻车欣赏。实在限于条件，无法修葺停车场和观景台，他们就在马路边上拓出一小块地方，可以让你安全地停车。这样一来，既不影响后车的通行，也让你有机会不错过这旖旎风光，实在是人性化！
 
 ![nz: lake wahapo]({{ '/img/nz/lake-wahapo.jpg' | prepend: site.baseurl }})
 <i class="fa fa-hand-o-up"></i> <span>Lake Wahapo, 给镜头装上偏振滤镜，这下湖面不反光了吧！</span>
 
 ![nz: lake wahapo]({{ '/img/nz/lake-wahapo-2.jpg' | prepend: site.baseurl }})
-<i class="fa fa-hand-o-up"></i> <span>远处的雪山大概是 Mount Adams，比划着地图瞎猜的</span>
+<i class="fa fa-hand-o-up"></i> <span>Lake Wahapo 边，安全停车区</span>
 
 ![nz: lake mapourika]({{ '/img/nz/lake-mapourika.jpg' | prepend: site.baseurl }})
 <i class="fa fa-hand-o-up"></i> <span>Lake Mapourika</span>
 
-饱尝湖泊美景，继续赶往今日的目的地。先是途径了 [<i class="fa fa-map-marker"></i> Franz Josef Glacier](http://dwz.cn/32VNfA) 弗朗兹·约瑟夫冰川（以奥匈帝国君主命名），该冰川与我们要去的目的地一样，也是属于低海拔冰川，气候温暖湿润，为游客游览提供了便利的环境，使之成为世界上最受青睐的冰川景观。
+饱尝完湖泊美景，继续赶往今日的目的地。先是途径了 [<i class="fa fa-map-marker"></i> Franz Josef Glacier](http://dwz.cn/32VNfA)，弗朗兹·约瑟夫冰川（以一位奥匈帝国君主命名），该冰川与我们要去的目的地一样，也是属于低海拔冰川，气候温暖湿润，为游客游览提供了便利的环境，使之成为世界上最受青睐的冰川景观。
 
 一路玩玩停停，从 Hokitika 开出，2个多小时的路，让我们开了5个小时，下午五点不到，终于到了今天我们要休憩的地方，南岛最著名的冰川景观—— [<i class="fa fa-map-marker"></i> Fox Glacier](http://dwz.cn/33eaZu)，福克斯冰川，计划在此地停留2晚，明天冰川徒步，估计人比较累，所以在此多休整一晚，后天一早走。
 
@@ -86,12 +90,12 @@ tags: middle-earth
 ![nz: 下车就进屋]({{ '/img/nz/car-in-front-of-the-room.jpg' | prepend: site.baseurl }})
 <i class="fa fa-hand-o-up"></i> <span>下车就进屋，Motel 的一贯风格</span>
 
-稍事休息，我们又去逛湖咯！今天逛了几个了？沿着 motel 门前的道路往里开，拐进 Lake Matheson Rd，不一会儿就到了路的尽头，这是一个停车场，停车场旁边是牧场和一个餐厅，待会儿咱就在这儿解决晚餐，蛮田园吧。停完车，沿着路边一条林间小路往里走，就能去湖边啦！
+稍事休息，我们又去逛湖咯！今天逛了几个了？沿着 motel 门前的道路往里开，拐进 Lake Matheson Rd，不一会儿就到了路的尽头，这是一个停车场，停车场旁边是牧场和 motel 大妞说的那个餐厅，待会儿咱就在这儿解决晚餐，蛮田园吧。停完车，沿着路边一条林间小路往里走，就能去湖边啦！
 
 ![nz: 停车场]({{ '/img/nz/parking-ground.jpg' | prepend: site.baseurl }})
 <i class="fa fa-hand-o-up"></i> <span>要不要连停车场都这么有 view 呀</span>
 
-Lake Matheson 是一狭长型湖，环湖都修建了供观光及徒步的栈道，并且依据地势，还修建了5处观景点。这么个景点，门票几许？听好啦，还是不！收！钱！良心啊！看景点介绍，如果要绕湖一周的话，估计要徒步一个多小时，得了，咱意思意思，看看就回，免得太晚，人家关门了，要耽误吃饭啊。
+Lake Matheson 是一狭长型湖，环湖都修建了供观光及徒步的栈道，并且依据地势，还修建了5处观景点。这么个景点，门票几许？听好啦，还是不！收！钱！良心啊！看景点介绍，如果要绕湖一周的话，估计要徒步一个多小时，得了，咱意思意思，看看就回，免得太晚，cafe 关门了，要耽误吃饭啊。
 
 ![nz: 牧场]({{ '/img/nz/wild-meadow.jpg' | prepend: site.baseurl }})
 <i class="fa fa-hand-o-up"></i> <span>停车场边的牧场，远处的雪山应该是属于 Westland Tai Poutini National Park 的一部分</span>
@@ -130,6 +134,6 @@ Lake Matheson 是一狭长型湖，环湖都修建了供观光及徒步的栈道
 
 ![nz: 日落时分]({{ '/img/nz/another-sunset.jpg' | prepend: site.baseurl }})
 
-今日应接不暇地饱览着中土的自然风光，晚间我们4人当然要开一桌牌局啊，2对2正好打80分呀！这变成后面几晚我们的固定节目啦！一边打牌，我们一边回味，咱大概太大惊小怪了，这自驾刚开了个头，后面一定还有无数美景等待着我们，希望不要过早审美疲劳啊！
+今日应接不暇地饱览着中土的自然风光，晚间我们4人当然要开一桌牌局欢快一下啊，2对2正好打80分呀！这变成后面几晚我们的固定节目啦！一边打牌，一边回味，咱大概太大惊小怪了，这自驾刚开了个头，后面一定还有无数美景等待着我们，希望不要过早审美疲劳啊！
 
-## 未完待续……
+### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-4(12/21) 冰川风雨起苍黄，末日小车走匆忙]({{ '/2016/04/08/lost-in-middle-earth-day-4.html' | prepend: site.baseurl }})
