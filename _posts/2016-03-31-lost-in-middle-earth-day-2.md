@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   Lost in Middle Earth (Day-2)
+title:  Lost in Middle Earth (Day-2)
 tags: middle-earth
 hand: <i class="fa fa-hand-o-up"></i>
 mark: <i class="fa fa-map-marker"></i>
@@ -13,7 +13,7 @@ mark: <i class="fa fa-map-marker"></i>
 > 你赤手空拳来到人世间，为找到那片海不顾一切
 <!--more-->
 
-出发去远方，总让人异常兴奋。10个小时的旅途，我只眯糊了一小会儿。看着舷窗外的天空变成漆黑一片，然后又慢慢地亮起来，看着屏幕上的飞行路线示意，越来越靠近目的地！
+出发去远方，总让人异常兴奋。11个小时的旅途，我只眯糊了一小会儿。看着舷窗外的天空变成漆黑一片，然后又慢慢地亮起来，看着屏幕上的飞行路线示意，越来越靠近目的地！
 
 当空姐提醒降落的语音响起，当飞机轮胎触地的那一刻，我终于确信，我已经来到了神秘的中土世界，在接下来的十多天里，我要驰骋在远方的大地了。
 
@@ -45,18 +45,18 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: jetstar]({{ '/img/nz/jetstar-fly.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>飞临南岛咯！</span>
 
-过了晌午了，终于到了 [<i class="fa fa-map-marker"></i> Christchurch](http://dwz.cn/30MM9M) ，这个南岛的第一大城市，不过就凭它区区36w人口和1,426平方公里的面积，放在国内，这就是沧海一粟啊。因此可以知道，这个机场必定不太大。刚走出来没多久，我们就看到了 AVIS 的柜台了，一位和蔼的大爷亲切接待了我们（那是，生意来了嘛）。
+过了晌午了，终于到了 [{{ page.mark }} Christchurch](http://dwz.cn/30MM9M) ，这个南岛的第一大城市，不过就凭它区区36w人口和1,426平方公里的面积，放在国内，这就是沧海一粟啊。因此可以知道，这个机场必定不太大。刚走出来没多久，我们就看到了 AVIS 的柜台了，一位和蔼的大爷亲切接待了我们（那是，生意来了嘛）。
 
-![nz:  avis]({{ '/img/nz/avis.jpg' | prepend: site.baseurl }})
+![nz: avis]({{ '/img/nz/avis.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>AVIS 租车咯</span>
 
 我已经提前2个多月，在 AVIS 的官网上做了预约，现在我把预约单，驾照原件，翻译件，公证书等一股脑的拿出来，管他要不要看。租期10天，第一次在国外开车，而且还是左舵，所以上了全险，租车大爷也当然也乐意，这样他们的车损风险就能转嫁给保险公司了，因此，他说送我一天 discount，我们付9天的租费及保险。
 
 领了钥匙，工作人员让我们自己去停车场取车，还回来的时候记得加满油，把钥匙扔停车场的 key box 里就好了。还车时不要验车了？嗯，那是，都买了全险了。
 
-先不忙着走，咱先去看看机场里哪儿有卖 sim 卡，咱上网，打电话都用得到啊。找到机场2楼，有个礼品店里有卖我们 iPhone 4s 用的 nano sim card，是当地的一家运营商，叫 2degrees，然后拨打语音电话开卡激活，问题来了，卡虽然貌似激活了，但是没法打电话和上网啊，咱几个傻人捣鼓了好久都没结果，看看时间不早了，咱该出发了，等明天去找个 information center 再问问吧。
+先不忙着走，咱先去看看机场里哪儿有卖 sim 卡，咱上网，打电话都用得到啊。找到机场2楼，有个礼品店里有卖我们 iPhone 4s 用的 nano sim card，是当地的一家运营商，叫 2 degrees，然后拨打语音电话开卡激活。问题来了，卡虽然貌似激活了，但是没法打电话和上网啊，咱几个傻人捣鼓了好久都没结果，看看时间不早了，还是先出发吧，等明天去找个游客中心再问问吧。
 
-转转悠悠，去找自己的车车，哇！找到了，一辆九成新 Toyota RAV4，行驶里程只有3500km+，后备箱还蛮宽敞，足以把我们两家的三个拉杆箱和各类小物品放进去。期间，我们还在这里遇到停车场的华人管理员，很高兴的同他聊了会儿，他说10天游南岛，勉强够，是啊大哥，我也知道啊，等有钱了我来环他一个月啊。话别，又在停车场转了半天才找到出口。
+转转悠悠，去找自己的车车，哇！找到了，一辆九成新 Toyota RAV4，行驶里程只有3,500km+，后备箱还蛮宽敞，足以把我们两家的三个拉杆箱和各类小物品放进去。期间，我们还在这里遇到停车场的一个华人管理员，很高兴的同他聊了会儿，他说10天游南岛，勉强够，是啊大哥，我也知道啊，等有钱了我来环他一个月啊。话别，又在停车场转了半天才找到出口。
 
 出发，我们的自驾游正式开始啦！小顾同学作为首席司机，我是资深领航员，当仁不让抢占前排啊！后排一个财务，一个后勤，角色分配完毕。
 
@@ -70,17 +70,17 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 路况甚好]({{ '/img/nz/empty-road.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>路况好，才是真的好！</span>
 
-很顺利就到了这个叫 [<i class="fa fa-map-marker"></i> countdown](http://dwz.cn/30Oou5) 的连锁超市，零食、啤酒多来点，羊排、牛排也弄几块做晚餐，来到了牛羊的天堂，不多吃点它们的肉肉，多对不起这群孩子啊！买了一堆吃的喝的扔车里，已经是当地时间下午3点多了，赶紧继续上路。
+很顺利就到了这个叫 [{{ page.mark }} countdown](http://dwz.cn/30Oou5) 的连锁超市，零食、啤酒多来点，羊排、牛排也弄几块做晚餐，来到了牛羊的天堂，不多吃点它们的肉肉，多对不起这群孩子啊！买了一堆吃的喝的扔车里，已经是当地时间下午3点多了，赶紧继续上路。
 
 ![nz: 女司机]({{ '/img/nz/female-driver.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>路况好，女司机也敢开左舵！</span>
 
-还是得插一段来说说这次的路线安排，我们在南岛自驾的时间一共10天，通常在南岛自驾路线都是延着海岸线做顺时针或逆时针的环岛游，如果多一点时间的话我也想这样。我还想过从 Auckland 直接开车到北岛的最南端，新西兰首都 Wellington，在那儿玩几天，参观一下 WETA 工作室，然后再坐轮渡，穿越库克海峡，登陆南岛小镇 [<i class="fa fa-map-marker"></i> Picton](http://dwz.cn/33dwFn) …… 据说这个库克海峡风景优美，冰川林立，可惜啊…… 今生一定要去一次啊！可惜时间有限，我们连南岛大循环也走不成，只能走走小循环了。
+还是得插一段来说说这次的路线安排，我们在南岛自驾的时间一共10天，通常在南岛自驾路线都是延着海岸线做顺时针或逆时针的环岛游，如果多一点时间的话我也想这样。我还想过从 Auckland 直接开车到北岛的最南端，新西兰首都 Wellington，在那儿玩几天，参观一下 WETA 工作室，然后再坐轮渡，穿越库克海峡，登陆南岛小镇 [{{ page.mark }} Picton](http://dwz.cn/33dwFn) …… 据说这个库克海峡风景优美，冰川林立，可惜啊…… 今生一定要去一次啊！可惜时间有限，我们连南岛大循环也走不成，只能走走小循环了。
 
 ![nz: 库克海峡]({{ '/img/nz/cook-strait.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>网上找了张库克海峡的美图</span>
 
-今天我们的目的地是位于南岛西岸的小镇 [<i class="fa fa-map-marker"></i> Hokitika](http://dwz.cn/30X041)，要是时间再多一天，我们就可以走7号公路去 [<i class="fa fa-map-marker"></i> Greymouth](http://dwz.cn/30X3gy) 歇脚了，或者先北上走1号公路到 [<i class="fa fa-map-marker"></i> Kaikoura](http://dwz.cn/30X53p) 赏鲸，不过，有遗憾才有再刷南岛的动力，遗憾越多，动力越大，这几年来，我就念念不忘着重返中土的计划，哈哈。
+今天我们的目的地是位于南岛西岸的小镇 [{{ page.mark }} Hokitika](http://dwz.cn/30X041)，要是时间再多一天，我们就可以走7号公路去 [{{ page.mark }} Greymouth](http://dwz.cn/30X3gy) 歇脚了，或者先北上走1号公路到 [{{ page.mark }} Kaikoura](http://dwz.cn/30X53p) 赏鲸，不过，有遗憾才有再刷南岛的动力，遗憾越多，动力越大，这几年来，我就念念不忘着重返中土的计划，哈哈。
 
 此去 Hokitika 全程大概3个小时，240公里路，为避免驾驶疲劳以及熟悉异国自驾，我计划在我们走的73号公路经过 Arthur's Pass 时暂时休整，这段路基本就是全程的一半多一点。未曾想，路上实在有太多的美景让我们不得不停下脚步……
 
@@ -89,7 +89,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: rav4]({{ '/img/nz/toyota-rav4.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>载我们去远方的小车</span>
 
-在遇到单边桥前，公路的地上通常会写好 one lane bridge 字样以做提示，你快到桥头了马上会看到，有一来一往2根箭头标志，你的方向如果是细红箭头，表示你必须确保对面无车你才可以在桥上通行，否则，对面车比你有更高的通行权，你必须让（后来我知道，我国西藏青海等地貌似也有类似交通状况）！这一路自驾下来，除了有些地势太恶劣，实在无法建设一些舒服的道路外，一般的道路维护状况，真是非常棒的！
+在遇到单边桥前，地上通常会写好 one lane bridge 字样以做提示，你快到桥头了马上会看到，有一来一往2根箭头标志，你的方向如果是细红箭头，表示你必须确保对面无车你才可以在桥上通行，否则，对面车比你有更高的通行权，你必须让（后来我知道，我国西藏青海等地貌似也有类似交通状况）！这一路自驾下来，除了有些地势太恶劣，实在无法建设一些舒服的道路外，一般的道路维护状况，真是非常棒的！
 
 ![nz: 单边桥]({{ '/img/nz/bridge-lane-one.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>前方单边桥，看地上标识</span>
@@ -105,7 +105,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 路边牧场]({{ '/img/nz/cp-1.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>首席车手 & 车手夫人</span>
 
-车行驶了一个小时后，我们路经一个湖泊，看导航得知它叫 [<i class="fa fa-map-marker"></i> Lake Lyndon](http://dwz.cn/30YftU)，其实这是新西兰众多湖泊中很普通的一个，但这是我们来南岛自驾遇见的第一个。要说人家的交通设施修的多人性化，知道人们会在湖边驻足休憩，所以特意修建了一条岔道让车可以开近湖边，避免了停在主路边影响后继车辆的行驶。后来的自驾中，我们可以看到，基本上每个湖泊，每个景点，在快到的时候都会有明确的指示牌提示，停车点、观景点（view point）也会有指示标志。这些美景、公告牌、干净的厕所，所有一切，都是免费的。要像国内那种一步一景一收费，我们恐怕要回不来了（嗯，适时也黑一下我大中华）。
+车行驶了一个小时后，我们路经一个湖泊，看导航得知它叫 [{{ page.mark }} Lake Lyndon](http://dwz.cn/30YftU)，其实这是新西兰众多湖泊中很普通的一个，但这是我们来南岛自驾遇见的第一个。要说人家的交通设施修的多人性化，知道人们会在湖边驻足休憩，所以特意修建了一条岔道让车可以开近湖边，避免了停在主路边影响后继车辆的行驶。后来的自驾中，我们可以看到，基本上每个湖泊，每个景点，在快到的时候都会有明确的指示牌提示，停车点、观景点（view point）也会有指示标志。这些美景、公告牌、干净的厕所，所有一切，都是免费的。要像国内那种一步一景一收费，我们恐怕要回不来了（嗯，适时也黑一下我大中华）。
 
 ![nz: Lake Lyndon]({{ '/img/nz/lake-lyndon.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>Lake Lyndon，遇见你很高兴！</span>
@@ -113,7 +113,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 湖边撒欢]({{ '/img/nz/crazy-by-lake-lyndon.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>让我在这美湖边撒点野</span>
 
-拍照留念后，驱车继续前行，我们又掠过了 [<i class="fa fa-map-marker"></i> Lake Pearson](http://dwz.cn/30Yyrb)，跨过了 Waimakariri River，下午5点多，我们到达了 Arthur's Pass，本想在那儿的游客中心咨询一下手机卡的问题，结果到那儿一看，啊哟喂，空荡荡的。新西兰居民有一点好，就是一下班跑的比谁都快，哈哈！本来还打算找一下 Lonely Planet 上推荐这里的一家小店喝下午茶的，算啦，马上吃晚饭咯，尿个尿，继续赶路！
+拍照留念后，驱车继续前行，我们又掠过了 [{{ page.mark }} Lake Pearson](http://dwz.cn/30Yyrb)，跨过了 Waimakariri River，下午5点多，我们到达了 Arthur's Pass，本想在那儿的游客中心咨询一下手机卡的问题，结果到那儿一看，啊哟喂，空荡荡的。新西兰居民有一点好，就是一下班跑的比谁都快，哈哈！本来还打算找一下 Lonely Planet 上推荐这里的一家小店喝下午茶的，算啦，马上吃晚饭咯，尿个尿，继续赶路！
 
 ![nz: Lake Pearson]({{ '/img/nz/lake-pearson.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>蜿蜒在 Lake Pearson 边</span>
@@ -124,7 +124,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: magic scence]({{ '/img/nz/magic-scence-2.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>魔戒远征队离开了 Rivendell, 经过此地远去了</span>
 
-当73号公路开到了头，我们连上6号公路，开近了西海岸，左转，迎着阳光，一片金色的汪洋瞬间冲入视网膜！Hokitika 不远了，拿出攻略，在预备住宿的名单里选了一家，直接杀过去，先安顿好再说。恩，选了家连锁 Motel，叫 [<i class="fa fa-map-marker"></i> 252 Beachside Motels & Holiday Park](http://dwz.cn/30TVqC)，为啥选它，容我稍后再表。
+当73号公路开到了头，我们连上6号公路，开近了西海岸，左转，迎着阳光，一片金色的汪洋瞬间冲入视网膜！Hokitika 不远了，拿出攻略，在预备住宿的名单里选了一家，直接杀过去，先安顿好再说。恩，选了家连锁 Motel，叫 [{{ page.mark }} 252 Beachside Motels & Holiday Park](http://dwz.cn/30TVqC)，为啥选它，容我稍后再表。
 
 ![nz: 金色阳光]({{ '/img/nz/golden-sunshine.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>到达西海岸，沐浴金色阳光</span>
@@ -141,7 +141,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: cooking]({{ '/img/nz/cooking-2.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>热乎乎的白灼牛排来啦！</span>
 
-在新西兰上网挺坑的，问有没有 WiFi，前台老太太给我们一张上网券，连上后免费使用50M，再要就花钱买了，算了，反正住一晚就走。想不到房间里的 WiFi 信号恶差啊，我和夫人俩人要跑到门口蹲着往家里 face time 啊！
+在新西兰上网挺坑的，问有没有 Wi-Fi，前台老太太给我们一张上网券，连上后免费使用50M，再要就花钱买了，算了，反正住一晚就走。想不到房间里的 Wi-Fi 信号恶差啊，我和夫人俩人要跑到房门口蹲着往家里 face time 啊！
 
 ![nz: 白昼啊]({{ '/img/nz/white-night.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>照片 exif 信息显示，晚上8:52，太阳明显还没下山</span>
@@ -153,7 +153,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 萤火虫]({{ '/img/nz/glow-warm.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>实在太暗了，我的老单反很难对焦啊</span>
 
-猎奇完毕，和夫人沿着山路再往上走了会儿，这里可以俯瞰整个塔斯曼海，还有这座叫做 Hokitika 的小镇，据说这里的特产是一种叫“软玉”的玉石，据说这里曾是淘金时代的重镇之一，据说这里就是我们自驾第一站的落脚点。据说这里就是小时候书上说的远方。
+猎奇完毕，和夫人沿着山路再往高处走了会儿，这里可以俯瞰整个塔斯曼海，还有这座叫做 Hokitika 的小镇。据说这里的特产是一种叫“软玉”的玉石，据说这里曾是淘金时代的重镇之一，据说这里就是我们自驾的第一站，据说这里就是小时候我们常说的远方。
 
 远方，我路过！晚安，Hokitika！
 
