@@ -87,9 +87,15 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 女司机]({{ '/img/nz/female-driver-2.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>女司机，带带我！</span>
 
-看了下攻略，今天我们还计划参观一个三文鱼农场来着，具体地址忘记了，离 Knights Point Lookout 不远的 Haast 有个游客中心，去那里问问吧。
+看了下攻略，今天我们还计划参观一个三文鱼农场来着，具体地址忘记了，离 Knights Point Lookout 不远的 Haast 有个游客中心，去那里问问吧。Haast 这个地方，最有名的莫过于一种叫 [Haast Eagle](http://www.nzbirds.com/birds/haasteagle.html) 的巨鹰了，其翼展3米，直立高度1米4，横扫现在的记录保持者——杀人鹰(Harpy eagle)啊，不过莫慌，此物已在700年前灭绝了！
+
+![nz: Haast Eagle]({{ '/img/nz/haast-eagle.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>Haast Eagle 捕食图</span>
 
 进了游客中心，向工作人员咨询了一下，正好这里有这个农场的宣传资料，把地址输入导航一看，真是哔了吉娃娃了，原来我们早已错过五十多公里了，这个地方早在 Lake Paringa 之前啊！唉，今天临时变更行程，昨晚没有做今日行程的 plan review 啊，忍痛又放弃！Bye 了我的三文鱼，下次我一定来！
+
+![nz: Salmon Farm]({{ '/img/nz/salmon-farm.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>错失的三文鱼农场（谷歌街景图）</span>
 
 此时6号公路伴着 Haast River 一同前进，天气慢慢开始变好，地势也越来越开阔，好宽的河床啊，如果水量充足，这条河肯定很汹涌，哪会如今日这般温柔。
 
@@ -97,7 +103,7 @@ mark: <i class="fa fa-map-marker"></i>
 {{ page.hand }} <span>Moon river, wider than a mile……</span>
 
 ![nz: Female Driver]({{ '/img/nz/female-driver-3.jpg' | prepend: site.baseurl }})
-{{ page.hand }} <span>这位女司机，你这是要干嘛！</span>
+{{ page.hand }} <span>这位女司机，你这是要干嘛！当心巨鹰把你抓走啊！</span>
 
 下午三点半了，现在离 Wanaka 大概还有不到一个小时的车程，刚甩掉 Haast River，这路又和Makarora River 纠结在了一起。天开始放晴啦，蓝天渐渐的露出云层！遂又停车庆祝，自驾任性的好处由此可见啊！
 
@@ -192,6 +198,6 @@ Reception 是个老头，长得好古怪的样子。在这里以及后来我们�
 {{ page.hand }} <span>瓦纳卡的星空，繁星密布！</span>
 
 > ### 一件趣事
-> 今天小刘在新浪微博发了个赞叹美丽小镇的贴，没过一个小时，突然有人在微博上联系她，有一对小夫妻昨天在 Wanaka 住宿的时候手机落在了酒店里，人家也蛮聪明的，通过微博找到来这个小镇旅游的中国人，恳请帮忙撩手机，都是同胞，这事儿就揽下了吧。可惜他们接下来的行程和我们碰不到，所以不得已，我们在第二天帮她撩完手机后，只能带回上海再归还了他们了。这跨南北半球的好人好事做的呀，能上“感动中国”了吗？
+> 今天小刘在[新浪微博](http://weibo.com/1974923007/zaLTzwt1V)发了个赞叹美丽小镇的贴，没过一个小时，突然有人在微博上联系她，有一对小夫妻昨天在我们 Motel 边上的 Wanaka Hotel 住宿时手机落在了酒店里，人家也蛮聪明的，通过微博找到来这个小镇旅游的中国人，恳请帮忙撩手机，都是同胞，这事儿就揽下了吧。可惜他们接下来的行程和我们碰不到，所以不得已，我们在第二天帮她撩完手机后，只能带回上海再归还了他们了。这跨南北半球的好人好事做的呀，能上“感动中国”了吗？
 
-## <i class="fa fa-angle-double-right"></i> 未完待续……
+## <i class="fa fa-angle-double-right"></i> [请看下篇：Day-5(12/22) 好峰随处改，幽径自驾迷]({{ '/2016/04/12/lost-in-middle-earth-day-5.html' | prepend: site.baseurl }})
