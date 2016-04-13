@@ -164,4 +164,4 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: overview]({{ '/img/nz/hokitika-overview.jpg' | prepend: site.baseurl }})
 
 
-### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-3(12/20) 水光潋滟晴方好，停车坐爱马瑟森]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})
+### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-3(12/20) 水光潋滟晴方好，停车坐爱福克斯]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})
