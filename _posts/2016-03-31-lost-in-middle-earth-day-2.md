@@ -124,7 +124,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: magic scence]({{ '/img/nz/magic-scence-2.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>魔戒远征队离开了 Rivendell, 经过此地远去了</span>
 
-当73号公路开到了头，我们连上6号公路，开近了西海岸，左转，迎着阳光，一片金色的汪洋瞬间冲入视网膜！Hokitika 不远了，拿出攻略，在预备住宿的名单里选了一家，直接杀过去，先安顿好再说。恩，选了家连锁 Motel，叫 [{{ page.mark }} 252 Beachside Motels & Holiday Park](http://dwz.cn/30TVqC)，为啥选它，容我稍后再表。
+当73号公路开到了头，我们连上6号公路，开近了西海岸，左转，迎着阳光，一片金色的汪洋瞬间冲入视网膜！Hokitika 不远了，拿出攻略，在预备住宿的名单里选了一家，直接杀过去，先安顿好再说。恩，选了家连锁 Motel，叫 [<i class="fa fa-bed"></i> 252 Beachside Motels & Holiday Park](http://dwz.cn/30TVqC)，为啥选它，容我稍后再表。
 
 ![nz: 金色阳光]({{ '/img/nz/golden-sunshine.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>到达西海岸，沐浴金色阳光</span>
@@ -159,9 +159,13 @@ mark: <i class="fa fa-map-marker"></i>
 
 猎奇完毕，和夫人沿着山路再往高处走了会儿，这里可以俯瞰整个塔斯曼海，还有这座叫做 Hokitika 的小镇。据说这里的特产是一种叫“软玉”的玉石，据说这里曾是淘金时代的重镇之一，据说这里就是我们自驾的第一站，据说这里就是小时候我们常说的远方。
 
+![nz: overview]({{ '/img/nz/hokitika-overview.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>这里是远方的夜色。</span>
+
 远方，我路过！晚安，Hokitika！
 
-![nz: overview]({{ '/img/nz/hokitika-overview.jpg' | prepend: site.baseurl }})
+![nz: 今日行程]({{ '/img/nz/path-christchurch-2-hokitika.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>今日行程</span>
 
 
-### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-3(12/20) 水光潋滟晴方好，停车坐爱福克斯]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})
+### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-3(12/20) 水光潋滟晴方好，两只老牛在一起]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})

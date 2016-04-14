@@ -37,13 +37,13 @@ Ticktock, Ticktock，出发的日子临近了，行装检查了一遍又一遍�
 ## [Day-2(12/19) 风吹草低见牛羊]({{ '/2016/03/31/lost-in-middle-earth-day-2.html' | prepend: site.baseurl }})
 奥克兰(Auckland) -> 基督城(Christchurch) -> 霍基蒂卡(Hokitika)
 
-## [Day-3(12/20) 水光潋滟晴方好，停车坐爱福克斯]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})
+## [Day-3(12/20) 水光潋滟晴方好，两只老牛在一起]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})
 霍基蒂卡(Hokitika) -> 福克斯冰川(Fox Glacier)
 
 ## [Day-4(12/21) 冰川风雨起苍黄，末日小车走匆忙]({{ '/2016/04/08/lost-in-middle-earth-day-4.html' | prepend: site.baseurl }})
 福克斯冰川(Fox Glacier) -> 瓦纳卡(Wanaka)
 
-## Day-5(12/22) [好峰随处改，幽径自驾迷]({{ '/2016/04/12/lost-in-middle-earth-day-5.html' | prepend: site.baseurl }})
+## [Day-5(12/22) 好峰随处改，幽径自驾迷]({{ '/2016/04/12/lost-in-middle-earth-day-5.html' | prepend: site.baseurl }})
 瓦纳卡(Wanaka) -> 蒂阿瑙(Te Anau)
 
 ## Day-6(12/23) 纵将万管玲珑笔，难写峡湾两岸山

@@ -140,7 +140,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 岔路口]({{ '/img/nz/go-wanaka-2.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>Queenstown 向左，Wanaka 向右（谷歌街景图）</span>
 
-从福克斯冰川一路开开停停，磨磨蹭蹭，进入 Wanaka 时间已是晚上6点多咯。没关系，已经习惯这里的作休了，就当下午两、三点吧。照例拿出 LP 宝典，查看推荐的 Motel，边看边找路。来到书上说的那个叫 [{{ page.mark }} Durry Hills Motel](http://dwz.cn/35Ab2z) 的地方，一问，如果只住一晚的话，正好有个双卧间空出！
+从福克斯冰川一路开开停停，磨磨蹭蹭，进入 Wanaka 时间已是晚上6点多咯。没关系，已经习惯这里的作休了，就当下午两、三点吧。照例拿出 LP 宝典，查看推荐的 Motel，边看边找路。来到书上说的那个叫 [<i class="fa fa-bed"></i> Durry Hills Motel](http://dwz.cn/35Ab2z) 的地方，一问，如果只住一晚的话，正好有个双卧间空出！
 
 ![nz: Durry Hill Motel]({{ '/img/nz/durry-hill-motel.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>住宿请进！</span>
@@ -199,5 +199,8 @@ Reception 是个老头，长得好古怪的样子。在这里以及后来我们�
 
 > ### 一件趣事
 > 今天小刘在[新浪微博](http://weibo.com/1974923007/zaLTzwt1V)发了个赞叹美丽小镇的贴，没过一个小时，突然有人在微博上联系她，有一对小夫妻昨天在我们 Motel 边上的 Wanaka Hotel 住宿时手机落在了酒店里，人家也蛮聪明的，通过微博找到来这个小镇旅游的中国人，恳请帮忙撩手机，都是同胞，这事儿就揽下了吧。可惜他们接下来的行程和我们碰不到，所以不得已，我们在第二天帮她撩完手机后，只能带回上海再归还了他们了。这跨南北半球的好人好事做的呀，能上“感动中国”了吗？
+
+![nz: 今日行程]({{ '/img/nz/path-fox-glacier-2-wanaka.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>今日行程</span>
 
 ## <i class="fa fa-angle-double-right"></i> [请看下篇：Day-5(12/22) 好峰随处改，幽径自驾迷]({{ '/2016/04/12/lost-in-middle-earth-day-5.html' | prepend: site.baseurl }})

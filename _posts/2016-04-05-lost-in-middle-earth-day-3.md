@@ -6,7 +6,7 @@ hand: <i class="fa fa-hand-o-up"></i>
 mark: <i class="fa fa-map-marker"></i>
 ---
 
-## Day-3(12/20) 水光潋滟晴方好，停车坐爱福克斯
+## Day-3(12/20) 水光潋滟晴方好，两只老牛在一起
 
 睡得真舒服！自然醒后，我们开始用昨天买的食物准备早餐！夏天来南半球自驾可真是个好时节。晚上10点天才暗去，不用7、8个小时，太阳又升起了，可以免去了夜路的困苦。
 
@@ -82,7 +82,7 @@ mark: <i class="fa fa-map-marker"></i>
 
 这是一个很小的小镇，参考 Lonely Planet，延着此地唯一的一条主干道 Cook Flat Rd. 找住的地方。现在我们有点经验了，一路开过来，路过好些小镇，如果有住宿的地方，在其门口会提示 vacancy，表示有空房，咱就可以下车问价了。
 
-一路找，看看有哪家有空房，其实，有空房的 Motel 还是很多的，咱主要目标是看看哪家长得漂亮而已。好了，选了家叫 [{{ page.mark }} Lake Matheson Motel](http://dwz.cn/33fYKV) 的，去前台询价，前台大妞说没有双卧套房，只有单间，唉，好吧，这个地方还蛮漂亮的，就这儿吧，订了两个单间，付了两晚的钱。
+一路找，看看有哪家有空房，其实，有空房的 Motel 还是很多的，咱主要目标是看看哪家长得漂亮而已。好了，选了家叫 [<i class="fa fa-bed"></i> Lake Matheson Motel](http://dwz.cn/33fYKV) 的，去前台询价，前台大妞说没有双卧套房，只有单间，唉，好吧，这个地方还蛮漂亮的，就这儿吧，订了两个单间，付了两晚的钱。
 
 ![nz: Motel 外的风景]({{ '/img/nz/outside-matheson-motel.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>Motel 外鸟语花香，只是远处的云，为啥那么低啊</span>
@@ -137,5 +137,8 @@ Lake Matheson 是一狭长型湖，环湖都修建了供观光及徒步的栈道
 ![nz: 日落时分]({{ '/img/nz/another-sunset.jpg' | prepend: site.baseurl }})
 
 今日应接不暇地饱览着中土的自然风光，晚间我们4人当然要开一桌牌局欢快一下啊，2对2正好打80分呀！这变成后面几晚我们的固定节目啦！一边打牌，一边回味，咱大概太大惊小怪了，这自驾刚开了个头，后面一定还有无数美景等待着我们，希望不要过早审美疲劳啊！
+
+![nz: 今日行程]({{ '/img/nz/path-hokitika-2-fox-glacier.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>今日行程</span>
 
 ### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-4(12/21) 冰川风雨起苍黄，末日小车走匆忙]({{ '/2016/04/08/lost-in-middle-earth-day-4.html' | prepend: site.baseurl }})

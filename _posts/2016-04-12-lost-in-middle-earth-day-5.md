@@ -16,7 +16,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 瓦纳卡的早晨]({{ '/img/nz/wanaka-morning.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>推窗望去，平静的 Lake Wanaka</span>
 
-吃过早餐，庆幸一下末日果真未来，太阳照常升起！收拾完厨房，把餐具都清洗完毕，将物品搬上小车，我们要告别这个 Motel 了。将车开至湖边，在这阳光明媚的早晨，与这泓湖水再做一次道别。在湖边停车场，我们看到一辆载着国内旅游团的大巴，这是我们这一路来第一次看到啊，看来这小镇果真还是个旅游的好去处呢。
+吃过早餐，庆幸一下末日果真未来，太阳照常升起！收拾完厨房，把餐具都清洗完毕，将物品搬上小车，我们要告别这个 Motel 了。将车开至湖边，在这阳光明媚的早晨，与这泓湖水再做一次道别。在湖边停车场，我们看到一辆载着国内旅游团的大巴，这是我们这一路来第一次看到啊，看来这小镇果真还是个旅游得好去处呢。
 
 ![nz: 天高任鸟飞]({{ '/img/nz/seagull-in-lake-wanaka.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>天高任鸟飞，是时候用用我的长焦镜了。</span>
@@ -31,19 +31,19 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: Ford Mercury]({{ '/img/nz/ford-mercury.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>wow！Hotel 门口有辆古董车啊，福特水星，貌似1939年产的 Mercury Eight，我天，还在开呐！</span>
 
-今日的目的地是离此地几十公里外的旅游重镇—— Queenstown，皇后镇！听这名字，好像蛮有气势吧，呵呵。不过不急赶路，我们先去次这个 Wanaka 镇子外的另一处好玩的地儿，叫做 [{{ page.mark }} Puzzling World](http://dwz.cn/36bKCD)，一个颠覆你思维，给你无尽错觉的迷宫世界。
+今日的目的地是离此地几十公里外的旅游重镇—— Queenstown，皇后镇！听这名字，好像蛮有气势吧，呵呵。不过不急赶路，我们先去次这个 Wanaka 镇子外另一处好玩的地儿，叫做 [{{ page.mark }} Puzzling World](http://dwz.cn/36bKCD)，一个颠覆你思维，给你无尽错觉的迷宫世界。
 
 ![nz: Puzzling World]({{ '/img/nz/puzzling-world.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>Puzzling World（谷歌街景图）</span>
 
-地方不远，开车5分钟就到。这个游玩的地方当然是要票的，先去买票。这个迷宫花园就算了，万一进去出不来那可耽误事儿，最关键的，那个地方还要单独售票，节约！节约！光买了 Illusion Rooms 的参观票，一人$16，这票啊，就是一人手上盖个章，环保！
+地方不远，开车5分钟就到，先去买票。这个迷宫花园就算了，万一进去出不来那可耽误事儿，最关键的，那个地方还要单独售票，节约！节约！光买了 Illusion Rooms 的参观票，一人$16，这票啊，就是一人手上盖个章，环保！
 
 ![nz: 门票]({{ '/img/nz/tickets-for-puzzling-world.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>无纸化门票。</span>
 
-想了解更多信息可以去他们的[官网](http://www.puzzlingworld.co.nz/)，我这儿就不一一详述了。给我映象比较深刻的有以下这些，看图说话。
+想了解更多信息可以去他们的[官网](http://www.puzzlingworld.co.nz/)，我这儿就不一一详述了。给我印象比较深刻地有以下这些，看图说话。
 
-走廊两边都是这些 Illusion Pictures，例如一张莫名其妙的挂毯，换个角度观察，会看到老爱的画像，唉，其实没啥惊奇，咱小时候用的活动尺不也是这个原理嘛！
+走廊两边都是这些 Illusion Pictures，例如一张莫名其妙的挂毯，换个角度观察，会看到老爱的肖像，唉，其实没啥惊奇，咱小时候用的活动尺不也是这个原理嘛！
 ![nz: Illusion Pictures]({{ '/img/nz/illusion-pictures.jpg' | prepend: site.baseurl }})
 
 一间满是面孔的屋子，无论你走到哪儿，都会感觉所有的脸都在朝着你看，嗯，也不是很稀奇，据说蒙娜丽莎貌似也是这个样子。
@@ -55,7 +55,7 @@ mark: <i class="fa fa-map-marker"></i>
 各个都是 Michael Jackson 啊！
 ![nz: 重力异常区域]({{ '/img/nz/gravity-abnormal-all.jpg' | prepend: site.baseurl }})
 
-还有下面这个奇妙的屋子会产生透视异常，从不同的门进来，展现出巨大的身高反差。这个也是巧妙的利用参照物造成透视错觉。在《魔戒》的电影里，也是利用这种原理，在拍摄霍比特人和正常人的很多镜头时，展现出巨大的身高落差。
+还有下面这个奇妙的屋子会产生透视异常，从不同的门进来，展现出巨大的身高反差。这个也是巧妙地利用参照物造成透视错觉。在《魔戒》的电影里，也是利用这种原理，在拍摄霍比特人和正常人的很多镜头时，展现出巨大的身高落差。
 ![nz: 透视异常区域]({{ '/img/nz/prespective-abnormal.jpg' | prepend: site.baseurl }})
 
 ![nz: 透视异常区域]({{ '/img/nz/prespective-abnormal-2.jpg' | prepend: site.baseurl }})
@@ -68,7 +68,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: Happy Ending]({{ '/img/nz/end-in-puzzling-world.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>顶顶更健康！</span>
 
-游玩结束，我们要向皇后镇进发了，前段时间姚晨不是刚去逛过嘛，人家还去皇后镇边上的箭镇游玩了一番，那我们也跟着去逛逛吧。这次我们决定不走6号公路了，我们想走条山路或许风光更好吧。于是，从 puzzling world 出来后，我们选择了这条叫 Cardrona Valley Rd. 的小路先去箭镇逛逛。
+游玩结束，我们要向皇后镇进发了，前段时间姚晨不是刚去逛过嘛，人家还去皇后镇边上的箭镇游玩了一番，那我们也跟着去逛逛吧。这次我们决定不走6号公路了，我们想，走条山路或许风光更好吧。于是，从 puzzling world 出来后，我们选择了这条叫 Cardrona Valley Rd. 的小路先去箭镇逛逛。
 
 听这名字，valley road，路况肯定没有6号的好，只是，我们要的是风景啊！果然这条公路在群山中穿梭，地势也起起伏伏，越走越高。在到达一个90度的拐弯处时，这里设置了一个 [{{ page.mark }} view point](http://dwz.cn/36wcEy)，借助这里地势的优势，我们可以俯瞰下面的一整片山谷。四下张望，估计这里也就是这条公路地势最高的地方了。
 
@@ -99,13 +99,13 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: Lakes District Museum]({{ '/img/nz/lakes-district-museum.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>在 Lakes District Museum 的玻璃橱窗上，依稀可以看到当年中国淘金者带给这里的历史痕迹</span>
 
-整个小镇给人的感觉就是宁静安详，鸟语花香，貌似新西兰的大部分小镇都是这种氛围。在这条稍显热闹的 Buckingham St. 上，我们找到了姚晨拍照留念的那个小邮局，可惜今天周末，邮局不开门啊。
+整个小镇给人的感觉就是宁静安详，鸟语花香，貌似新西兰大部分小镇都是这种氛围。在这条稍显热闹的 Buckingham St. 上，我们找到了姚晨拍照留念的那个小邮局，可惜今天周末，邮局不开门啊。
 
 ![nz: 箭镇邮局]({{ '/img/nz/post-office.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>箭镇上的精致小邮局，拍个照片不容易啊，好不容易等到门口停着的车车走了，又过来两个玩亲亲的人抢镜头啊！</span>
 
 ![nz: 姚晨 Style]({{ '/img/nz/yaochen-style.jpg' | prepend: site.baseurl }})
-{{ page.hand }} <span>姚晨 Style，这造型凹的像吗？显然这儿没有鹿晗的邮筒热闹，咱不用排队啊！</span>
+{{ page.hand }} <span>姚晨 Style，这造型凹得像吗？显然这儿没有鹿晗的邮筒热闹，咱不用排队啊！</span>
 
 没打算在 Arrowtown 多玩，所以逛了下纪念品商店后，我们打算就直接开赴今日预订的目的地——皇后镇了。受到之前那条 valley road 的启发，我们决定，仍然不走6号公路，从地图上看，沿着一条叫 Malaghans Rd. 的路也能开到皇后镇。况且，LP 宝典也告诉我们，这条路的景色也别样优美。
 
@@ -123,7 +123,7 @@ mark: <i class="fa fa-map-marker"></i>
 
 两个小镇之间不远，大约二十多分钟的车程后，我们进入了 [{{ page.mark }} Queenstown](http://dwz.cn/36DMy8)，皇后镇，昆士敦…… 阿罗敦，阿罗敦，阿罗敦完昆士敦 😓
 
-不愧南岛的旅游重镇，一驶入皇后镇，久违多时的城市喧嚣和商业气息就扑面而来，跟前几天所感受的环境截然不同。我们打算着明天去米福峡湾巡游的，所以先找到游客中心问下购票和交通情况。
+不愧南岛的旅游重镇，一驶入皇后镇，久违多时的城市喧嚣和商业气息就扑面而来，跟前几天所感受的环境截然不同。我们打算着明天去米福峡湾巡游，所以先找到游客中心问下购票和交通情况。
 
 ![nz: 步行街]({{ '/img/nz/mall-st-in-queenstown.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>皇后镇上的步行街</span>
@@ -146,6 +146,53 @@ GO！买好从峡湾码头出发的巡游票，立即出发！一路疾驰，从
 {{ page.hand }} <span>一个蜂蜜专卖店，东西不便宜哦！</span>
 
 ![nz: Sheep farm]({{ '/img/nz/sheep-farm.jpg' | prepend: site.baseurl }})
-{{ page.hand }} <span>谁啊这是，太有钱了吧？养了这么多小羊，灰太狼知道了不得高兴死！</span>
+{{ page.hand }} <span>谁家的牧场啊，养了这么多小羊，灰太狼知道了不得高兴死！</span>
+
+我的估算真精确，不到6点，我们驱车来到了又一个宁静的小镇 [{{ page.mark }} Te Anau](http://dwz.cn/36Wfjk)，蒂阿瑙。这个小镇依然傍湖而建，此湖我不说应该都知道，按常理，它就叫 Lake Te Anau，对吧！
+
+![nz: 到达蒂阿瑙]({{ '/img/nz/reach-te-anau.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>路上一切顺利，6点前，我们已经到达蒂阿瑙。</span>
+
+从地图上看，皇后镇与峡湾的直线距离只有70公里，但由于地势关系，他们之间被多座大山阻隔，从陆路走需要绕行290公里的路程。从地理位置来看，这个距离皇后镇170公里的小镇具有极大的战略优势啊，从这里前往峡湾，轻轻松松2个小时。所以作为游客的中转和补给中心，在夏天这种旅游旺季，这个不到2000人口的小镇居然可以容纳4000游客住宿。当然你土豪，你直接从皇后镇一脸镇定地飞去峡湾，那我只能献上膝盖，并请求做个朋友了！
+
+按照 LP 的推荐和我们看上去要漂亮的要求，开始找住宿啦，连续找了两家花园般的 Motel，要么就剩下一间单间了，要么门口索性高挂 no vacancy，这住宿果然有这么紧张吗？
+
+![nz: 花园房]({{ '/img/nz/garden-motel.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>这么漂亮的花园没空房咯！</span>
+
+老规矩，沿着湖边找呗！果然不一会儿功夫，咱撩到一间双卧房咯。今晚咱住的地方叫 [<i class="fa fa-bed"></i> Garden Park Motel](http://dwz.cn/36ZhS1)。garden 在哪里啊？请往下看！今天我们多花了一丢丢的钱，享受了一间 apartment，garden 在自家门前，哈哈！来了几天都住的 Motel，该开开洋荤了！
+
+![nz: apartment]({{ '/img/nz/apartment-in-te-anau.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>今天住面湖独栋小屋咯！门前有…… garden！</span>
+
+![nz: apartment]({{ '/img/nz/apartment-view.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>从窗外望去，Lake Te Anau 近在眼前！</span>
+
+收拾一下，快7点半了，找吃的去咯！宝典推荐 [{{ page.mark }} Redcliff Cafe](http://dwz.cn/36ZN9N)，地图规划了一下路径，走路10分钟便到，那就逛过去呗，顺便欣赏下湖景！
+
+![nz: Naughty Me]({{ '/img/nz/naughty-me.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>风景好，心情也不会差！</span>
+
+![nz: Lake Te Anau]({{ '/img/nz/lake-te-anau.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>水上飞机，外国人真会玩！</span>
+
+到了 cafe 一瞧，果然网红啊，人还挺多！在外等了会儿才有位子。就一个服务员小妞，人手欠缺，真是够呛啊，等餐时间也久，估计厨房也只有一大厨，哼哼！我和小刘都要了三文鱼，等拿上来一看，量好少！又补充了点夫人的牛排才吃饱。等账单拿来一看，原来只有一份三文鱼，厨房把一份给 share 成两份端上桌了，哎哟喂，没话讲！
+
+![nz: Redcliff Cafe]({{ '/img/nz/red-cliff-cafe.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>LP 推荐的 Redcliff Cafe，略有小失望。</span>
+
+吃饱喝足，回到小屋，未曾想一只咪咪跟着跑进来不肯走了，跑到厨房，跑到客厅，还跑到我们床上！这地主家也没猫粮啊，啃点我们剩下的面包吧！
+
+![nz: little cat]({{ '/img/nz/cat-in-house.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>不速之客啊！</span>
+
+今天这个 original plan 是在 Arrowtown 宿营的，后来执行了末日计划后，修改后的落脚点在 Queenstown。未曾想我们这位老司机这么能跑，皇后镇留不住他啊！随机应变，自驾游的又一优势啊！
+
+夜幕又一次拉上了！诶，这次为啥没有夜里的照片了呢？因为80分大战又一触即发了！这次赌注有点大，连我都怕了啊！输掉的那队 CP 第二天要早起为大家准备早餐啊！然而，我们赢了，安心的在这 Lake Te Anau 边做个好梦吧，期待明日峡湾之旅！
+
+![nz: 今日行程]({{ '/img/nz/path-wanaka-2-te-anau.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>今日行程</span>
+
+
 
 ## <i class="fa fa-angle-double-right"></i> 未完待续
