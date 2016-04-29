@@ -5,9 +5,9 @@ tags: middle-earth
 hand: <i class="fa fa-hand-o-up"></i>
 mark: <i class="fa fa-map-marker"></i>
 ---
-## Day-4(12/22) 好峰随处改，幽径自驾迷
+## Day-5(12/22) 好峰随处改，幽径自驾迷
 
-在外旅行，每次都是兴奋得很早就醒。推开房间的窗户向外张望，又是一个艳阳天啊！后勤人员已在厨房准备早餐了。食材我们昨天光小镇的时候，在一家超市都买好了。这厨房，东西还挺全，煤气灶、微波炉和电烤箱…… 我们就随便来点培根煎蛋吧，今天的美景还在路上等着我们呢
+在外旅行，每次都是兴奋得很早就醒。推开房间的窗户向外张望，又是一个艳阳天啊！后勤人员已在厨房准备早餐了。食材我们昨天光小镇的时候，在一家超市都买好了。这厨房，东西还挺全，煤气灶、微波炉和电烤箱…… 我们就随便来点培根煎蛋吧，还有昨天买的烟熏三文鱼、当地特产青口，赞啊！快吃，今天的美景还在路上等着我们呢。
 
 <!--more-->
 ![nz: 做早餐]({{ '/img/nz/labor-women.jpg' | prepend: site.baseurl }})
@@ -28,6 +28,7 @@ mark: <i class="fa fa-map-marker"></i>
 {{ page.hand }} <span>依依不舍，即将离去！</span>
 
 当然，昨天答应人家帮忙的事情也不能忘记了。先去边上的 Wanaka Hotel 拿回我们中国同胞的手机，老话说得好啊，肥水不流外人田，嘿嘿。
+
 ![nz: Ford Mercury]({{ '/img/nz/ford-mercury.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>wow！Hotel 门口有辆古董车啊，福特水星，貌似1939年产的 Mercury Eight，我天，还在开呐！</span>
 
@@ -186,13 +187,9 @@ GO！买好从峡湾码头出发的巡游票，立即出发！一路疾驰，从
 ![nz: little cat]({{ '/img/nz/cat-in-house.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>不速之客啊！</span>
 
-今天这个 original plan 是在 Arrowtown 宿营的，后来执行了末日计划后，修改后的落脚点在 Queenstown。未曾想我们这位老司机这么能跑，皇后镇留不住他啊！随机应变，自驾游的又一优势啊！
-
-夜幕又一次拉上了！诶，这次为啥没有夜里的照片了呢？因为80分大战又一触即发了！这次赌注有点大，连我都怕了啊！输掉的那队 CP 第二天要早起为大家准备早餐啊！然而，我们赢了，安心的在这 Lake Te Anau 边做个好梦吧，期待明日峡湾之旅！
+今天这个 original plan 是在 Arrowtown 宿营的，后来执行了末日计划后，修改后的落脚点在 Queenstown。未曾想我们这位老司机这么能跑，皇后镇留不住他啊！随机应变，自驾游的又一优势啊！其实，究其原因，我想大概是都在大城市待久了，内心对商业气息浓重的地方稍有排斥吧。
 
 ![nz: 今日行程]({{ '/img/nz/path-wanaka-2-te-anau.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>今日行程</span>
 
-
-
-## <i class="fa fa-angle-double-right"></i> 未完待续
+## <i class="fa fa-angle-double-right"></i> [请看下篇：Day-6(12/23) 纵将万管玲珑笔，难写峡湾两岸山]({{ '/2016/04/26/lost-in-middle-earth-day-6.html' | prepend: site.baseurl }})
