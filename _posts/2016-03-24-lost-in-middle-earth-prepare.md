@@ -46,7 +46,7 @@ Ticktock, Ticktock，出发的日子临近了，行装检查了一遍又一遍�
 ## [Day-5(12/22) 好峰随处改，幽径自驾迷]({{ '/2016/04/12/lost-in-middle-earth-day-5.html' | prepend: site.baseurl }})
 瓦纳卡(Wanaka) -> 蒂阿瑙(Te Anau)
 
-## Day-6(12/23) 纵将万管玲珑笔，难写峡湾两岸山
+## [Day-6(12/23) 纵将万管玲珑笔，难写峡湾两岸山]({{ '/2016/04/26/lost-in-middle-earth-day-6.html' | prepend: site.baseurl }})
 蒂阿瑙(Te Anau) -> 米尔福德峡湾(Milford Sound) -> 皇后镇(Queenstown)
 
 ## Day-7(12/24) 与君拂衣去，山顶同翱翔
