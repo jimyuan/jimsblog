@@ -168,4 +168,4 @@ mark: <i class="fa fa-map-marker"></i>
 {{ page.hand }} <span>今日行程</span>
 
 
-### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-3(12/20) 水光潋滟晴方好，两只老牛在一起]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})
+### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-3(12/20) 水光潋滟晴方好，一对老牛酿佳话]({{ '/2016/04/05/lost-in-middle-earth-day-3.html' | prepend: site.baseurl }})
