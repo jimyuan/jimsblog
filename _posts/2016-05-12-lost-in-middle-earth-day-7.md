@@ -120,7 +120,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 会生活的一家]({{ '/img/nz/sweet-family.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>甜蜜的大家庭，可爱的大狗狗！</span>
 
-回到皇后镇了，先回酒店休整一下，Paradise 回来后一头的土，哈哈！今天平安夜，先看看选哪家餐厅吃个大餐去！然后计划一下明天的行程，因为明天是“多出来的一天”，之前的攻略里没有规划过，为啥？待我明日再讲。
+回到皇后镇了，先回酒店休整一下，Paradise 回来后一头的土，哈哈！今天平安夜，先看看选哪家餐厅吃个大餐去！然后计划一下明天的行程，因为明天是“多出来的一天”，之前的攻略里没有规划过，为啥？不明白的待我明日再讲。
 
 ![nz: 酒店小憩]({{ '/img/nz/rest-in-pepers-beacon.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>大方向我把持，你们补充细节，你们表光顾吃冷饮好伐！</span>
@@ -128,6 +128,51 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 湖边人群]({{ '/img/nz/people-at-lake-side.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>人们聚集在湖边运动、休憩、聊天，共享一个热闹的傍晚。</span>
 
-选定晚餐的地儿了，离住的地方不远，咱逛过去吧。这家餐厅叫 [<i class="fa fa-cutlery"></i> Finz](http://dwz.cn/3loZXJ)，位于皇后镇著名的蒸汽船码头边上。
+休整完毕，往镇中心逛过去，看看去哪儿吃。最后我们选定了一个风景甚好的晚餐地儿，这家餐厅叫 [{{ page.mark }} Finz](http://dwz.cn/3loZXJ)，位于皇后镇著名的蒸汽船码头边上。我们一行选了外面的露天位置，可以同时饕餮这美食和湖景。
+
+![nz: Finz]({{ '/img/nz/finz-queenstown.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>Finz，坐落于醉人的瓦卡蒂普湖边，谷歌街景图。</span>
+
+正在吃饭的当间，一艘老式邮轮停靠在了我们的边上，说起这艘邮轮，可是有些历史啦！它的大名 TSS Earnslaw（TSS 厄恩斯劳号），摘录一段介绍吧：
+
+> TSS厄恩斯劳号蒸汽船是皇后镇的标志，是瓦卡蒂普湖上最大最豪华的游船，也是南半球唯一一艘还在航行的燃煤蒸汽游船，在皇后镇人们的心目中具有特殊的地位，被人们亲切地誉为“湖女”（Lady of the Lake）。2014年蒸汽船刚好满100岁。蒸汽船船体结构仍旧保持了二十世纪初的造型，登上蒸汽船，可以参观第三层的驾驶舱，参与蒸汽船烧煤过程或者去一层小型博物馆逛逛，TSS厄恩斯劳号每天都会在瓦卡蒂普湖上来回航行，购买一张船票感受一下古老蒸汽船的遗风是游赏瓦卡蒂普湖的好选择。
+>
+>![nz: TSS Earnslaw]({{ '/img/nz/tss-earnslaw.jpg' | prepend: site.baseurl }})
+
+吃饱喝足，让服务员给中土远征队来张合影吧，队服出行，关系有点乱，哈哈！
+
+![nz: 饭后集体照]({{ '/img/nz/take-photo-with-tss.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>拍照这会儿，蒸汽邮轮正好靠岸！</span>
+
+![nz: 烟囱]({{ '/img/nz/smoke-stack.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>蒸汽船又要出发啦！</span>
+
+回到酒店，才晚上6点多，看着湖边依然热闹的人群，我们也越过马路，来到湖边休憩。当看到有几个小朋友在湖里畅快嬉戏时，我也突然心血来潮，想着我不是带泳具来了嘛，回去换好，我也在这湖水中畅游一番吧。
+
+![nz: 湖边嬉戏]({{ '/img/nz/funny-at-lake-side.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>湖边依然热闹的人群。</span>
+
+![nz: 湖边BBQ]({{ '/img/nz/bbq-at-lake-side.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>湖边充满了BBQ的味道，准备迎接Christmas！人家这地方，湖边连 BBQ 的炉子都有！</span>
+
+不料，下水后才知道，这冰山融雪汇成的湖水可真是冰凉彻骨啊，那些在水中从容嬉戏的小朋友，大哥哥真是佩服你们！实在是没勇气下水畅游了，只能摆拍一张，证明我——来过[掩面]！
+
+![nz: 游泳]({{ '/img/nz/swimming-in-lake-wakatipu.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>太凉了，没勇气下水！</span>
+
+既然下不了水，那咱还是老老实实待在湖边，乘着夕阳余晖未尽，抓紧晒晒肚皮吧。顺便取来我那长焦小小白，捕捉一些瞬间的记忆，等回国后再慢慢回忆。
+
+![nz: 湖边休憩]({{ '/img/nz/rest-at-lake-side.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>我坐在湖边看风景，拿相机的人在风景里偷拍我！</span>
+
+![nz: 湖边水鸟]({{ '/img/nz/birds-at-lake-side.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>无忧的水鸟，湖边凫水进食，永远活在自我的世界里。</span>
+
+地球忠实的遵循着角动量守恒的自然法则，慢慢的自转了几十亿年，在一个被地球智慧生物标记为平安夜的那段时刻，它依旧坚持着这个原则，把太阳的光芒藏到了自己的另一边。80分大战结束后，该给朋友们写明信片了，明天我们会在 skyline 门口的国际邮筒里寄出一部分。
+
+![nz: 写明信片]({{ '/img/nz/write-post-cards.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>邮寄一份心情，给远方的朋友们。</span>
+
+Good night Queenstown & Merry Christmas！明日，将会有“惊恐”等待着我们的体验！
 
 ## <i class="fa fa-angle-double-right"></i> 未完待续
