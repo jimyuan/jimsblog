@@ -52,7 +52,7 @@ Ticktock, Ticktock，出发的日子临近了，行装检查了一遍又一遍�
 ## [Day-7(12/24) 居高声自远，平地寻天堂]({{ '/2016/05/12/lost-in-middle-earth-day-7.html' | prepend: site.baseurl }})
 皇后镇(Queenstown)
 
-## Day-8(12/25) 万径人踪绝尘去，一骑急行闯空城
+## [Day-8(12/25) 万径人踪绝尘去，一骑急行闯空城]({{ '/2016/05/17/lost-in-middle-earth-day-8.html' | prepend: site.baseurl }})
 皇后镇(Queenstown) -> 但尼丁(Dunedin)
 
 ## Day-9(12/26) 奇珠遍洒渔村旁，鲁冰花开壁湖岸，

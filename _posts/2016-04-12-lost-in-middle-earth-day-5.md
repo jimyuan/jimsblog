@@ -71,7 +71,12 @@ mark: <i class="fa fa-map-marker"></i>
 
 游玩结束，我们要向皇后镇进发了，前段时间姚晨不是刚去逛过嘛，人家还去皇后镇边上的箭镇游玩了一番，那我们也跟着去逛逛吧。这次我们决定不走6号公路了，我们想，走条山路或许风光更好吧。于是，从 puzzling world 出来后，我们选择了这条叫 Cardrona Valley Rd. 的小路先去箭镇逛逛。
 
-听这名字，valley road，路况肯定没有6号的好，只是，我们要的是风景啊！果然这条公路在群山中穿梭，地势也起起伏伏，越走越高。在到达一个90度的拐弯处时，这里设置了一个 [{{ page.mark }} view point](http://dwz.cn/36wcEy)，借助这里地势的优势，我们可以俯瞰下面的一整片山谷。四下张望，估计这里也就是这条公路地势最高的地方了。
+回去之后很久，在一个偶然的机会，我才发现，走这条路时，我们竟然遗漏了一个在任何世界奇趣景点集合里都会排进前十名的地方，就在路边，我们就这么错过了，这就是：卡德罗纳胸罩围栏！这个奇葩景点竟然还有 [<i class="fa fa-facebook-official"></i> Facebook](https://www.facebook.com/brafence/) 主页，还真真是醉了啊！至于这个景点是怎么回事，有兴趣的朋友可以查一下它的 [<i class="fa fa-wikipedia-w"></i> wiki](http://dwz.cn/3nr4BJ)，看看它的来历，或者看我下面的配图。我在谷歌街景里找了半天，都没找到其具体位置，可能被其屏蔽了吧。下次如果有机会再走一次的话，我要好好找找了，应该就在 [{{ page.mark }} The Cardrona](http://dwz.cn/3nr8LO) 这个地点附近。
+
+![nz: Bra Fence]({{ '/img/nz/bra-fence.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>如此奇葩景点，我竟然没注意，我是睡着了吗？</span>
+
+好，以上奇葩事宜暂且按下不表，听这路的名字，valley road，峡谷中的路，这路况肯定跟6号公路没的比，只是，我们有风景就够了！果然这条公路在群山中穿梭，地势也起起伏伏，越走越高。在到达一个90度的拐弯处时，这里设置了一个 [{{ page.mark }} view point](http://dwz.cn/36wcEy)，借助这里地势的优势，我们可以俯瞰下面的一整片山谷。四下张望，估计这里也就是这条公路地势最高的地方了。
 
 ![nz: Stela]({{ '/img/nz/stela-in-cardrona.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>观景处的石碑，没细看碑文，估计也是勘探、建设这条路的一些纪念文字。</span>

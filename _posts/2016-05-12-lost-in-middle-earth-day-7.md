@@ -23,7 +23,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: Skyline Biking]({{ '/img/nz/take-gondola-with-bike.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>运车上山，来场极限挑战</span>
 
-这里管上山缆车叫 Gondola，和威尼斯的那种尖头小船同名，貌似不能理解。随着缆车车厢慢慢上升，视野逐渐开阔，整个小镇的全貌开始慢慢呈现。此时抬头可见，天空中已经有飘荡的伞降勇士在搏击长空了，看得我心里一阵激荡啊！
+这里管上山缆车叫 Gondola，和威尼斯的那种尖头小船同名，貌似不能理解。随着缆车车厢慢慢上升，视野逐渐开阔，整个小镇的全貌开始渐渐呈现在我们的视野。此时抬头可见，天空中已经有飘荡的伞降勇士在搏击长空了，看得我心里一阵激荡啊！
 
 ![nz: 鸟瞰]({{ '/img/nz/airview-in-gondola.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>在缆车里初步鸟瞰皇后镇。</span>
@@ -34,12 +34,12 @@ mark: <i class="fa fa-map-marker"></i>
  Gondola 停靠终点，我们走出缆车站，山顶游人如织，是如此热闹啊！这里有个很棒的观景平台，可以在此更加清晰的鸟瞰皇后镇。瓦卡蒂普湖中红色的 Jetboat 依稀可见，提前预告一下，这可是我们明天的游乐项目哦！
 
  ![nz: 鸟瞰皇后镇]({{ '/img/nz/airview-queenstown-at-top.jpg' | prepend: site.baseurl }})
- {{ page.hand }} <span>不说啥了，总之风光无限！远处延伸出来的那个半岛是一个 golf 球场。</span>
+ {{ page.hand }} <span>且看远处延伸出来的那个半岛，是一个 golf 球场。此等景致，不说啥了，我已词穷。</span>
 
  ![nz: 山顶集体照]({{ '/img/nz/we-are-all-at-top.jpg' | prepend: site.baseurl }})
  {{ page.hand }} <span>照样来张俗人集体照，今天队服出行。我们…… 来过！</span>
 
- 站在这里，我好犹豫啊，这里有个叫 [G Force Paragliding](http://www.nzgforce.com) 的服务处，你可以在这里报名参加高空滑翔伞运动，当然费用也不便宜，算下来大概1,500人民币吧，其实，心疼钱还在其次，咱不是怕啊，主要还是…… 心慌！好吧，一咬牙一跺脚，恐惧战胜了挑战，咱放弃！
+ 站在这里，我好犹豫啊，这里有个 [G Force Paragliding](http://www.nzgforce.com) 的服务处，你可以在这里报名参加高空滑翔伞运动，当然费用也不便宜，算下来大概1,500人民币吧，其实，心疼钱还在其次，咱不是怕啊，主要还是…… 心慌！好吧，一咬牙一跺脚，恐惧战胜了挑战，咱 give up！
 
  ![nz: 山顶滑翔伞]({{ '/img/nz/g-force-paragliding.jpg' | prepend: site.baseurl }})
  {{ page.hand }} <span>夫人帮我打听好了价格，问我报名否？我当然…… 退却了，呜呜~~~</span>
@@ -52,12 +52,12 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 绵羊帽]({{ '/img/nz/sheep-cap.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>礼品店里密谋作案工具，打算混入羊群以便能够薅到资本主义羊毛！</span>
 
-这时，我们发现另一样运动，这大概算是我们敢玩的为数不多的项目了。这里把这项娱乐活动叫做 Luge，就是一种滑板车，我们坐小缆车去到另一个高点，那儿是 Luge 的起点。坐上 Luge，松开把手，这车趴地上，拉起把手，开溜，再往后拉，刹车；转动把手转弯，很简单吧。
+这时，我们发现另一样运动，这大概算是我们敢玩的为数不多的项目了。这里把这项娱乐活动叫做 Luge，就是一种滑板车，终点处有提供寄存服务，我们先把一些零碎放好，然后在此坐小缆车去到高处，那儿是 Luge 的起点。
 
 ![nz: Luge]({{ '/img/nz/go-for-luge.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span> 坐小缆车去 Luge 的起点咯！</span>
 
-到了起点处，有个美女指导，让你跟着她的口令示范一下，是否掌握了开动、刹车、转弯等基本操作，感觉你这几个动作没问题了，给你敲个 Luge 的章，告诉你毕业了，往下冲吧！
+到了起点处，有个美女指导，让你跟着她的口令示范一下，坐上 Luge，松开把手，这车自然而然地趴地上；向上拉起把手，开溜；再往后拉，刹车；转动把手转弯，很简单吧。然后是个小小的 test，看你是否已经掌握了这些基本操作，感觉你没问题了，给你敲个 Luge 的章，告诉你驾校毕业了，往下冲吧！
 
 ![nz: Luge]({{ '/img/nz/luge-stamp.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>盖上图章，说明你已经是 Luge 小能手了，出发吧！</span>
@@ -87,7 +87,7 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 偷羊？]({{ '/img/nz/fake-sheep.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>妄图凭借拙劣化妆术混入羊群！</span>
 
-其实这里的绵羊，不像我们电视里看到的那种浑身白白的毛毛，其实凑近看，是看上去脏兮兮的那种，而且现在是夏天，很多绵阳已经被剃了毛了，小身子骨颤颤巍巍的。
+其实这里的绵羊，不像我们电视里看到的那种浑身白白的毛毛，其实凑近瞧，看上去灰不溜秋脏兮兮的，而且现在是夏天，很多已经被剃了毛了，小身子骨颤颤巍巍的。
 
 这里基本上都是私人领地，我们不敢随便乱闯，只能沿着一条碎石路继续开。然后，我们就进入了一片马场，来 NZ 第一次看到马场啊，而且这些马儿看到人都好亲切的样子，主动跑到围栏边上吃我们喂的草。这里就是 Paradise 了吗？我不知道，但是管它呢，我说是这里就是了嘛！
 
@@ -113,7 +113,7 @@ mark: <i class="fa fa-map-marker"></i>
 {{ page.hand }} <span>大婶这是要干嘛去啊，潜水吗？</span>
 
 ![nz: 划水的大婶]({{ '/img/nz/water-skiing.jpg' | prepend: site.baseurl }})
-{{ page.hand }} <span>诶嘛！高级啊！大婶玩儿的挺溜啊！甘拜下风，咱们撤！</span>
+{{ page.hand }} <span>诶嘛！高级啊！大婶玩儿的挺溜啊！甘拜下风，这咱没法喷！</span>
 
 嗯，看着这一家划水玩得不亦乐乎的样子，心里想着刚看到的[知乎](http://www.zhihu.com/)上的一个贴，说外国人对中国人刻板的印象，好多都答，运动能力不是很强。的确啊，差距就是差距！平安夜，带着全家和心爱的狗狗一起来到湖边，野餐、划水、游泳，嗯，这才是生活。
 
@@ -131,7 +131,7 @@ mark: <i class="fa fa-map-marker"></i>
 休整完毕，往镇中心逛过去，看看去哪儿吃。最后我们选定了一个风景甚好的晚餐地儿，这家餐厅叫 [{{ page.mark }} Finz](http://dwz.cn/3loZXJ)，位于皇后镇著名的蒸汽船码头边上。我们一行选了外面的露天位置，可以同时饕餮这美食和湖景。
 
 ![nz: Finz]({{ '/img/nz/finz-queenstown.jpg' | prepend: site.baseurl }})
-{{ page.hand }} <span>Finz，坐落于醉人的瓦卡蒂普湖边，谷歌街景图。</span>
+{{ page.hand }} <span>Finz Seafood & Grill，坐落于醉人的瓦卡蒂普湖边，谷歌街景图。</span>
 
 正在吃饭的当间，一艘老式邮轮停靠在了我们的边上，说起这艘邮轮，可是有些历史啦！它的大名 TSS Earnslaw（TSS 厄恩斯劳号），摘录一段介绍吧：
 
@@ -168,11 +168,11 @@ mark: <i class="fa fa-map-marker"></i>
 ![nz: 湖边水鸟]({{ '/img/nz/birds-at-lake-side.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>无忧的水鸟，湖边凫水进食，永远活在自我的世界里。</span>
 
-地球忠实的遵循着角动量守恒的自然法则，慢慢的自转了几十亿年，在一个被地球智慧生物标记为平安夜的那段时刻，它依旧坚持着这个原则，把太阳的光芒藏到了自己的另一边。80分大战结束后，该给朋友们写明信片了，明天我们会在 skyline 门口的国际邮筒里寄出一部分。
+地球忠实的遵循着角动量守恒的自然法则，慢慢的自转了几十亿年，在一个被地球智慧生物标记为平安夜的那段时刻，它依旧坚持着这个原则，直到把太阳的光芒藏到了自己的另一边。80分大战结束后，该给朋友们写明信片了，明天我们会在 skyline 门口的国际邮筒里寄出一部分。
 
 ![nz: 写明信片]({{ '/img/nz/write-post-cards.jpg' | prepend: site.baseurl }})
 {{ page.hand }} <span>邮寄一份心情，给远方的朋友们。</span>
 
-Good night Queenstown & Merry Christmas！明日，将会有“惊恐”等待着我们的体验！
+Good night Queenstown & Merry Christmas！明日，将会有“惊恐”等待着我们去体验！
 
-## <i class="fa fa-angle-double-right"></i> 未完待续
+## <i class="fa fa-angle-double-right"></i> [请看下篇：Day-7(12/25) 万径人踪绝尘去，一骑急行闯空城]({{ '/2016/05/17/lost-in-middle-earth-day-8.html' | prepend: site.baseurl }})
