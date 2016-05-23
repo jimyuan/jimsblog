@@ -91,12 +91,12 @@ tags: middle-earth
 ![nz: Farmhouse]({{ '/img/nz/farmhouse-wine.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>这次没空去品红酒咯，让我回国再操练操练红酒常识。（内人的构图素养兼职令人发指啊！）</span>
 
-离预订目的地不远了，这个一路上的景色也从群山、牧场转变成了车厘子果园或者葡萄庄园了。看样子已经离“水果小镇”越来越近了。
+离预订目的地不远了，这个一路上的景色也从群山、牧场转变成了车厘子果园或者葡萄庄园了。看样子已经离“水果小镇”越来越近了。新西兰政府给全世界的青年推出一种为期一年的打工度假签证，现在，我前公司的一个同事正在这儿附近的车厘子农庄里干活，人家好不容易有个假期，那就不去打扰他了，咱继续走！
 
 ![nz: 葡萄园]({{ '/img/nz/grape-yard.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>开车经过路边成片的葡萄园。</span>
 
-此次行程大概一个小时左右，我们终于来到了传说中的“水果小镇” [{{ site.icon.mark }} Cromwell](http://dwz.cn/3oPQxg)，克伦威尔。迎面而来的就是小镇的著名巨型水果招牌，彰显了该镇的传统特色。
+此次行程大概一个小时左右，我们终于来到了传说中的“水果小镇” [{{ site.icon.mark }} Cromwell](http://dwz.cn/3oPQxg)，克伦威尔。迎面而来的就是小镇著名的巨型水果招牌，由此彰显该镇的传统特色。
 
 ![nz: 克伦威尔水果牌]({{ '/img/nz/fruit-model-at-cromwell.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>小镇克伦威尔著名的水果模型。</span>
@@ -111,26 +111,79 @@ tags: middle-earth
 ![nz: 克伦威尔的枪店]({{ '/img/nz/gun-shop-at-cromwell.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>“枪店”里的水果恶贵，咱不上当！</span>
 
-再次回到巨型水果牌下，看样子今天哪哪的都放假，去哪儿好呢？我重新计划着今日的行程，经过行驶里程的评估，决定了这么一条路线：等下继续往东一直开到东海岸，到南岛的第二大城市但尼丁歇脚，明天再从但尼丁前往蒂卡波湖，从路上所花的时间来看，在我们可接受的范围内，我不太相信一个几十万人口的城市也会像这小镇一样上演万人空巷的奇景。那好吧，出发！
+再次回到巨型水果牌下，环顾四周，只有最远处有两三个玩滑板的小孩，偶尔有跟我们一样的游客，在此稍微停留了一下，然后像发现了什么似的，又马上疾驰而去，不带走一丝尘土。看样子今天哪哪的都放假，去哪儿好呢？
 
-要去但尼丁，小镇上有条88号公路连接了我们所在的6号及要走的8号公路。其实小镇克伦威尔跟其他小镇类似，依附在一座叫做 [{{ site.icon.mark }} Lake Dunstan](http://dwz.cn/3oRu5h) 狭长型湖的南端，这这里，Kawarau River 和 新西兰第二长河（南岛第一长河） Clutha River 汇合，连通到 Lake Dunstan 中，其实再往北，Clutha River 从湖中穿出，还能连到 Lake Wanaka，瓦纳卡的湖水滚滚的汇入此河，使其成为新西兰流水量最大的河。
+我重新计划着今日的行程，经过行驶里程的评估，决定了这么一条路线：下一步我们继续往东一直开到东海岸，到南岛的第二大城市但尼丁歇脚，明天再从但尼丁前往蒂卡波湖，从路上所花的时间来看，在我们可接受的范围内，我不太相信一个几十万人口的城市也会像这小镇一样上演万人空巷的奇景。那好吧，出发！
+
+要去但尼丁，小镇上有条88号公路连接了我们所在的6号及要走的8号公路。克伦威尔跟其他小镇类似，依附在一座叫做 [{{ site.icon.mark }} Lake Dunstan](http://dwz.cn/3oRu5h) 狭长型湖的南端，这这里，Kawarau River 和 新西兰第二长河（南岛第一长河） Clutha River 汇合，连通到 Lake Dunstan 中，其实再往北，Clutha River 从湖中穿出，还能连到 Lake Wanaka，瓦纳卡的湖水滚滚的汇入此河，使其成为新西兰流水量最大的河。
 
 ![nz: 去但尼丁的路]({{ '/img/nz/road-to-dunedin.jpg' | prepend: site.baseurl }})
-{{ site.icon.hand }} <span>88号公路跨过两河一湖的汇入口，右拐驶向今天的目的地——但尼丁！</span>
+{{ site.icon.hand }} <span>88号公路跨过两河一湖的汇入口，右拐驶向今天的目的地——Dunedin！</span>
 
 ![nz: Champagne Gully]({{ '/img/nz/champagne-gully.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>8号公路，Clutha River 边，这是一个叫 Champagne Gully 的宿营地，度假的人们快艇玩的挺欢。</span>
 
-我们沿着8号公路先是一路南下，先后经过了 [{{ site.icon.mark }} Alexandra](http://dwz.cn/3oSKPS)（亚历山德拉）、[{{ site.icon.mark }} Roxburgh](http://dwz.cn/3oSNrl)（罗克斯堡）、[{{ site.icon.mark }} Lawrence](http://dwz.cn/3oSPn6)（劳伦斯）等小镇，好可怕的是这些地方竟然也都是空空如也，仿佛这个世界只剩下我们了。直到偶尔在路上与零星小车擦肩而过，才使我们稍微放点心，这都是幻觉！
+我们沿着8号公路先是一路南下，先后经过了 [{{ site.icon.mark }} Alexandra](http://dwz.cn/3oSKPS)（亚历山德拉）、[{{ site.icon.mark }} Roxburgh](http://dwz.cn/3oSNrl)（罗克斯堡）、[{{ site.icon.mark }} Lawrence](http://dwz.cn/3oSPn6)（劳伦斯）等小镇，好可怕的是这些地方竟然也都是空空如也，仿佛这个世界只剩下我们了。直到偶尔在路上与零星小车擦肩而过，才使我们稍微放点心！
 
 8号公路开到小镇 [{{ site.icon.mark }} Milton](http://dwz.cn/3oSZKR) 后到头了，向左转道1号公路，此时我们已经靠近东海岸了， Milton 应该是我到过的南半球维度最高的地方了，有四十多度了吧，记得第一次跨赤道的旅游是在巴厘岛，那里大概才南纬八点几度。真希望下次有机会能够去南岛最南端的城市 [{{ site.icon.mark }} Invercargill](http://dwz.cn/3oUMt8)，或者是1号公路的尽头 [{{ site.icon.mark }} Bluff](http://dwz.cn/3oUxwB) 小镇去瞭望一下呀！
 
 ![nz: Lake Waihola]({{ '/img/nz/the-most-south.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>拍摄于 Lake Waihola 附近，应该是我手机照片的 EXIF 信息中南纬最高的一张了。</span>
 
-离南岛第二大城市 [{{ site.icon.mark }} Dunedin](http://dwz.cn/3oVje4) 越来越近了，路上的车辆也渐渐开始增多，我颇为得意，嘿嘿怎么样，我的推断不错吧！但尼丁这是怎样一座城市呢，我之前的臆测的人口规模还是有问题，这里虽然荣膺南岛第二大城市、新西兰占地面积最大的城市，不过看 [wiki {{ site.icon.link }}]( http://dwz.cn/3oVx6A) 上说，为啥仅仅才12万人口啊，上海常驻人口最少的静安区（合并前）也都24万了啊！
+离南岛第二大城市 [{{ site.icon.mark }} Dunedin](http://dwz.cn/3oVje4) 越来越近了，路上的车辆也渐渐开始增多，我颇为得意，嘿嘿怎么样，我的推断不错吧！但尼丁这是怎样一座城市呢，我之前的臆测的人口规模还是有问题，这里虽然荣膺南岛第二，并且是新西兰占地面积最大的城市，不过看 [wiki {{ site.icon.link }}]( http://dwz.cn/3oVx6A) 上说，这里仅仅才12万人口啊，上海常驻人口最少的静安区（合并前）也都24万了啊！
 
 ![nz: 进城]({{ '/img/nz/near-to-dunedin.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>远方低洼的那一片就是但尼丁城啦，加油开啊！</span>
+
+大概下午五点多的样子，我们驶入了但尼丁，不过他大爷的，整座城市还真是空城啊，街道上只有偶尔的人影和车辆一晃而过，人都去藏的这么好啊？先别逛了，咱赶紧找个地儿安顿下来吧，该不会今天连 Motel 也住不上吧。
+
+![nz: 兰园]({{ '/img/nz/dunedin-chinese-garden.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>兰园，据说是为了纪念华人为这座城市的历史和文化做出的贡献以及但尼丁和上海姐妹城市关系而建立的。（看看，没人吧！）</span>
+
+由于是临时起意，对这个城市之前没做太多功课，这住的地方嘛，还是参考了 LP 的建议，找了一家叫做 [{{ site.icon.stay }} Alhambra Oaks Motor Lodge](http://dwz.cn/3qkPnV) 的 Motel 安顿了下来，店主大概在和家里人团聚吃饭，被我们前台的按铃给引来了，给了我们间双卧套房，然后自己又匆匆地回后屋了。
+
+![nz: Alhambra Oaks Motor]({{ '/img/nz/alhambra-oaks-motor-lodge.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>Alhambra Oaks Motor，一直沿着1号公路开就到了。(谷歌街景图)</span>
+
+这间 Motel 的地理位置还不错，靠近市中心，马路对面就是一个大草坪，视野很好。过了大草坪，就是新西兰于1869年成立的第一所大学， [University of Otago {{ site.icon.link }}](http://www.otago.ac.nz/)，奥塔哥大学。
+
+![nz: University of Otago]({{ '/img/nz/university-of-otago.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>远处的建筑大概就是大学建筑的一部分了。</span>
+
+时间还早，我们就一起去附近逛逛，看看异国风情，也顺便瞧瞧是不是会有餐厅开着（其实我们不抱希望）。整个城市只能看到稀稀拉拉的行人和车辆，仿佛整条街道，整个城市都被我们承包了，这个圣诞节过得真有意思，要在国内，借着节日的名头，今天商家的各种促销战还不得打得热火朝天啊！
+
+![nz: 空旷的草坪]({{ '/img/nz/grass-is-yours.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>好吧，这片草坪被你承包了！</span>
+
+![nz: 无人的街道]({{ '/img/nz/road-is-mine.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>好哦，这条马路被我承包了！</span>
+
+但尼丁是一座具有浓浓苏格兰风情的城市，如忽然身临此地，一定会以为在英伦某个小城呢。我们先驱车来到了市中心的八角广场，这里平时是该城最为热闹的区域，围绕着八角广场，有哥特式圣保罗教堂、市议会厅、市政府、艺术展览馆、旅游服务中心等，还有林荫绿地和几条通往各个方向的主要大街。
+
+![nz: 八角广场]({{ '/img/nz/building-around-square.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>市政大厅和圣保罗大教堂(到处都有名为 St. Paul's 的教堂啊)</span>
+
+此时的广场就我们几个游客了，后来又加入了一对刚来新西兰旅游的老夫妇，嗯是的，连广场也被我们承包了，哈哈！
+
+![nz: Robert Burns]({{ '/img/nz/robert-burns.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>面对教堂，树立着一位苏格兰诗人 [Robert Burns {{ site.icon.link }}](http://dwz.cn/3qrdHT) 的坐像。</span>
+
+![nz: 无人街道]({{ '/img/nz/no-people-road.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>教堂边上空旷的 Stuart St.</span>
+
+在这里逛够了，我们开启了驾车满城找餐厅的节奏。事实是，这座城市除了加油站里的便利店，貌似没有任何的餐厅是开着的，你奶奶个熊啊，洋人这圣诞过得…… 凶猛啊！最后不知逛到哪条街道上的一个不知道是印度还是巴基斯坦人开的烤鸡店解决了我们的晚饭问题。
+
+![nz: 咪表]({{ '/img/nz/parking-meter.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>第一次在新西兰见到了咪表，说明这儿已经够热闹了，不过至今我们在南岛没为停车出过一分钱。</span>
+
+我天那，这个圣诞节过的可真有意思，在这里严重表扬今日司机——袁夫人同志，她凭一己之力，基本上一口气从克伦威尔开到了目的地但尼丁，以实际行动表示不是所有的女司机都是奇葩！
+
+![nz: 女司机]({{ '/img/nz/female-driver-4.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>今日女司机立功劳！</span>
+
+今日，在别人圣诞大餐之际，我们去了一家黑乎乎的店，吃着黑乎乎的人做的黑乎乎的炸鸡，算了，偶尔委屈一顿就克服克服吧。还好 Motel 附近有加油站和便利店，去买点零食和面包等，晚上打牌用得着啊！明天就要去那著名的人气景点——蒂卡波湖边看星星咯，想想也是激动啊！
+
+![nz: 今日行程]({{ '/img/nz/path-queenstown-2-dunedin.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>今日行程！</span>
 
 ## <i class="fa fa-angle-double-right"></i> 未完待续
