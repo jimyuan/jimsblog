@@ -63,3 +63,11 @@ paginate:     8
 markdown:     kramdown
 sass:
   compressed: true
+
+# Site icons
+icon:
+  hand: <i class="fa fa-hand-o-up"></i>
+  mark: <i class="fa fa-map-marker"></i>
+  link: <i class="fa fa-external-link"></i>
+  stay: <i class="fa fa-bed"></i>
+  food: <i class="fa fa-cutlery"></i>
