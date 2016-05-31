@@ -5,6 +5,10 @@
 
 .post-content {
   word-break: break-all;
+
+  p {
+    text-align: justify;
+  }
 }
 
 .posts .post {

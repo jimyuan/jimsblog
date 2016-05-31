@@ -4,7 +4,7 @@ title:  Lost in Middle Earth (prepare)
 tags: middle-earth
 ---
 
-很多年前，当 [Lady Galadriel {{ site.icon.link }}](http://dwz.cn/3nKFfZ) 的旁白在一部叫做 [*The Lord of the Rings* {{ site.icon.link }}](http://dwz.cn/3nKO8b) 的电影里想起时，这个神秘而磅礴的中土世界瞬间就深刻地映入了我的脑海！影片导演 Peter Jackson 将他家乡新西兰的各处美景当做素材，融入了这个奇幻的中土世界。
+很多年前，当 [Lady Galadriel {{ site.icon.link }}](http://dwz.cn/3nKFfZ) 那娓娓道来的旁白在一部叫做 [*The Lord of the Rings* {{ site.icon.link }}](http://dwz.cn/3nKO8b) 的电影中想起时，这个奇幻而磅礴的中土世界瞬间就深刻地映入了我的脑海！这部影片的导演，当时还未有名声的 [Peter Jackson {{ site.icon.link }}](http://www.imdb.com/name/nm0001392/) 将他家乡新西兰的各处美景当做 Middle Earth 的外景素材，融入了这个奇幻的影片中。
 
 <!--more-->
 
@@ -12,7 +12,7 @@ tags: middle-earth
 >
 > ![voice of Galadriel]({{ '/img/nz/Galadriel-voice.jpg' | prepend: site.baseurl }})
 
-好想去这个传说中的地方看看啊！有着共同想法的两对 CP 要开始行动了！在出发前半年的某个周末，我们连咬牙带跺脚，在某网站上以迅雷不及掩耳盗铃儿响叮当之势，订好了从上海飞往新西兰第一大城市奥克兰的机票。是的，这下不找借口了，我们真地要去 middle earth 了。那里是 Hobbits 的家乡，那里有雄伟的圣城 Minas Tirith，那里还有杀气腾腾的 Mount Doom ……
+好想去这个传说中的地方游历一番啊！有着共同想法的两对 CP 开始蠢蠢欲动了！在年中的某个周末，我们连咬牙带跺脚，在某网站上以迅雷不及掩耳盗铃儿响叮当之势，订好了从上海飞往新西兰第一大城市奥克兰的机票。是的，这下不找借口了，我们真地要去 middle earth 了。那里是 Hobbits 的家乡，那里有雄伟的圣城 Minas Tirith，那里还有杀气腾腾的 Mount Doom ……
 
 ![nz: Minas Tirith]({{ '/img/nz/minas-tirith.jpg' | prepend: site.baseurl }})
 
