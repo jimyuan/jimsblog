@@ -214,4 +214,4 @@ tags: middle-earth
 ![nz: 今日行程]({{ '/img/nz/path-dunedin-2-lake-tekapo.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>今日行程！其实还有奥塔哥半岛来回那 70 公里。</span>
 
-## <i class="fa fa-angle-double-right"></i> 未完待续
+## <i class="fa fa-angle-double-right"></i> [请看下篇：Day-10(12/27) 庭院深深深几许，曲径过后桃花源]({{ '/2016/05/31/lost-in-middle-earth-day-10.html' | prepend: site.baseurl }})

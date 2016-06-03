@@ -56,7 +56,7 @@ Ticktock, Ticktock，出发的日子临近了，行装检查了一遍又一遍�
 ## [Day-9(12/26) 奇珠遍洒渔村旁，鲁冰花开壁湖岸]({{ '/2016/05/24/lost-in-middle-earth-day-9.html' | prepend: site.baseurl }})
 达尼丁(Dunedin) -> 蒂卡波(Tekapo)
 
-## Day-10(12/27) 庭院深深深几许，曲径过后桃花源
+## [Day-10(12/27) 庭院深深深几许，曲径过后桃花源]({{ '/2016/05/31/lost-in-middle-earth-day-10.html' | prepend: site.baseurl }})
 蒂卡波(Tekapo) -> 阿卡罗阿(Akaroa)
 
 ## Day-11(12/28) 萧瑟秋风今又是，换了人间

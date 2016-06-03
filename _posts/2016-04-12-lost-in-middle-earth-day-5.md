@@ -74,6 +74,9 @@ tags: middle-earth
 ![nz: Bra Fence]({{ '/img/nz/bra-fence.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>如此奇葩景点，我竟然没注意，我是睡着了吗？</span>
 
+![nz: Bra Fence]({{ '/img/nz/cardrona-bra-fence.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>如此文艺的景点，实在令我等文艺中老年心神向往。</span>
+
 好，以上奇葩事宜暂且按下不表，听这路的名字，valley road，峡谷中的路，这路况肯定跟 6 号公路没的比，只是，我们有风景就够了！果然这条公路在群山中穿梭，地势也起起伏伏，越走越高。在到达一个 90 度的拐弯处时，这里设置了一个 [{{ site.icon.mark }} view point](http://dwz.cn/36wcEy)，借助这里地势的优势，我们可以俯瞰下面的一整片山谷。四下张望，估计这里也就是这条公路地势最高的地方了。
 
 ![nz: Stela]({{ '/img/nz/stela-in-cardrona.jpg' | prepend: site.baseurl }})
