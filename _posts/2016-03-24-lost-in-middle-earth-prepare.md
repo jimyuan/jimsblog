@@ -4,7 +4,7 @@ title:  Lost in Middle Earth (prepare)
 tags: middle-earth
 ---
 
-很多年前，当 [Lady Galadriel {{ site.icon.link }}](http://dwz.cn/3nKFfZ) 的旁白在一部叫做 [*The Lord of the Rings* {{ site.icon.link }}](http://dwz.cn/3nKO8b) 的电影里想起时，这个神秘而磅礴的中土世界瞬间就深刻地映入了我的脑海！影片导演 Peter Jackson 将他家乡新西兰的各处美景当做素材，融入了这个奇幻的中土世界。
+很多年前，当 [Lady Galadriel {{ site.icon.link }}](http://dwz.cn/3nKFfZ) 那娓娓道来的旁白在一部叫做 [*The Lord of the Rings* {{ site.icon.link }}](http://dwz.cn/3nKO8b) 的电影中想起时，这个奇幻而磅礴的中土世界瞬间就深刻地映入了我的脑海！这部影片的导演，当时还未有名声的 [Peter Jackson {{ site.icon.link }}](http://www.imdb.com/name/nm0001392/) 将他家乡新西兰的各处美景当做 Middle Earth 的外景素材，融入了这个奇幻的影片中。
 
 <!--more-->
 
@@ -12,13 +12,16 @@ tags: middle-earth
 >
 > ![voice of Galadriel]({{ '/img/nz/Galadriel-voice.jpg' | prepend: site.baseurl }})
 
-好想去这个传说中的地方看看啊！有着共同想法的两对 CP 要开始行动了！在出发前半年的某个周末，我们连咬牙带跺脚，在某网站上以迅雷不及掩耳盗铃儿响叮当之势，订好了从上海飞往新西兰第一大城市奥克兰的机票。是的，这下不找借口了，我们真地要去 middle earth 了。那里是 Hobbits 的家乡，那里有雄伟的圣城 Minas Tirith，那里还有杀气腾腾的 Mount Doom ……
+好想去这个传说中的地方游历一番啊！有着共同想法的两对 CP 开始蠢蠢欲动了！在年中的某个周末，我们连咬牙带跺脚，在某网站上以迅雷不及掩耳盗铃儿响叮当之势，订好了从上海飞往新西兰第一大城市奥克兰的机票。是的，这下不找借口了，我们真地要去 middle earth 了。那里是 Hobbits 的家乡，那里有雄伟的圣城 Minas Tirith，那里还有杀气腾腾的 Mount Doom ……
 
 ![nz: Minas Tirith]({{ '/img/nz/minas-tirith.jpg' | prepend: site.baseurl }})
 
 接下来的大事件就是申请签证啦！我的护照正巧快过期了，等我换本新护照先…… 然后个人详细资料、在职证明、以及能证明自己财大气粗，不屑于黑在那个国家的各类财产证明，递交到新西兰的驻沪领馆，等待批复。新西兰签证规定，只要是同一家庭共同申请签证，一起出入关，所有证明材料一份即可，签证费用也只需一份！良心啊，看看，某宝上都是按人头算哒，咱省钱啦！
 
 准备工作中，最繁琐最重要的工作就是旅行计划，这项工作自然由我一力承单了！查阅了大量攻略，结合我们自身的假期，我制定了一条南岛逆时针小循环的自驾路线，感谢谷歌街景，让我在制定路线的时候提前神游了一番。感谢当今互联网的发达，让我足不出户，将新西兰的国内航线机票、部分住宿以及预约租车等这些后勤工作通过电子邮件、在线表单等形式都给一一落实了。
+
+![nz: 新西兰元]({{ '/img/nz/new-zealand-dollar.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>换上厚厚一沓 NZ$，看当时的牌价，NZ$100 = ￥526， 你猜现在才多少？￥450 左右啊，天！</span>
 
 下表为我为这次旅行准备的一些物品和资料供参考！类似入境卡这种有时效性的东东，我就不贴原版和翻译件了，免得到时候参考有误，呵呵。要用的话再去网上找当前的新版，不是很难找哦。当然，很多预订确认单在电子邮件里，也没必要打印。自驾游有点好处，就是没有必要精简装备，很多零碎的东东不用时可以扔车里。
 
@@ -56,7 +59,7 @@ Ticktock, Ticktock，出发的日子临近了，行装检查了一遍又一遍�
 ## [Day-9(12/26) 奇珠遍洒渔村旁，鲁冰花开壁湖岸]({{ '/2016/05/24/lost-in-middle-earth-day-9.html' | prepend: site.baseurl }})
 达尼丁(Dunedin) -> 蒂卡波(Tekapo)
 
-## Day-10(12/27) 庭院深深深几许，曲径过后桃花源
+## [Day-10(12/27) 庭院深深深几许，曲径过后桃花源]({{ '/2016/05/31/lost-in-middle-earth-day-10.html' | prepend: site.baseurl }})
 蒂卡波(Tekapo) -> 阿卡罗阿(Akaroa)
 
 ## Day-11(12/28) 萧瑟秋风今又是，换了人间

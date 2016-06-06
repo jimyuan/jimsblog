@@ -5,13 +5,13 @@ tags: middle-earth
 ---
 ## Day-6(12/23) 纵将万管玲珑笔，难写峡湾两岸山
 
-美美睡了一晚，今天又在一处艳丽的湖边苏醒，想想真是奢侈啊！走进客厅，金色阳光早已悄然泻入！今天咱动作可快点啦，订了11点在峡湾码头的邮轮观光，此去路程2个小时，9点前必须出发啊！从 [wiki {{ site.icon.link }}](http://dwz.cn/3nSx7Y) 得知，从蒂阿瑙到米尔福德峡湾全程约121公里的公路，常被观光客称为世界上景色最棒的高山道路之一，一路上各种类型的自然风光一定会应接不暇！
+美美睡了一晚，今天又在一处艳丽的湖边苏醒，想想真是奢侈啊！走进客厅，金色阳光早已悄然泻入！今天咱动作可快点啦，订了 11 点在峡湾码头的邮轮观光，此去路程 2 个小时，9 点前必须出发啊！从 [wiki {{ site.icon.link }}](http://dwz.cn/3nSx7Y) 得知，从蒂阿瑙到米尔福德峡湾全程约 121 公里的公路，常被观光客称为世界上景色最棒的高山道路之一，此行路上各种类型的美景一定会应接不暇！
 
 <!--more-->
 ![nz: 早安蒂阿瑙]({{ '/img/nz/morning-in-lake-te-anau.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>早安，蒂阿瑙！</span>
 
-沿着昨天来的那条94号公路，我们往峡湾方向进发！这不，刚开出40分钟的车程，咱就不得不停车了，这处绝世大 view 千万不可错过啊！这里大概是 Eglinton River 冲击出来的一处迷你三角洲，远处则是高耸的雪山，视野相当开阔！
+沿着昨天来的那条 94 号公路，我们往峡湾方向进发！这不，刚开出 40 分钟的车程，咱就不得不停车了，这处绝世大 view 千万不可错过啊！这里大概是 Eglinton River 冲击出来的一处迷你三角洲，远处则是高耸的雪山，视野相当开阔！
 
 ![nz: 大 view]({{ '/img/nz/big-plain.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>大 view 来袭，驻足观赏！</span>
@@ -24,7 +24,7 @@ tags: middle-earth
 ![nz: 车到山前必有路]({{ '/img/nz/snow-peak.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>这就叫“车到山前必有路”，呵呵！</span>
 
-不要再玩啦，赶路要紧啊！经过这趟行程，我们得知，峡湾不是想去就能去的啊！此时，我们已经来到了一处咽喉要道，名曰 [{{ site.icon.mark }} Homer Tunnel](http://dwz.cn/3dXuWv)，赫默隧道。94号公路在此强行穿越了一座叫做 Mount Talbot 的山体，由于地势有点险要，这条1,200米长的隧道经常处于施工状态，并且是单向行车。要是碰上恶劣天气导致隧道关闭，那好，咽喉掐死，要去峡湾，那只有飞过去啦！哦不对，天气恶劣的话，飞机也没辙了。所以，自驾游 Plan B 很重要啊！
+不要再玩啦，赶路要紧啊！经过这趟行程，我们得知，峡湾不是想去就能去的啊！此时，我们已经来到了一处咽喉要道，名曰 [{{ site.icon.mark }} Homer Tunnel](http://dwz.cn/3dXuWv)，赫默隧道。94 号公路在此强行穿越了一座叫做 Mount Talbot 的山体，由于地势有点险要，这条 1,200m 长的隧道经常处于施工状态，并且是单向行车。要是碰上恶劣天气导致隧道关闭，那好，咽喉掐死，要去峡湾，那只有飞过去啦！哦不对，天气恶劣的话，飞机也没辙了。所以，自驾游 Plan B 很重要啊！
 
 ![nz: 等待通过隧道]({{ '/img/nz/wait-to-pass-tunnel.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>单向车道的隧道，等待对方车道通行时间结束后我方才能开动！</span>
@@ -34,12 +34,12 @@ tags: middle-earth
 ![nz: east tunnel nature wall]({{ '/img/nz/east-tunnel-nature-walk.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>先放张谷歌街景图，总览一下我后来的遇险处，看照片，貌似毫无险峻之处，哼哼……</span>
 
-终于放行了，小车以时速30公里的速度慢慢跟随前车通过隧道，还真是简陋，不断有岩层渗水滴落在挡风玻璃，路边碎石也随处可见。出了隧道，这时从我们由上而下沿着山谷行驶，此时又是一番难言的景致。沿途看到好多自行车爱好者由此路逆向而上，看着都累啊，加油勇士们！
+终于放行了，小车以时速 30 公里的速度慢慢跟随前车通过隧道，还真是简陋，不断有岩层渗水滴落在挡风玻璃，路边碎石也随处可见。出了隧道，这时从我们由上而下沿着山谷行驶，此时又是一番难言的景致。沿途看到好多自行车爱好者由此路逆向而上，看着都累啊，加油勇士们！
 
 ![nz: 翠谷]({{ '/img/nz/cleddau-valley.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>此时无心拍照，盗用网上 __[某老兄](https://ssl.panoramio.com/photo/11843986)__ 的图了，侵删啊！</span>
 
-这后半程的路况及车速大大出乎我们的意料，本来想着这120公里的行程，2个小时怎么着也开到了吧，看来我们还是 too young, naive 了啊！眼看开船时间快到了，咱这心思别提多急了，照片也无心拍摄了。再后来又遇到前面有小车龟速行驶，由于路况不佳，无法超越，咱都快哭了。等到了码头停车场，已经过了10:50了，我独自一人先狂奔至码头登船处，领好 boarding pass，这才长舒一口气，他阿姨的，跑死我了！
+这后半程的路况及车速大大出乎我们的意料，本来想着这 120 公里的行程，2 个小时怎么着也开到了吧，看来我们还是 too young, naive 了啊！眼看开船时间快到了，咱这心思别提多急了，照片也无心拍摄了。再后来又遇到前面有小车龟速行驶，由于路况不佳，再加上来国外自驾，咱要处处表现得 decent 一点，不能在路上表现出急吼吼的腔调啊。所以等到了码头停车场，已经过了 10:50 了，我独自一人先狂奔至码头登船处，领好 boarding pass，这才长舒一口气，他阿姨的，跑死我了！
 
 ![nz: 游艇]({{ '/img/nz/pull-yacht.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>停车场看到的，很多家庭出门度假，车后面还拖着游艇，这个还算小型的。</span>
@@ -49,7 +49,7 @@ tags: middle-earth
 
 神往已久的 [{{ site.icon.mark }} Milford Sound](http://dwz.cn/3e10QO)，米福峡湾，我们终于来了！下面开启看图说话模式，敬请欣赏：
 
-在码头登船时，对着峡湾的惊鸿一瞥！中间这座叫做 [{{ site.icon.mark }} Mitre Peak](http://dwz.cn/3e0isW)，麦特尔峰，标高1,692米。瞧见我上面出示的 boarding pass 了吗，咱搭乘的这家邮轮公司就是以这座山峰命名哒！
+在码头登船时，对着峡湾的惊鸿一瞥！中间这座叫做 [{{ site.icon.mark }} Mitre Peak](http://dwz.cn/3e0isW)，麦特尔峰，标高 1,692 米。瞧见我上面出示的 boarding pass 了吗，咱搭乘的这家邮轮公司就是以这座山峰命名哒！
 ![nz: Mitre Peak]({{ '/img/nz/mitre-peak.jpg' | prepend: site.baseurl }})
 
 
@@ -59,7 +59,7 @@ tags: middle-earth
 好奢侈啊，坐小飞机鸟瞰峡湾！这边的小机场非常繁忙，一会儿一架啊，咋这儿多金主呢？你们缺朋友吗？你们的飞机上还有空座吗？
 ![nz: 鸟瞰峡湾]({{ '/img/nz/fly-over-fiordland.jpg' | prepend: site.baseurl }})
 
-瞧瞧这条160多米的瀑布，貌似就是那条著名的 Bowen Falls，鲍文（豹纹？）瀑布。具体多壮观，请对比右下角水面上隐约可见的那条船！
+瞧瞧这条 160 多米的瀑布，貌似就是那条著名的 Bowen Falls，鲍文（豹纹？）瀑布。具体多壮观，请对比右下角水面上隐约可见的那条船！
 ![nz: Bowen Falls]({{ '/img/nz/high-fall.jpg' | prepend: site.baseurl }})
 
 妞，你挡我镜头了喂！
@@ -77,7 +77,7 @@ St Annes Point（圣安妮角灯塔）
 回航，途经海豹岩，据说此处常年有年轻海豹在此聚会腐败，被我们抓了现行！
 ![nz: seals]({{ '/img/nz/seals-in-milford.jpg' | prepend: site.baseurl }})
 
-远远望去看不清这一坨坨的小东西，等我用200mm 镜头拉近一看，果然是群呆萌小海豹！
+远远望去看不清这一坨坨的小东西，等我用 200mm 镜头拉近一看，果然是群呆萌小海豹！
 ![nz: seals]({{ '/img/nz/seals-in-milford-2.jpg' | prepend: site.baseurl }})
 
 据说是回航邮轮必玩的小把戏，驾船开进 Bowen Falls，不怕，咱穿着冲锋衣呢！
@@ -93,7 +93,7 @@ St Annes Point（圣安妮角灯塔）
 ![nz: 回眸峡湾]({{ '/img/nz/review-the-fiordland.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>走向停车场的路上，找个角度，回眸整个峡湾</span>
 
-接下来没有安排咯，再次开启开到哪儿玩儿到哪儿的 free style 模式！沿着这条多彩的94号公路往回开了仅仅15分钟，就看到路边有块牌子写着 [{{ site.icon.mark }} The Chasm](http://dwz.cn/3ke0dg)，边上还有个蛮大的停车场。啥意思不太清楚，我们知道的是，这里至少是一个观景点，下车轧闹猛去！
+接下来没有安排咯，再次开启开到哪儿玩儿到哪儿的 free style 模式！沿着这条多彩的 94 号公路往回开了仅仅 15 分钟，就看到路边有块牌子写着 [{{ site.icon.mark }} The Chasm](http://dwz.cn/3ke0dg)，边上还有个停车场。啥意思不太清楚，我们知道的是，这里至少是一个观景点，下车轧闹猛去！
 
 停完车，沿着指示的小道，我们走到了观景处，这里是一条深深的峡谷，上面修了一座桥。看介绍，原来我们从峡湾出来到此处，公路的右手边总是伴随着一条注入峡湾的小河，名叫 Cleddau River，而这里就是这条小河的发源地，雨水和 Darren Mounts 的高山雪水的冲刷，使得这条河具备了一定的水量。第一次站在一条河的源头，好神奇啊！
 
@@ -145,7 +145,7 @@ St Annes Point（圣安妮角灯塔）
 
 ![nz: Path to Lake Marian]({{ '/img/nz/path-to-lake-marian.jpg' | prepend: site.baseurl }})
 
-原来这里有一条徒步小道去 [{{ site.icon.mark }} Lake Marian](http://dwz.cn/3jkzDl)，看了下介绍，此去 Lake Marian 貌似要徒步一个多小时，想想算了，这一路过来，咱不缺这一湖的景致。这段94号公路有一条叫 Hollyford River 的小河伴随，河水应该也是高山融雪汇合而成，清澈湛蓝，我还是在这里洗个手，压压惊吧。
+原来这里有一条徒步小道去 [{{ site.icon.mark }} Lake Marian](http://dwz.cn/3jkzDl)，看了下介绍，此去 Lake Marian 貌似要徒步一个多小时，想想算了，这一路过来，咱不缺这一湖的景致。这段 94 号公路有一条叫 Hollyford River 的小河伴随，河水应该也是高山融雪汇合而成，清澈湛蓝，我还是在这里洗个手，压压惊吧。
 
 ![nz: Hollyford River]({{ '/img/nz/hollyford-river.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>几泓冰山融雪，汇成这条潺潺小河</span>
@@ -153,7 +153,7 @@ St Annes Point（圣安妮角灯塔）
 ![nz: Hollyford River]({{ '/img/nz/wash-in-hollyford-river.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>用这清凉的雪水给自己压压惊，刚才吓死宝宝了</span>
 
-Lake Marian 太远了，那我们还是继续上路吧。刚上车开了一小段，首席司机说刚才忘记上厕所了，咱一查导航，前方7、8公里远的路边还有个湖，按理，那儿湖边应该有厕所，走吧！
+Lake Marian 太远了，那我们还是继续上路吧。刚上车开了一小段，首席司机说刚才忘记上厕所了，咱一查导航，前方 7、8 公里远的路边还有个湖，按理，那儿湖边应该有厕所，走吧！
 
 前进至标识处，沿湖依然建有一处停车点，查看指示牌，此湖名为 [{{ site.icon.mark }} Lake Gunn](http://dwz.cn/3jm6d4)，沿着小道，走近被丛林遮挡的湖边，我去！在这山林里，竟然也隐藏着一处叫人惊艳的美景！
 
@@ -166,21 +166,21 @@ Lake Marian 太远了，那我们还是继续上路吧。刚上车开了一小�
 
 ![nz: Lake Gunn]({{ '/img/nz/stand-by-lake-gunn.jpg' | prepend: site.baseurl }})
 
-Lake Gunn 在我们的话术里，已被永远的命名为“枪湖”了，你以为枪湖的景致就这么结束了，那么你真是太幼稚鸟！从地图上看，枪湖为一南北偏东方向的长条形状，94号公路从其东面依湖而过，在其最南面，有一处迷你三角洲，由一条叫 Cascade Creek 的小溪同 Eglinton River（还记得从 Te Anau 出来后遇到的那个平原吗？）的一条支流夹击冲刷而成。这块小小的三角洲上设有露营点，在这个季节，此地开满了紫色的鲁冰花，要是租辆房车，在这怡然自得的枪湖边，伴着满地的鲁冰花待上一晚，想想也是醉了。
+Lake Gunn 在我们的话术里，已被永远的命名为“厕所湖”了，你以为厕所湖的景致就这么结束了，那么你真是太幼稚鸟！从地图上看，该湖为一南北偏东方向的长条形状，94 号公路从其东面依湖而过，在其最南面，有一处小三角洲，由一条叫 Cascade Creek 的小溪同 Eglinton River（还记得从 Te Anau 出来后遇到的那个平原吗？）的一条支流夹击冲刷而成。这块小小的三角洲上设有宿营点，在这个季节，此地开满了紫色的鲁冰花，要是租辆房车，在这怡然自得的湖边，伴着满地的鲁冰花待上一晚，想想也是醉了。
 
 ![nz: 鲁冰花]({{ '/img/nz/lupine-by-lake-gunn.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>偶入鲁冰花丛中，敢问竞艳何人胜？</span>
 
-下一处景点也在94号公路旁，叫 [{{ site.icon.mark }} Mirror Lakes](http://dwz.cn/3joLoT)，从鲁冰花处我们驱车十多分钟就到了。之所以特地去这个地方，是因为听介绍，这里是《魔戒》的取景地之一。哇，名头好响，定是不能错过啊！停完车，几分钟就走到了湖边。
+下一处景点也在 94 号公路旁，叫 [{{ site.icon.mark }} Mirror Lakes](http://dwz.cn/3joLoT)，从鲁冰花处我们驱车十多分钟就到了。之所以特地去这个地方，是因为听介绍，这里是《魔戒》的取景地之一。哇，名头好响，定是不能错过啊！停完车，几分钟就走到了湖边。
 
 哇！没开玩笑啊，就一个水泡子啊，跟之前的枪湖那是完全不在一个级别上啊，实在想不起来，《LOTR》能有哪个镜头是在这儿取景的。难道外国也有此等外强中干的景点？唉，算了，又没收钱，大不了浪费了我们一点点感情而已。
 
 ![nz: 镜湖]({{ '/img/nz/mirror-lakes.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>名气比口气大的镜湖啊！</span>
 
-好了，94号公路这一段（Te Anau-Milford Hwy）的景点大部分都逛了个便，这会儿处于审美及生理疲劳中，闷头开车吧。目前离蒂阿瑙大概还有一个小时的车程，我们还要去昨天住宿的地方一趟，咱的 LP 宝典落在人家 apartment 了，今天要回皇后镇过夜，正好顺路，否则就得忍痛抛弃了。
+好了，94 号公路这一段（Te Anau-Milford Hwy）的景点大部分都逛了个便，这会儿处于审美及生理疲劳中，闷头开车吧。目前离蒂阿瑙大概还有一个小时的车程，我们还要去昨天住宿的地方一趟，咱的 LP 宝典落在人家 apartment 了，今天要回皇后镇过夜，正好顺路再回蒂阿瑙的时候可以去拿，否则就得忍痛抛弃了。
 
-这么一通停停玩玩，我们回到蒂阿瑙已经下午6点了，顺利拿回 LP 后，咱就直接在这儿把晚饭给解决了吧。在小镇中心的 Town Centre 大街上，加了个油，补给了淡水，然后随便找了家牛排店，风卷残云，一饱口腹之欲！
+这么一通停停玩玩，我们回到蒂阿瑙已经下午 6 点了，顺利拿回 LP 后，咱就直接在这儿把晚饭给解决了吧。在小镇中心的 Town Centre 大街上，加了个油，补给了淡水，然后随便找了家牛排店，风卷残云，一饱口腹之欲！
 
 ![nz: 牛排]({{ '/img/nz/steak-in-te-anau.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>对，来块大牛排，继续压惊！</span>
@@ -188,9 +188,9 @@ Lake Gunn 在我们的话术里，已被永远的命名为“枪湖”了，你�
 ![nz: 汉堡]({{ '/img/nz/hamburger-in-te-anau.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>牛肉汉堡貌似也很美味啊！</span>
 
-因之前的乱石堆惊魂，耽搁了点行程，回到皇后镇已经8点半了，好多 reception 都关门了，没关门的也没空房了。老规矩，沿着 [{{ site.icon.mark }} Lake Wakatipu](http://dwz.cn/3jr6Gf) 找，终于又找到一处好居所，有惊喜哦！
+因之前的乱石堆惊魂，耽搁了点行程，回到皇后镇已经 8 点半了，好多 reception 都关门了，没关门的也没空房了。老规矩，沿着 [{{ site.icon.mark }} Lake Wakatipu](http://dwz.cn/3jr6Gf) 找，终于又找到一处好居所，有惊喜哦！
 
-这家酒店叫 [<i class="fa fa-bed"></i> Peppers Beacon](http://dwz.cn/3jrcBF)，前台小伙说有双卧，但是单卫，园景房。我们刚才在镇子上找房的时候也明白，这里湖景房很贵的，起码$700以上。后来前台小伙去里屋看了下剩余房间出来后，说给我们 upgrade 一个双卫的吧，blablabla…… 有些话没听懂，不过有升当然升啦！多说一句，这前台小伙，长得可像我前老板 [Bryce](https://cn.linkedin.com/in/brycewhitwam) 啦，真是笑死，难道是老万失散多年的弟弟吗？
+这家酒店叫 [<i class="fa fa-bed"></i> Peppers Beacon](http://dwz.cn/3jrcBF)，前台小伙说有双卧，但是单卫，园景房。我们刚才在镇子上找房的时候也明白，这里湖景房很贵的，起码 $700 以上。后来前台小伙去里屋看了下剩余房间出来后，说给我们 upgrade 一个双卫的吧，blablabla…… 有些话没听懂，不过有升当然升啦！多说一句，这前台小伙，长得可像我前老板 [Bryce {{ site.icon.link }}](https://cn.linkedin.com/in/brycewhitwam) 啦，真是笑死，难道是老万失散多年的弟弟吗？
 
 办完 check in，把车停到地下车库，然后去到我们的房间，打开房门一看，要西啊，竟然又是湖景房（我为什么要说又？），双卫双卧、大客厅、厨房、壁炉、圣诞树、还有洗衣机和烘干机。我们可以趁机把前几天的衣服全部洗掉，哈哈～～
 
@@ -213,7 +213,7 @@ Lake Gunn 在我们的话术里，已被永远的命名为“枪湖”了，你�
 ![nz: Casino]({{ '/img/nz/casino-in-queenstown.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>Lasseters Wharf Casino，就在邮轮码头边上，谷歌街景图。</span>
 
-晚上10点多咯，此时的街道上，已经没有了白天时的喧嚣，乘着清凉的晚风，深入领略下这异国小镇风情。白天，这里是著名的旅游度假胜地，各类极限运动吸引着全世界的青年男女们；夜晚，这里又将所有激情藏于暗处，只流露出表面的恬静。
+晚上 10 点多咯，此时的街道上，已经没有了白天时的喧嚣，乘着清凉的晚风，深入领略下这异国小镇风情。白天，这里是著名的旅游度假胜地，各类极限运动吸引着全世界的青年男女们；夜晚，这里又将所有激情藏于暗处，只流露出表面的恬静。
 
 ![nz: 夜游皇后镇]({{ '/img/nz/night-street-in-queenstown.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>夜游皇后镇</span>
