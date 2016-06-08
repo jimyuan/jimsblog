@@ -138,7 +138,7 @@ tags: middle-earth
 ![nz: Motel 门路]({{ '/img/nz/akaroa-waterfront-motel.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>Motel 门口，拖车后面的快艇，路上经常见到轿车或者房车后面拖着此类骄奢淫逸之物！</span>
 
-根据 LP 指示，明日我们可以活动在这里报名参加出海观海豚，啊哟，这可是个不错的节目啊！于是我们逛到镇上的 i-site 咨询起来，观海豚要价 $72 一人，不便宜啊，游船上当然还提供点心酒水等物。工作人员信心满满的表示，如果出海看不到海豚的话，是可以退钱的！行啊，在这个信用至上的国家，我是完全相信此等承诺的，付钱订票，干净利索！
+根据 LP 指示，明日我们可以活动在这里报名参加出海观海豚，啊哟，这可是个不错的节目啊！于是我们逛到镇上的 i-site 咨询起来，观海豚要价 $72 一人，不便宜啊，游船上当然还提供点心酒水等物。工作人员信心满满地表示，如果出海看不到海豚的话，是可以退钱的！行啊，在这个信用至上的国家，我是完全相信此等承诺的，付钱订票，干净利索！
 
 在 French Bay 一角的绿地里，还竖立着一座纪念塔，碑文说的啥已经忘记了，貌似是纪念二次大战而牺牲的那些新西兰士兵们。漫步在这街道上，这座小镇随意流淌出来的安逸实在是让人着迷。
 
@@ -163,33 +163,41 @@ tags: middle-earth
 ![nz: 码头]({{ '/img/nz/boy-in-the-bay.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>夕阳与朝阳！</span>
 
-从上图可以看到，远处有一座白色灯塔，沿着 Beach Rd 一直走，没一会我们就能到它底下了。灯塔边的铭牌上说每周日的下午，此处会对公众开放，让大家可以有机会登塔参观，可惜今日闭门，我们只能在底下拍照留念咯！
+从上图可以看到，远处有一座白色灯塔，沿着 Beach Rd 一直走，没一会我们就能到它底下了。灯塔边的铭牌上说每周日下午，此处会对公众开放，让大家可以有机会登塔参观，可惜今日闭门，我们只能在底下拍照留念咯！
 
 ![nz: 白色灯塔]({{ '/img/nz/white-beacon.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>图片引自 [网络 {{ site.icon.link }}](https://ssl.panoramio.com/photo/116971750)，侵删！</span>
 
 ![nz: 白色灯塔]({{ '/img/nz/white-beacon-2.jpg' | prepend: site.baseurl }})
 
-逛完街，该往回走，先去叫醒小顾同学，然后我们打算找一间小馆子，美美的再吃上一顿！回首这安宁静谧的 French Bay，金色夕阳已洒满了这里的每一幢建筑，包括刚才我路过的那栋小屋！
+逛完街，该往回走，先去叫醒小顾同学，然后我们打算找一间小馆子，美美地再吃上一顿！回首这安宁静谧的 French Bay，金色夕阳已洒满了这里的每一幢建筑，包括刚才我路过的那栋小屋！
 
 ![nz: 宁静的法国湾]({{ '/img/nz/silence-french-bay.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>夕阳下的 French Bay, Akaroa ...</span>
 
 在海湾边找了家美丽的小饭店 [{{ site.icon.food }} Ma Maison Restaurant](http://dwz.cn/3wTIzg)，你看，这不是典型的法文名称嘛！我又点了牛排，唉~~ 就这点出息！
 
+![nz: Ma Masion]({{ '/img/nz/ma-masion.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>Ma Masion，美丽的小饭馆。</span>
+
 ![nz: 牛排大餐]({{ '/img/nz/steak-at-ma-maison.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>新西兰肉眼牛排，美味啊！</span>
 
-酒足饭饱，这天也墨痴乌利黑了，这说明现在确实挺晚了！回去挑灯夜战啦！手气不错，今晚 2:1 险胜，刘同学 CP 于是闷头睡觉去了。我这闲不住的人，又扛着机器楼下楼拍星星去咯！话说这天上虽然有几丝云彩，但露出的天空中星星看上去真的蛮多的，只是拍出来一看，这边上的灯光污染太严重，基本失败啊！
+酒足饭饱，这天也墨痴乌利黑了，这说明现在确实挺晚了！回去挑灯夜战啦！手气不错，今晚 2:1 险胜。看着时钟走过了零点，一个纪念日开始了！话说现在已经跨入 28 号了，这是我们结婚 6 周年的纪念日啊！提前北京时间 5 个小时庆祝我们的 Iron Wedding，于是我们当即决定——来碗泡面吧！
+
+![nz: 铁婚快乐]({{ '/img/nz/iron-wedding.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>庆祝我们相识 10 年，结婚 6 周年快乐！</span>
+
+庆祝完毕，刘同学 CP 闷头睡觉去了。我这闲不住的人，又扛着机器楼下楼拍星星去咯！话说这天上虽然有几丝云彩，但露出的天空中星星看上去真的蛮多的，只是拍出来一看，这边上的灯光污染太严重，基本失败啊！
 
 ![nz: 阿卡罗阿的星空]({{ '/img/nz/stars-at-akaroa.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>阿卡罗阿的星星。</span>
 
-在旅程的尾声，先后游荡在如此甜美的两个小镇，让我们直呼不虚此行！再有就是，希望明天的天气不要变坏，是否真能与可爱的海豚来次亲密接触呢，带着一丝期许，和这个小镇道声晚上！
+在旅程的尾声，先后游荡在如此甜美的两个小镇，让我们直呼不虚此行！再有就是，希望明天的天气不要变坏，是否真能与可爱的海豚来次亲密接触呢，带着一丝期许，和这个小镇道声晚上！PS：纪念日快乐，夫人！
 
 ![nz: 今日行程]({{ '/img/nz/path-lake-tekapo-2-akaroa.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>今日行程。</span>
 
 
 
-## <i class="fa fa-angle-double-right"></i> 未完待续
+## <i class="fa fa-angle-double-right"></i> [请看下篇：Day-11(12/28) 孤帆远影碧空尽，唯见海豚天际游]({{ '/2016/06/07/lost-in-middle-earth-day-11.html' | prepend: site.baseurl }})
