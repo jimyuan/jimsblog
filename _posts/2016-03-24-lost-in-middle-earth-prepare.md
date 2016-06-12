@@ -10,7 +10,7 @@ tags: middle-earth
 
 > The world is changed. I feel it in the water. I feel it in the Earth. I smell it in the air. Much that once was lost for none now live who remember.
 >
-> ![voice of Galadriel]({{ '/img/nz/galadriel-voice.jpg' | prepend: site.baseurl }})
+> ![voice of Galadriel]({{ '/img/nz/galadriels-voice.jpg' | prepend: site.baseurl }})
 
 好想去这个传说中的地方游历一番啊！有着共同想法的两对 CP 开始蠢蠢欲动了！在年中的某个周末，我们连咬牙带跺脚，在某网站上以迅雷不及掩耳盗铃儿响叮当之势，订好了从上海飞往新西兰第一大城市奥克兰的机票。是的，这下不找借口了，我们真地要去 middle earth 了。那里是 Hobbits 的家乡，那里有雄伟的圣城 Minas Tirith，那里还有杀气腾腾的 Mount Doom ……
 
