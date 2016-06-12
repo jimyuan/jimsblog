@@ -74,7 +74,7 @@ tags: middle-earth
 还是得插播一段来说说这趟旅程的路线安排，我们在南岛自驾的时间一共 10 天，通常在南岛自驾路线都是延着海岸线做顺时针或逆时针的环岛游。如果多点时间的话我还想过从 Auckland 直接开车到北岛的最南端，新西兰首都 [{{ site.icon.mark }} Wellington](http://dwz.cn/3tVh7G)，在那儿参观一下著名的 WETA 工作室，然后再坐轮渡，穿越库克海峡，登陆南岛小镇 [{{ site.icon.mark }} Picton](http://dwz.cn/33dwFn) …… 据说这个库克海峡风景优美，冰川林立，今生一定要去一次啊！可惜时间有限，我们连南岛大循环也走不成，只能走走小循环了。
 
 ![nz: 库克海峡]({{ '/img/nz/cook-strait.jpg' | prepend: site.baseurl }})
-{{ site.icon.hand }} <span>网上找了张库克海峡的美图</span>
+{{ site.icon.hand }} <span>网上找了张库克海峡的美图，引用自某 [博客 {{ site.icon.link }}](http://yardyyardyyardy.blogspot.jp/2014/12/finally-some-kiwirail-accountability.html)，侵删！</span>
 
 今天我们的目的地是位于南岛西岸的小镇 [{{ site.icon.mark }} Hokitika](http://dwz.cn/3nOdwJ)，要是时间再多一天，我们就可以走 7 号公路去 [{{ site.icon.mark }} Greymouth](http://dwz.cn/3nOgoG) 歇脚了，或者先北上走 1 号公路到 [{{ site.icon.mark }} Kaikoura](http://dwz.cn/3nOir6) 赏鲸，不过，有遗憾才有再刷南岛的动力，遗憾越多，动力越大，这几年来，我就念念不忘着重返中土的计划，哈哈。
 
