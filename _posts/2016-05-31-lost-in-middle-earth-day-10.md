@@ -198,6 +198,4 @@ tags: middle-earth
 ![nz: 今日行程]({{ '/img/nz/path-lake-tekapo-2-akaroa.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>今日行程。</span>
 
-
-
 ## <i class="fa fa-angle-double-right"></i> [请看下篇：Day-11(12/28) 孤帆远影碧空尽，唯见海豚天际游]({{ '/2016/06/07/lost-in-middle-earth-day-11.html' | prepend: site.baseurl }})

@@ -10,7 +10,7 @@ tags: middle-earth
 
 > The world is changed. I feel it in the water. I feel it in the Earth. I smell it in the air. Much that once was lost for none now live who remember.
 >
-> ![voice of Galadriel]({{ '/img/nz/galadriel-voice.jpg' | prepend: site.baseurl }})
+> ![voice of Galadriel]({{ '/img/nz/galadriels-voice.jpg' | prepend: site.baseurl }})
 
 好想去这个传说中的地方游历一番啊！有着共同想法的两对 CP 开始蠢蠢欲动了！在年中的某个周末，我们连咬牙带跺脚，在某网站上以迅雷不及掩耳盗铃儿响叮当之势，订好了从上海飞往新西兰第一大城市奥克兰的机票。是的，这下不找借口了，我们真地要去 middle earth 了。那里是 Hobbits 的家乡，那里有雄伟的圣城 Minas Tirith，那里还有杀气腾腾的 Mount Doom ……
 
@@ -27,6 +27,9 @@ tags: middle-earth
 {{ site.icon.hand }} <span>银蕨叶、kiwi 鸟还有南十字星，这些都是新西兰的象征。</span>
 
 查阅了大量攻略，结合我们自身的假期，我制定了一条南岛逆时针小循环的自驾路线。感谢谷歌街景，让我在制定路线的时候提前神游了一番。感谢当今互联网的发达，让我足不出户，将新西兰的国内航线机票、部分住宿以及预约租车等这些后勤工作通过电子邮件、在线表单等形式都给一一落实了。
+
+![nz: 新西兰元]({{ '/img/nz/new-zealand-dollar.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>换上厚厚一沓 NZ$，看当时的牌价，NZ$100 = ￥526， 你猜现在才多少？￥450 左右啊，天！</span>
 
 ![nz: 新西兰元]({{ '/img/nz/new-zealand-dollar.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>换上厚厚一沓 NZ$，看当时的牌价，NZ$100 = ￥526， 你猜现在才多少？￥450 左右啊，天！</span>

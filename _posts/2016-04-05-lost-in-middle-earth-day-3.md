@@ -142,4 +142,7 @@ Lake Matheson 是一狭长型湖，环湖都修建了供观光及徒步的栈道
 ![nz: 今日行程]({{ '/img/nz/path-hokitika-2-fox-glacier.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>今日行程</span>
 
+![nz: 今日行程]({{ '/img/nz/path-hokitika-2-fox-glacier.jpg' | prepend: site.baseurl }})
+{{ page.hand }} <span>今日行程</span>
+
 ### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-4(12/21) 冰川风雨起苍黄，末日小车走匆忙]({{ '/2016/04/08/lost-in-middle-earth-day-4.html' | prepend: site.baseurl }})
