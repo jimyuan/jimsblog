@@ -31,9 +31,6 @@ tags: middle-earth
 ![nz: 新西兰元]({{ '/img/nz/new-zealand-dollar.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>换上厚厚一沓 NZ$，看当时的牌价，NZ$100 = ￥526， 你猜现在才多少？￥450 左右啊，天！</span>
 
-![nz: 新西兰元]({{ '/img/nz/new-zealand-dollar.jpg' | prepend: site.baseurl }})
-{{ site.icon.hand }} <span>换上厚厚一沓 NZ$，看当时的牌价，NZ$100 = ￥526， 你猜现在才多少？￥450 左右啊，天！</span>
-
 下表为我为这次旅行准备的一些物品和资料供参考！类似入境卡这种有时效性的东东，我就不贴原版和翻译件了，免得到时候参考有误，呵呵。要用的话再去网上找当前的新版，不是很难找哦。当然，很多预订确认单在电子邮件里，也没必要打印。自驾游有点好处，就是没有必要精简装备，很多零碎的东东不用时可以扔车里。
 
 ![nz: assets list]({{ '/img/nz/assets-list.jpg' | prepend: site.baseurl }})
