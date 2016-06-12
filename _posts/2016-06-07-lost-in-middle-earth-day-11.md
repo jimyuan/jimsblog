@@ -5,7 +5,7 @@ tags: middle-earth
 ---
 ## Day-11(12/28) 孤帆远影碧空尽 唯见海豚天际游
 
-今天一早起来，赶紧向外探望天气，还好，是个阴天！看天气预报，也没说下雨，也行，比下雨好，看着天气不是太热，加上估计海面上风会挺大，咱都换上冲锋衣吧。随便解决了点早餐，咱就出发了，向着昨天那个有蓝房子的码头前进。海豚巡游完，我们就直接走人了，所以先把所有东西都搬上车，当然，Motel 里的东东咱还是要给老板留着的。
+今天一早起来，赶紧向外探望天气，还好，是个阴天！看天气预报，也没说下雨，也行，阴着总比下雨好，看着天气不是太热，加上估计海面上风会挺大，咱都换上冲锋衣吧。随便解决了点早餐，咱就出发了，向着昨天那个有蓝房子的码头前进。海豚巡游完，我们就直接走人了，所以先把所有东西都搬上车，当然，Motel 里的东东咱还是要给老板留着的。
 
 <!--more-->
 ![nz: 早起的鸟儿]({{ '/img/nz/seagull-at-akaroa.jpg' | prepend: site.baseurl }})
@@ -19,7 +19,15 @@ tags: middle-earth
 ![nz: Akaroa Dolphins]({{ '/img/nz/akaroa-dolphins.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>待会儿，我们就要坐这条小邮轮出海了哦！</span>
 
-今天的温度好低啊，穿着冲锋衣还感觉有点冷。在这个阴云密布的时刻，我们发船咯。沿着深深的海湾，我们慢慢地驶向外海。
+候船之际，先去瞧瞧码头上的小饭馆，原来是一家 Fish & Chips 的店啊，NZ 这点和它英国祖宗挺像，全国到处都有知名小吃：鱼和炸薯条，哈哈！码头的尽头，是两把长椅，诗一般地躺在这片风景里，它们结伴扎根在这 French Bay 之中。
+
+![nz: Murphy's Seafood]({{ '/img/nz/murphys-seafood.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>Murphy's Seafood.</span>
+
+![nz: Akaroa Harbour End]({{ '/img/nz/akaroa-harbour-end.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>静静躺在码头尽头的一对长椅。上图引自 [David Maciejewski {{ site.icon.link }}](https://plus.google.com/+DavidMaciejewski/photos) 的个人页面</span>
+
+到点咯！今天的温度好低啊，穿着冲锋衣还感觉有点冷。在这个阴云密布的时刻，我们发船咯。沿着深深的海湾，我们慢慢地驶向外海。
 
 ![nz: 白色灯塔]({{ '/img/nz/white-beacon-3.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>小邮轮慢慢驶过昨天看到的那个白色灯塔！</span>
@@ -86,7 +94,7 @@ tags: middle-earth
 ![nz: 海鸟天堂]({{ '/img/nz/volcano-reef.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>这些深入海中的岩浆礁石，成为了海鸟们歇脚的好地方。</span>
 
-邮轮驶出海湾后，向西又行驶了一段，到达了一个叫 [{{ site.icon.mark }} Scenery Nook](http://dwz.cn/3xITuz) 的地方为止了，到这儿开始感觉风浪加大，并且各类怪石暗礁众多，要是不熟悉航道，开进来貌似挺危险啊！
+邮轮驶出海湾后，向西又行驶了一段，到达了一个叫 [{{ site.icon.mark }} Scenery Nook](http://dwz.cn/3xITuz) 的地方开始折航，感觉这儿的风浪越来越大，并且各类怪石暗礁众多，要是不熟悉航道，开进来貌似挺危险啊！
 
 ![nz: Scenery Nook]({{ '/img/nz/scenery-nook-1.jpg' | prepend: site.baseurl }})
 
@@ -118,14 +126,56 @@ tags: middle-earth
 
 在机场附近，我们先去 KFC 补充了点能量，然后找了个加油站，把油箱灌满，下午 2:35 到达了 AVIS 的停车点，和这台跟随我们逛了大半个南岛的座驾深情地道了个别，车钥匙依据约定，还到 key box 里。此次自驾，跑了大概 2,400km+，沿途收获美景无数，这些个回忆够我们后几年津津乐道的了。
 
+![nz: 停车场]({{ '/img/nz/christchurch-airport-control-tower.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>基督城机场外围。上图引自 [hawkins {{ site.icon.link }}](http://www.hawkins.co.nz/projects/christchurch-airport-control-tower)</span>
+
 ![nz: 停车场]({{ '/img/nz/avis-park.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>陪伴我们 10 天的 RAV4，您辛苦了！</span>
 
 晃叽晃叽来到了 Jetstar 的值机柜台，小刘家土豪了惯了，在南岛东西买得太多鸟，我事先订的 20kg 额外行李额度也扛不住，还好时间充裕，就地重新打理。我们帮她分担了一部分超重额度，再往随身包包里匀一点，噗嗤噗嗤一通乱塞，勉强够秤了。
 
+![nz: Jetstar 值机柜台]({{ '/img/nz/jetstar-counter.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>配个应景图。</span>
+
 啊哟，这次倒是准时登机了，10 天难忘的南岛游就这么随风而去了，Bye-bye 美丽的南岛，希望能有下一次的机会再次光临这里。
 
 ![nz: 基督城机场]({{ '/img/nz/christchurch-airport.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>登机！跟这个城市、跟整个南岛道别！</span>
+
+![nz: 半日行程]({{ '/img/nz/path-akaroa-2-christchurch-airport.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>半日行程！</span>
+
+飞往奥克兰的这一个多小时，心里像掉了什么东西似的，我不是一个感性的人，我一向习惯于向前看，可在此时，心里某个角落仍旧忍不住偷偷地回头眺望。OK，望不到南岛了，我们在奥克兰机场着陆了！出了机场，很快就找到了开往市区的 Airbus Express，15 分钟一班，交通倒是蛮方便的。
+
+![nz: 机场快线]({{ '/img/nz/airbus-express.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>晚上 7 点多，坐上了去市区的机场快线，1 个小时的车程。</span>
+
+市区的 Hotel 叫 [{{ site.icon.stay }} CityLife Auckland](http://dwz.cn/3zmBeB)，是小刘很早就定好的，位于热闹的 Queen St 上，交通非常便捷，Airbus 站点下来就是，拖着箱子去 2 楼大堂 check in，然后躺在宾馆的大床上休息，又回到到城市咯，再也没有田园风光可以欣赏了。
+
+小顾赌瘾太大，刚到这儿就要想去天空塔的 Casino 里试试手气，而我们则另有安排，于是咱们今晚暂时分头活动吧。根据我之前详尽的功课，沿着 Queen St 往南走一点点，就有一家电影院，这里就是我今晚想要去的地方。刚走过几个路口，就看到前面有幢富丽堂皇的建筑，上书：CIVIC THEATRE，差不多就那里了。三步并作两步过去一看，为啥大门紧闭呢，难道还没放完假？那我的心愿又破灭一个？
+
+![nz: CIVIC THEATRE]({{ '/img/nz/civic-theatre.jpg' | prepend: site.baseurl }})
+
+再看上面的海报，是一个叫 [*Mary Poppins* {{ site.icon.link }}](https://movie.douban.com/subject/1292658/) 的片子，上网一搜，该片中文译名貌似叫《欢乐满人间》，好莱坞 1964 年的歌舞片，有点蒙，我穿越了？当然…… 没有，再往前走走，建筑的另一端，大大的 IMAX 的标志呈现在了我的眼前，嘿嘿，可找到这儿了！如今看谷歌街景，这家剧院已改名 [{{ site.icon.mark }} Event Cinemas](http://dwz.cn/3zhcU0) 了。
+
+![nz: IMAX电影院]({{ '/img/nz/event-cinemas.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>这里，也是我本次旅程的一个重要的拔草重地！</span>
+
+凭借 [*The Lord of the Rings: The Return of the King* {{ site.icon.link }}](https://movie.douban.com/subject/1291552/) 一举拿下奥斯卡最佳导演奖这座小金人后，已跻身著名大 high 腕儿行列的 Peter Jackson 于几年前重启了中土世界的拍摄计划。这不，2012.12.12 开始，作为 *The Lord of the Rings* 前传 *The Hobbits* 的首部曲于全球盛大开画了！11 月底该片已在 Peter 的家乡提前首映。感谢我们“光腚肿菊”伟光正地领导，使得全中国的魔戒粉要多等三个月才能在国内院线看到。这次正好有此天赐良机，使得我能够在中土世界本土得以提前观摩这部暌违良久的作品：[*The Hobbit: An Unexpected Journey* {{ site.icon.link }}](https://movie.douban.com/subject/1966182/)。
+
+![nz: The Hobbit]({{ '/img/nz/the-hobbit.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>《霍比特人：意外之旅》海报。图片引自 [JoBlo {{ site.icon.link }}](http://www.joblo.com/movie-wallpapers/the-hobbit-an-unexpected-journey/14106/1920x1200/)</span>
+
+另一重要情况就是，该片首次采用了一种全新的放映技术，叫做 [HFR {{ site.icon.link }}](https://en.wikipedia.org/wiki/High_frame_rate)，每秒 48 帧的高帧率，是一般电影的一倍，此项技术可以使得动态画面更加清晰流畅，这个之前就听说国内的设备无法支持，今天我可要在这儿尝尝鲜啦！
+
+![nz: HFR]({{ '/img/nz/high-frame-rate-demo.jpg' | prepend: site.baseurl }})
+
+在楼下的 Burger King 匆匆吃了个汉堡当晚餐后，急急忙忙来到影院大厅，先去自助售票机上买票，我了个去，我的建行 VISA 卡就是付不了钱，眼看就快开场了，我这着急啊！夫人忙去找服务人员，还是人工售票靠谱啊，$19.9 一张票，谁说外国看电影便宜来着？不过既然看得是全世界第一部 IMAX 3D + HFR 版 电影，想想也就值了！按照习惯，再来桶爆米花吧，（我了个去）* 2，居然是咸的，水土不服，另外再加一个大写的“不服”！
+
+![nz: 霍比特人]({{ '/img/nz/gandalf-and-galadriel.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>看后大呼过瘾，开篇与 LOTR 无缝呼应，Gandalf 带领 13 矮人在地底与 Goblin 一战行云流水！上图引自 [IMDB {{ site.icon.link }}](http://dwz.cn/3zkt8R)</span>
+
+圆梦的喜悦冲淡了旅程完结带来的淡淡忧伤，呼哈，在这热闹都市的 Downtown 里再休息一晚，尽管它的天空中，星星已不再耀眼闪烁。
+
 
 ## <i class="fa fa-angle-double-right"></i> 未完待续
