@@ -178,4 +178,4 @@ tags: middle-earth
 圆梦的喜悦冲淡了旅程完结带来的淡淡忧伤，呼哈，在这热闹都市的 Downtown 里再休息一晚，尽管它的天空中，星星已不再耀眼闪烁。
 
 
-## <i class="fa fa-angle-double-right"></i> 未完待续
+## <i class="fa fa-angle-double-right"></i> [请看下篇：Day-12(12/29) 欲穷千里目，更上一层楼]({{ '/2016/06/14/lost-in-middle-earth-day-12.html' | prepend: site.baseurl }})
