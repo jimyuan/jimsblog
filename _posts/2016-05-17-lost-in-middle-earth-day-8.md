@@ -32,6 +32,9 @@ tags: middle-earth
 ![nz: 甜蜜的背影]({{ '/img/nz/sweet-pose-at-lake-side.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>要论起摆 pose 装甜蜜，我们甘拜下风！</span>
 
+![nz: 甜蜜的背影]({{ '/img/nz/jim-couple-at-lake-wakatipu.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>好吧，小刘同学还是帮我们拍了张好照片！</span>
+
 大家逛到了湖边码头，嗯，发现大量闲散人员同我们一样，聚集在这湖边发呆。我们这一路下来，其实也蛮匆忙的，那何不趁此机会，也享受一下这悠闲时光？
 
 ![nz: 休闲的我]({{ '/img/nz/relaxed-me.jpg' | prepend: site.baseurl }})
