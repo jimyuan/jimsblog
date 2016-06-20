@@ -5,23 +5,27 @@ tags: middle-earth
 ---
 ## Day-12(12/29) 欲穷千里目，更上一层楼
 
-清晨，奥克兰，这座新西兰最大的城市跟世界上其他大都市一样，苏醒得很早。早期移民来的华侨称呼这里为“屋崙（lún）”，因其地理位置的优势突出，奥克兰一度还当过新西兰的首都呢。作为世界最宜居城市榜单的 TOP10 常客，我们在短短一天多的时间内可是无法去体味的，只能走马观花一番了。
+清晨，奥克兰，这座新西兰最大的城市，跟世界上其他大都市一样，苏醒得很早。早期移民来的华侨称呼这里为“屋崙（lún）”，因其地理位置的优势突出，奥克兰最早还做过新西兰的首都。作为世界最宜居城市榜单的 TOP10 常客，我们在短短一天多的时间内可是无法去体会其中滋味的，只能走马观花一番了。
 <!--more-->
 
-我们租的车昨天已经在基督城还掉了，这一下子没了代步工具，好像去哪里都有些不自在的感觉。原本今天我的计划是这样的：在酒店附近找个租车行，再租一天的车到距离奥克兰 2 小时车程的的小镇 [{{ site.icon.mark }} Matamata](http://dwz.cn/3A0q7G)，去那里参加一个叫  [Hobbiton Movie Set {{ site.icon.link }}](http://www.hobbitontours.com/) 的游览活动。
-
-![nz: 袋底洞]({{ '/img/nz/auckland-sunrise.jpg' | prepend: site.baseurl }})
+![nz: Auckland Sunrise]({{ '/img/nz/auckland-sunrise.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>Auckland Sunrise. 图片引自 [网络 {{ site.icon.link }}](http://richuriluo.qhdi.com/poi/174143.html)，侵删！</span>
+
+我们租的车昨天已经在基督城还掉了，这一下子没了代步工具，好像去哪里都有些不自在的感觉。原本今天我的计划是这样的：这么个大城市，先在酒店附近找个租车行不难吧？再租个小车，型号不讲究，经济型的就成，然后开到位于奥克兰东南 2 小时车程的小镇 [{{ site.icon.mark }} Matamata](http://dwz.cn/3A0q7G)，去那里参加一个叫  [Hobbiton Movie Set {{ site.icon.link }}](http://www.hobbitontours.com/) 的游览活动。
 
 是的，《魔戒》电影中那些半身人 Hobbits 的家乡 Hobbiton 以及他们那些在土坡上挖出的住处 Bag End（袋底洞）的拍摄场地，就在 Matamata 附近的一个私人农场里。电影拍摄完毕后，这些精致的布景被保留了下来，这里的主人把它开发成一处旅游景点，供全世界的魔戒粉们前来瞻仰。
 
+![nz: 霍比屯门口]({{ '/img/nz/hobbiton-front.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>霍比屯所在的农场门口，已在谷歌街景中神游良久，侵删！</span>
+
 ![nz: 袋底洞]({{ '/img/nz/bag-end.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>袋底洞外景。 图片引自 Hobbiton Movie Set 官方 [g+ {{ site.icon.link }}](http://richuriluo.qhdi.com/poi/174143.html)，侵删！</span>
 
-事实就是如此的捉弄人，在 Hotel 前台工作人员的帮助下发现，由于还在假期，租车行要么没车、要么不开业，而城际之间的公共交通…… 艰难！无奈之下，我只得放弃了这个计划。反正本次旅程遗憾颇多，虱子多了不怕咬。不过我是不会放过这些遗憾的，等着吧，总有一天，我全部都要补回来！
+事实证明，在国外的假期，基本没啥人愿意加班。在这档口儿，没有预约而要临时租个车貌似是不太现实的，而城际之间的公共交通…… 艰难！无奈之下，我只得放弃了这个计划。反正本次旅程遗憾颇多，虱子多了不怕咬。不过我是不会放过这些遗憾的，等着吧，总有一天，我全部都要补回来！
 
-同行的小刘同学有个表妹正好在这里的奥克兰大学留学，今天又是周六，于是就叫过来一起聚一聚了。作为半个东道主，表妹就安排了我们的奥克兰一日游。
+那今天的活动如何安排呢？小刘的表妹目前正好在奥克兰大学留学，今天又是周六，于是就叫过来，让半个东道主帮我们安排一下，看看奥克兰有哪些地方可以让我们做个一日游的。
 
-酒店西面一个街区外就是城市中的一座小公园 [{{ site.icon.mark }} Albert Park](http://dwz.cn/3A24jH)，走路几分钟就到，先去那里逛逛吧。当然，现在连国内的很多公园都不收门票了，这里肯定是自由出入啊！看得出，即使是大城市，依然还是有那么多慢生活的人，这种生活的状态，依然让我羡慕嫉妒恨着！观赏一下公园即景吧：
+酒店西面一个街区外，位于 Kitchener St 和 Princes St 之间的，城市中心地带，坐落着一座小公园 [{{ site.icon.mark }} Albert Park](http://dwz.cn/3A24jH)，走路几分钟就到，先去那里逛逛吧。当然，现在连国内的很多公园都不收门票了，这里肯定是自由出入啊！看得出，即使是大城市，依然还是有那么多慢生活的人，这种生活的状态，依然让我羡慕嫉妒恨着！观赏一下公园即景吧：
 
 ![nz: Albert Park]({{ '/img/nz/albert-park.jpg' | prepend: site.baseurl }})
 
@@ -42,9 +46,12 @@ tags: middle-earth
 {{ site.icon.hand }} <span>Human Sciences Dept. 人文科学系，好高深的样子。</span>
 
 ![nz: 奥克兰大学校园]({{ '/img/nz/uoa-campus-2.jpg' | prepend: site.baseurl }})
-{{ site.icon.hand }} <span>The University of Auckland Business School，奥大商学院。</span>
+{{ site.icon.hand }} <span>The University of Auckland Business School，奥大商学院大楼。</span>
 
-City 校区也是国外大学常见的无围墙式校园，走着走着就进校区了，走着走着就出来了。逛完奥大都过了晌午了，刘家表妹说带我们去吃个中餐吧。太好了，离家快半个月了，该回味一下中国的味道了。饭店名叫 [{{ site.icon.food }} 金海湾海鲜酒家](http://dwz.cn/3AJFis)，就在奥大理工学院的边上，估计学校的华裔学生们都没少去。
+![nz: 奥克兰大学校园]({{ '/img/nz/uoa-campus-3.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>Auckland University of Technology，奥大理工学院一角。</span>
+
+奥大的 City 校区也是国外大学常见的无围墙式校园，走着走着就进校区了，走着走着就出来了。逛完奥大都过了晌午了，刘家表妹说带我们去吃个中餐吧。太好了，离家快半个月了，该回味一下中国的味道了。饭店名叫 [{{ site.icon.food }} 金海湾海鲜酒家](http://dwz.cn/3AJFis)，就在奥大理工学院的边上，估计学校的华裔学生们都没少去。
 
 ![nz: 金海湾海鲜酒家]({{ '/img/nz/jin-hai-wan.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>这家店味道不错哦！</span>
@@ -73,7 +80,7 @@ City 校区也是国外大学常见的无围墙式校园，走着走着就进校
 ![nz: Mt. Eden]({{ '/img/nz/mt-eden-jim.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>夫人给俺来张帅照！（貌似这次相机端得挺稳）</span>
 
-整个 200m 不到的小山头，大家一路欢声笑语的就走到了山顶，果然风光无限好啊，向北望去，整个奥克兰市中心尽收眼底！火山早已休眠，如今的火山口里一片草坪，在这里可以进行一项叫做“滑草”的运动，可惜来的时候没人在玩啊。
+整个海拔 200m 不到的小山头，大家一路欢声笑语的就走到了山顶，果然风光无限好啊，向北望去，整个奥克兰市中心尽收眼底！火山早已休眠，如今的火山口里一片草坪，在这里可以进行一项叫做“滑草”的运动，可惜来的时候没人在玩啊。
 
 ![nz: Mt. Eden]({{ '/img/nz/mt-eden-top.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>山顶的火山口，滑草场地。</span>
@@ -81,10 +88,12 @@ City 校区也是国外大学常见的无围墙式校园，走着走着就进校
 ![nz: Mt. Eden]({{ '/img/nz/mt-eden-tree.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>好端庄的一棵树，多年来它一直矗立在山顶，从没走动半步。</span>
 
-![nz: Mt. Eden]({{ '/img/nz/mt-eden-overview.jpg' | prepend: site.baseurl }})
-{{ site.icon.hand }} <span>来张奥克兰的全景图，右边高耸入云的就是奥克兰的地标建筑天空塔了。</span>
+在山顶鸟瞰奥克兰！下图中，右边鹤立鸡群的那座建筑就是这个城市的地标——天空塔了。画面中央，我们可以看到有座跨海大桥，那个就是 Auckland Harbour Bridge（奥克兰海湾大桥）了。全长大概 1000m，连接奥克兰最繁忙的港口——怀提玛塔海港南北两岸，应该算是北岛最长的公路桥了。
 
-在这个火山口的边上，其实是一条能开车上来的道路，路的尽头是一个人工平台，在这个平台上放置有一个圆盘坐标点，圆盘上刻着此地与一些大城市的方向以及相对的距离等。这里也是一个风景甚好的拍摄地点。
+![nz: Mt. Eden]({{ '/img/nz/mt-eden-overview.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>来张奥克兰的全景图。</span>
+
+在这个火山口的边，有一条车道可以从山底蜿蜒而上，路的尽头是一个人工平台，在这个平台上放置有一个圆盘坐标点，圆盘上刻着此地与一些大城市的方向以及相对的距离等。这里也是一个风景甚好的拍摄地点。
 
 ![nz: 坐标点]({{ '/img/nz/mt-eden-point.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>山顶平台，尖塔下方是一大圆盘。图片引自 [网络 {{ site.icon.link }}](https://ssl.panoramio.com/photo/130296371)，侵删！</span>
@@ -117,10 +126,16 @@ Hotel 离码头也不远，沿着 Queen St 往北一直走就是了。于是，�
 ![nz: Brew on Quay]({{ '/img/nz/brew-on-quay.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>路边小 PUB。图片引自其 [官网 {{ site.icon.link }}](http://www.brewonquay.co.nz/)，侵删！</span>
 
+![nz: 喝啤酒]({{ '/img/nz/beer-at-harbour.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>4 人路边小酌。</span>
+
 ![nz: 不想回去]({{ '/img/nz/dont-wanna-go-back.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>想着明天就要离开这个国家了，躺倒在码头边的长椅上，突然间就肌无力啊！</span>
 
-回到酒店休息一会儿，大家翻翻身上带的现金，我们家大概还剩下七、八十的钮币，小刘家也只有两、三百了。留下 $70 作为明天乘机场巴士的车钱，其余全部用作赌资啦！接下来向着那高耸入云的 [{{ site.icon.mark }} Sky Tower](http://dwz.cn/3B76pD)（天空塔）进发吧，去 casino试试咱的手气，说不定就变成个百万富翁的身份回国了，嘿嘿嘿！
+回到酒店休息一会儿，大家翻翻身上带的现金，我们家大概还剩下七、八十的钮币，小刘家也只有两、三百了。留下 $70 作为明天乘机场巴士的车钱，其余全部用作赌资啦！接下来向着那高耸入云的 [{{ site.icon.mark }} Sky Tower](http://dwz.cn/3B76pD)（天空塔）进发吧，去 casino 试试咱的手气，说不定就变成个百万富翁的身份回国了，嘿嘿嘿！啊呀不好，到时候如果发现金的话，我如何申报啊，没弄过呀！要是走银行转账，招行的一卡通能行吗？苦恼中……
+
+![nz: 天空塔夜景]({{ '/img/nz/sky-tower-at-night.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>向着 casino 前进！</span>
 
 天空塔是奥克兰市的一座观光及通信塔，从地面到塔状天线杆顶部计算，高 328 米，是南半球最高的独立建筑物。当然，要是跟咱中国的东方明珠（468m）和广州塔（600m）比，那还是逊色太多了，但拦不住新西兰最大的赌场坐落在此啊！
 
@@ -129,27 +144,30 @@ Hotel 离码头也不远，沿着 Queen St 往北一直走就是了。于是，�
 
 来新西兰，咱这是第二次进赌场啦！门口有个地方，排了一溜的 ATM 为您提供方便，咱熟悉的“银联”标志妥妥的贴在显眼的位置，你懂的！当然整个赌场是禁止拍摄的，人家可不是闹着玩啊，不敢以身犯险，手机藏藏好，别想着偷拍啥的。
 
-进去后咱先到处逛逛，从来没来过大赌场哈。底下的大堂里都是给我们这种小散玩玩热闹的，所以很多台子 $2 就可以开赌，具体看赌桌旁的提示就知道本桌最少下注额度了。逛到二楼，还有给球迷安排的房间，你在这里可以边看足球边玩牌，服务周详。再上去大概就是高额赌桌和 VIP 包间了，不敢乱走，万一碰上个不该看到的人，害的人家要绞尽脑汁灭我的口那就不好了，为了不麻烦人家，我们就退回到了大堂。
+进去后咱先到处逛逛，从来没来过大赌场哈。底下的大堂里都是给我们这种小散玩玩热闹的，所以很多台子 $2.5 就可以开赌，具体看赌桌旁的提示就知道本桌最少下注额度了。逛到二楼，还有给球迷安排的房间，英联邦国家嘛，盛产 soccer fans & hooligans。你在这里可以边看足球边玩牌，服务周详。再上去大概就是高额赌桌和 VIP 包间了，这种贵宾区域还真不敢乱走，万一碰上个不该看到的人，害的人家要绞尽脑汁灭我的口那就不好了，为了不麻烦人家，我们就退回到了大堂。
 
 ![nz: 赌场大堂]({{ '/img/nz/casino-lobby.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>赌场大堂，照片当然不是我拍的，我没那胆儿啊！引自博客 [elisa's creations {{ site.icon.link }}](http://trimlattehalfequal.blogspot.jp/2013/06/tips-on-eating-at-buffet-fortuna.html)，侵删！</span>
 
-像我这种啥都不会的人，只能挑最简单的玩，例如轮盘赌押单双啥的，起初还赢了几十块，后来为了获得更多的赔率，押号码区间、押单个数字等等，期望能够爆个冷！其实都是自己想得太美好，这不，筹码基本都输完了，哈哈。最后还剩几个可怜的小筹码，葬送在 21 点飞苍蝇那儿了。输光啦，总算去赌场真正体验了一把，怡情呐，哈哈！
+像我这种啥都不会的人，只能挑最简单的玩，例如轮盘赌押单双啥的，起初还赢了几十块，后来为了获得更多的赔率，押号码区间、押单个数字等等，期望能够爆个冷！其实都是自己想得太美好，这不，筹码基本都输完了，哈哈。最后还剩几个可怜的小筹码，葬送在 21 点飞苍蝇那儿了。输光啦，总算去赌场真正体验了一把，这叫怡情，哈哈！
 
 ![nz: 赌场大堂]({{ '/img/nz/casino-lobby-2.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>引自 [Wikimedia Commons {{ site.icon.link }}](http://dwz.cn/3BeEfY)，侵删！</span>
 
-其实这个天空塔是一个很大的住宿、餐饮、娱乐综合中心，当然不会只有刚才我们去过的那个赌场，它里面还有 20 多家餐厅和两家星级 Hotel 呢。如果不恐高的话，你乘坐透明玻璃电梯可以到达天空塔的三个观赏台，欣赏整个都市的景致。如果希望体验更加刺激的观赏方式，尽可以在高 192 米的室外观赏台参加高空漫步（SkyWalk）活动或高空飞跳（SkyJump）活动！
+天空塔是一个很大的住宿、餐饮、娱乐综合中心，当然不会只有刚才我们去过的那个赌场，它里面还有 20 多家餐厅和两家星级 Hotel 呢。不恐高的话，你乘坐透明玻璃电梯可以到达天空塔的三个观赏台，欣赏整个都市的景致。如果希望体验更加刺激的观赏方式，尽可以在高 192 米的室外观赏台参加高空漫步（SkyWalk）活动或高空飞跳（SkyJump）活动！
 
 ![nz: 高空漫步]({{ '/img/nz/sky-tower-skywalk.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>天空塔上的高空漫步活动。引自 skywalk 活动[官网 {{ site.icon.link }}](http://skywalk.co.nz/gallery/skywalk/)，侵删！</span>
 
-输得叮当响啊，咱们往回赶呐！花了几十钮币丰富了一下自己的阅历，值得啦！据小刘说，外国的赌场大堂真是让大家来娱乐的，所以 $2 就可以下注了，澳门葡京的赌场，这种大堂通常最小下注额度 HK$500~HK$1,000，听得我直打哆嗦啊！
+输得叮当响啊，咱们往回赶呐！花了几十钮币丰富了一下自己的阅历！据小刘说，外国的赌场大堂真是让大家来娱乐的，所以 $2.5 就可以下注了，在澳门葡京简直不能想象啊！这种大堂他们通常最小的下注额度都在 HK$500~HK$1,000，听得我直打哆嗦啊！
 
 一番脑力激荡下来，咱都觉得腹内空虚了，Hotel 边上那条 Durham 西街里有家 [{{ site.icon.food }} 得记烧腊](http://www.bbqking.co.nz/)，去那儿夜宵一番吧。点了几个炒粉啊、烧腊啊、煲仔饭啥的，这算是咱在 NZ 的最后一顿啦！想不到结账的时候还是输给华人老板一筹啊！人家不刷 VISA 卡，真是哭笑不得，咋办？霸王餐肯定是不行的，打不过这么多人啊！我只好委屈地被一位饭店阿姨带领着走 5 分钟路去有“银联”标识的 ATM 上取现，我认输！
 
 ![nz: 得记烧腊]({{ '/img/nz/bbq-king.jpg' | prepend: site.baseurl }})
 
-今天真的是在 NZ 的最后一晚咯，明天咱就得不舍但不得不舍地向这个国家做告别了！我不想，我不想…… 先睡觉吧！
+今天真的是在 NZ 的最后一晚咯，明天咱就得不舍但不得不舍地向这个国家做告别了！再次跨越一万多公里，从诗和远方回到生活的苟且中。我不想，我不想…… 先睡觉吧！
 
-## <i class="fa fa-angle-double-right"></i> 未完待续
+![nz: 高空漫步]({{ '/img/nz/auckland-night.jpg' | prepend: site.baseurl }})
+{{ site.icon.hand }} <span>奥克兰，又名“风帆之都”，夜景怡人。图片引自 [网络 {{ site.icon.link }}](http://dwz.cn/3CmV91)，侵删！</span>
+
+## <i class="fa fa-angle-double-right"></i> [请看下篇：Day-13(12/30) 好事多磨难，近乡情更怯]({{ '/2016/06/20/lost-in-middle-earth-day-13.html' | prepend: site.baseurl }})

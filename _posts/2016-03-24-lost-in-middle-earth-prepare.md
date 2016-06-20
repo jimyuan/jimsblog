@@ -78,5 +78,5 @@ Ticktock, Ticktock，出发的日子临近了，行装检查了一遍又一遍�
 ## [Day-12(12/29) 欲穷千里目，更上一层楼]({{ '/2016/06/14/lost-in-middle-earth-day-12.html' | prepend: site.baseurl }})
 奥克兰(Auckland)
 
-## Day-13(12/30) 好事多磨，近乡情怯
+## [Day-13(12/30) 好事多磨难，近乡情更怯]({{ '/2016/06/20/lost-in-middle-earth-day-13.html' | prepend: site.baseurl }})
 奥克兰(Auckland) -> 香港(Hongkong) -> 上海(Shanghai)
