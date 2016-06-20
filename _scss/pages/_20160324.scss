@@ -4,6 +4,7 @@
   margin: auto;
   border: 10px solid lighten(gray, 30%);
 
+
    + .fa {
      color: $blue;
      margin-left: 10px;
@@ -12,5 +13,13 @@
    ~ span {
      font-size: 0.8rem;
      color: $blue;
+   }
+
+   @media screen and (max-width: $viewport-small) {
+     border-width: 0;
+
+     + .fa {
+       margin-left: 0;
+     }
    }
 }
