@@ -24,7 +24,7 @@ tags: middle-earth
 ![nz: 车到山前必有路]({{ '/img/nz/snow-peak.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>这就叫“车到山前必有路”，呵呵！</span>
 
-不要再玩啦，赶路要紧啊！经过这趟行程，我们得知，峡湾不是想去就能去的啊！此时，我们已经来到了一处咽喉要道，名曰 [{{ site.icon.mark }} Homer Tunnel](http://dwz.cn/3dXuWv)，赫默隧道。94 号公路在此强行穿越了一座叫做 Mount Talbot 的山体，由于地势有点险要，这条 1,200m 长的隧道经常处于施工状态，并且是单向行车。要是碰上恶劣天气导致隧道关闭，那好，咽喉掐死，要去峡湾，那只有飞过去啦！哦不对，天气恶劣的话，飞机也没辙了。所以，自驾游 Plan B 很重要啊！
+不要再玩啦，赶路要紧啊！经过这趟行程，我们得知，峡湾不是想去就能去的啊！此时，我们已经来到了一处咽喉要道，名曰 [{{ site.icon.mark }} Homer Tunnel](http://dwz.cn/3dXuWv)，赫默隧道。94 号公路在此强行穿越了一座叫做 Mount Talbot 的大山山体，由于地势有点险要，这条 1,200m 长的隧道经常处于施工状态，并且是单向行车。要是碰上恶劣天气导致隧道关闭，那好，咽喉掐死，要去峡湾，那只有飞过去啦！哦不对，天气恶劣的话，飞机也没辙了。所以，自驾游随时自备 Plan B 很重要啊！
 
 ![nz: 等待通过隧道]({{ '/img/nz/wait-to-pass-tunnel.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>单向车道的隧道，等待对方车道通行时间结束后我方才能开动！</span>
@@ -173,7 +173,7 @@ Lake Gunn 在我们的话术里，已被永远的命名为“厕所湖”了，�
 
 下一处景点也在 94 号公路旁，叫 [{{ site.icon.mark }} Mirror Lakes](http://dwz.cn/3joLoT)，从鲁冰花处我们驱车十多分钟就到了。之所以特地去这个地方，是因为听介绍，这里是《魔戒》的取景地之一。哇，名头好响，定是不能错过啊！停完车，几分钟就走到了湖边。
 
-哇！没开玩笑啊，就一个水泡子啊，跟之前的枪湖那是完全不在一个级别上啊，实在想不起来，《LOTR》能有哪个镜头是在这儿取景的。难道外国也有此等外强中干的景点？唉，算了，又没收钱，大不了浪费了我们一点点感情而已。
+哇！没开玩笑啊，就一个水泡子里游着几只野鸭子，跟之前的枪湖那是完全不在一个级别上啊，实在想不起来，《LOTR》能有哪个镜头是在这儿取景的。难道外国也有此等外强中干的景点？唉，算了，又没收钱，大不了浪费了我们一点点感情而已。
 
 ![nz: 镜湖]({{ '/img/nz/mirror-lakes.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>名气比口气大的镜湖啊！</span>
@@ -188,7 +188,7 @@ Lake Gunn 在我们的话术里，已被永远的命名为“厕所湖”了，�
 ![nz: 汉堡]({{ '/img/nz/hamburger-in-te-anau.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>牛肉汉堡貌似也很美味啊！</span>
 
-因之前的乱石堆惊魂，耽搁了点行程，回到皇后镇已经 8 点半了，好多 reception 都关门了，没关门的也没空房了。老规矩，沿着 [{{ site.icon.mark }} Lake Wakatipu](http://dwz.cn/3jr6Gf) 找，终于又找到一处好居所，有惊喜哦！
+因之前的乱石堆惊魂耽搁了点行程，回到皇后镇已经 8 点半了，这里很多 Motel 的 reception 都是 8 点下班，一些有人值守的 Hotel 要么没空房了，要么房价吓人，今晚的住宿貌似有点犯难。老规矩，沿着 [{{ site.icon.mark }} Lake Wakatipu](http://dwz.cn/3jr6Gf) 找，终于又找到一处好居所，有惊喜哦！
 
 这家酒店叫 [<i class="fa fa-bed"></i> Peppers Beacon](http://dwz.cn/3jrcBF)，前台小伙说有双卧，但是单卫，园景房。我们刚才在镇子上找房的时候也明白，这里湖景房很贵的，起码 $700 以上。后来前台小伙去里屋看了下剩余房间出来后，说给我们 upgrade 一个双卫的吧，blablabla…… 有些话没听懂，不过有升当然升啦！多说一句，这前台小伙，长得可像我前老板 [Bryce {{ site.icon.link }}](https://cn.linkedin.com/in/brycewhitwam) 啦，真是笑死，难道是老万失散多年的弟弟吗？
 

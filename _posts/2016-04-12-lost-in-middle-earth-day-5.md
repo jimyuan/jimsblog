@@ -114,7 +114,7 @@ tags: middle-earth
 ![nz: 姚晨 Style]({{ '/img/nz/yaochen-style.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>姚晨 Style，这造型凹得像吗？显然这儿没有鹿晗的邮筒热闹，咱不用排队啊！</span>
 
-没打算在 Arrowtown 多玩，所以逛了下纪念品商店后，我们打算就直接开赴今日预订的目的地——皇后镇了。受到之前那条 valley road 的启发，我们决定，仍然不走 6 号公路，从地图上看，沿着一条叫 Malaghans Rd 的路也能开到皇后镇。况且，LP 宝典也告诉我们，这条路的景色也别样优美。
+没打算在 Arrowtown 多玩，所以逛了下纪念品商店后，我们打算就直接开赴今日预订的目的地——皇后镇了。受到之前那条 valley road 的启发，我们决定，仍然不走 6 号公路，从地图上看，沿着一条叫 Malaghans Rd 的路线也能开到皇后镇。况且，LP 宝典也告诉我们，这条路的景色也别样优美。
 
 出发了！路上不时有背包客伸大拇哥要搭车，sorry，我们满员了，老司机不能带你们咯！在首席司机小顾同志无视了一位 handsome 背包客的搭车请求后，后排两位女士炸了，强烈要求带上这位帅哥哥。还有比这更过分的要求吗？小顾，油门再踩大点，对，就这样！
 
@@ -145,7 +145,7 @@ OK！我们的计划又要做调整了。让聪聪的我立刻规划一下，有
 ![nz: 车厘子女孩]({{ '/img/nz/cherry-girl.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>出发前在 Queenstown 的街边买了一袋车厘子，这大！这脆！这甜！老司机表示非常怀念…… 这个 Cherry girl！</span>
 
-在 i-site 订好从峡湾码头出发的巡游票，咱立即上车，照着刚刚制定的路线一路疾驰。从 6 号公路转道 97 号，到了卫星小镇 [{{ site.icon.mark }} Mossburn](http://dwz.cn/36FeVk) 后再转 94 号，继续行驶到达目的地，打完收工！你看，这个路况一点也不复杂，再次感叹这片大陆（小陆？）真是自驾的好地方！
+在 i-site 订好从峡湾码头出发的巡游票，咱立即上车，照着刚刚制定的路线一路疾驰。咱边赶路边吃着从那妞手里 $10 一袋买来的又大、又甜、又脆的车厘子，哇，以前在国内买的车厘子简直就是渣渣啊！从 6 号公路转道 97 号，到了卫星小镇 [{{ site.icon.mark }} Mossburn](http://dwz.cn/36FeVk) 后再转 94 号，继续行驶到达目的地，打完收工！你看，这个路况一点也不复杂，再次感叹这片大陆（小陆？）真是自驾的好地方！
 
 这次由于赶路，很少停下来看风景了，只在路边的一个蜂蜜专卖店停下来参观了一会儿。这次去的地方会有惊喜吗？
 
@@ -175,7 +175,7 @@ OK！我们的计划又要做调整了。让聪聪的我立刻规划一下，有
 ![nz: apartment]({{ '/img/nz/apartment-view.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>从窗外望去，Lake Te Anau 近在眼前！</span>
 
-收拾一下，快 7 点半了，找吃的去咯！宝典推荐 [{{ site.icon.food }} Redcliff Cafe](http://dwz.cn/36ZN9N)，地图规划了一下路径，走路 10 分钟便到，那就逛过去呗，顺便欣赏下湖景！
+收拾一下，快 7 点半了，找吃的去咯！宝典推荐 [{{ site.icon.food }} Redcliff Cafe](http://dwz.cn/36ZN9N)，在地图上规划了一下路径，走路 10 分钟便到，那就逛过去呗，顺便欣赏下湖景！
 
 ![nz: Naughty Me]({{ '/img/nz/naughty-me.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>风景好，心情也不会差！</span>
@@ -193,7 +193,7 @@ OK！我们的计划又要做调整了。让聪聪的我立刻规划一下，有
 ![nz: little cat]({{ '/img/nz/cat-in-house.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>不速之客啊！</span>
 
-今天这个 original plan 是在 Arrowtown 宿营的，后来我们坚定地执行了末日计划，行程修改后的落脚点在 Queenstown。未曾想我们这位老司机这么能跑，皇后镇留不住咱们啊！随机应变，自驾游的又一优势啊！其实，究其原因，我想大概是都在大城市待久了，内心对商业气息浓重的地方稍有排斥吧。
+今天这个 original plan 是在 Arrowtown 宿营的，后来我们坚定地执行了末日计划，行程修改后的落脚点在 Queenstown。未曾想我们这位老司机这么能跑，皇后镇留不住咱们啊！随机应变是自驾游的又一优势啊！其实，究其原因，我想大概是都在大城市待久了，内心对商业气息浓重的地方稍有排斥吧。
 
 ![nz: 今日行程]({{ '/img/nz/path-wanaka-2-te-anau.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>今日行程</span>

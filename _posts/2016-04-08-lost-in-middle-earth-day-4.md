@@ -133,7 +133,7 @@ tags: middle-earth
 
 哈威亚湖比边上的瓦纳卡湖稍短一点，我们最先略过了该湖的最南端，其实在那儿也有个小镇，当然，按习惯，那个地方就叫哈威亚镇。但是我们还是坚定地执行了既定计划，于是没顾得上 Hawea，直接杀向那个湖边小镇 Wanaka！
 
-越过一条汇入 Lake Wanaka 的小河，穿过一座叫做 [{{ site.icon.mark }} Albert Town](http://dwz.cn/35Ei3M) 的小镇，此时，咱暂时告别了陪伴了我们 3 天的 6 号公路，向右开往今日的住宿地。
+越过一条汇入 Lake Wanaka 的小河，穿过一座叫做 [{{ site.icon.mark }} Albert Town](http://dwz.cn/35Ei3M) 的小镇，此时，咱暂时告别了陪伴了我们 3 天的 6 号公路，向西开往今日的住宿地。
 
 ![nz: 岔路口]({{ '/img/nz/go-wanaka-2.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>Queenstown 向左，Wanaka 向右（谷歌街景图）</span>
