@@ -61,7 +61,7 @@ tags: middle-earth
 ![nz: 滑滑梯]({{ '/img/nz/on-the-slide.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>在国内都不自助加油，出来变成巴子了！宝宝伤心，登高郁闷下！</span>
 
-这一路上的美湖真是无穷无尽，来不及看啊！在这驾驶体验极好的 6 号公路上，跨过了 Waitangitanoa River，路过了 [{{ site.icon.mark }} Lake Wahapo](http://dwz.cn/32WXW2)， 又路过 [{{ site.icon.mark }} Lake Mapourika](http://dwz.cn/32VKVd)（梅普里卡湖）。这景象，就像沉迷二次元的小宅男突然被人带进了展会看车模，怎么满眼望去都是美女啊，还都是看得见摸得着的！据说，[梅普里卡湖 {{ site.icon.link }}](https://zh.wikipedia.org/wiki/梅普里卡湖) 是新西兰西海岸最大的湖泊，这湖水，蓝得让人心碎啊！那是因为湖水靠附近森林的雨水积聚，由于单宁酸的作用使湖水形成如此湛蓝了！
+这一路上的美湖真是无穷无尽，来不及看啊！在这驾驶体验极好的 6 号公路上，我们先后跨过了 Waitangitanoa River，路过了 [{{ site.icon.mark }} Lake Wahapo](http://dwz.cn/32WXW2)、 [{{ site.icon.mark }} Lake Mapourika](http://dwz.cn/32VKVd)（梅普里卡湖）。这景象，就像沉迷二次元的小宅男突然被人带进了展会看车模，怎么满眼望去都是美女啊，还都是看得见摸得着的！据说，[梅普里卡湖 {{ site.icon.link }}](https://zh.wikipedia.org/wiki/梅普里卡湖) 是新西兰西海岸最大的湖泊，这湖水，蓝得让人心碎啊！那是因为湖水靠附近森林的雨水积聚，由于单宁酸的作用使湖水形成如此湛蓝了！
 
 ![nz: Waitangitanoa River]({{ '/img/nz/waitangitanoa-river.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>Waitangitanoa River，连河流都泛着蓝色</span>
@@ -141,8 +141,5 @@ Lake Matheson 是一狭长型湖，环湖都修建了供观光及徒步的栈道
 
 ![nz: 今日行程]({{ '/img/nz/path-hokitika-2-fox-glacier.jpg' | prepend: site.baseurl }})
 {{ site.icon.hand }} <span>今日行程</span>
-
-![nz: 今日行程]({{ '/img/nz/path-hokitika-2-fox-glacier.jpg' | prepend: site.baseurl }})
-{{ page.hand }} <span>今日行程</span>
 
 ### <i class="fa fa-angle-double-right"></i> 请看下篇：[Day-4(12/21) 冰川风雨起苍黄，末日小车走匆忙]({{ '/2016/04/08/lost-in-middle-earth-day-4.html' | prepend: site.baseurl }})
