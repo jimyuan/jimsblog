@@ -151,7 +151,7 @@ background-origin: border-box | padding-box | content-box
 
 .stripe2 的代码生成了 45 度的倾斜条纹，这里先生成一个 30x30 的条纹方块，然后 45 度方向 4 次平铺它，这样才能在整个平面内平铺行成倾斜条纹。但是然而…… 实际效果有点奇怪，仔细查看，原来条纹太细，其间距根本不是 15px，而是 15 ÷ √<span class="gh">2</span>。
 
-![条纹间隔距离示意](/img/css-secrets/45deg-stripe.png)
+![条纹间隔距离示意]({{'/img/css-secrets/45deg-stripe.png' | prepend: site.baseurl}})
 
 想要形成真正 15px 间隔的条纹，我们通过勾股定理简单计算得出，其基本单位定义的边长应该扩大为 30 * √<span class="gh">2</span> ≈ 42.426，取个整，42px，条纹间隔近似 15px 了。
 

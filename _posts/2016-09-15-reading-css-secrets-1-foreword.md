@@ -7,7 +7,7 @@ tags: css
 [*CSS SECRETS*](https://www.amazon.cn/CSS%E6%8F%AD%E7%A7%98-Lea-Verou/dp/B01ET3FO86) 这本书，应该是属于到目前为止能够数得上重量级的为数不多的关于 CSS 技巧的前端书籍了。其作者 __Lea Verou__ 来头也不小，她是 W3C 的 CSS 规范制定小组的核心成员，从专业角度来讲，她对 CSS 的权威性是不容置疑的。[这里](http://lea.verou.me) 是她的博客地址，从中我们可以获取到她对 CSS 的一些精彩运用。
 <!--more-->
 
-![Lea Verou](/img/css-secrets/Lea-Verou.jpg)
+![Lea Verou]({{'/img/css-secrets/Lea-Verou.jpg' | prepend: site.baseurl}})
 _作者近照，标准程序媛一枚！_
 
 以下所写内容，是我对这本书读了 2 遍（英文版电子书 + 中文版实体书）后写下的读书笔记，有些精妙的 CSS 黑魔法技巧看得直叫我击掌赞叹，写下精髓以免淡忘。
