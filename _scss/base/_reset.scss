@@ -1,11 +1,12 @@
-*,
-*:before,
-*:after {
+html {
+  font-size: $base-font-size;
   box-sizing: border-box;
 }
 
-html {
-  font-size: $base-font-size;
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
 }
 
 html, body {

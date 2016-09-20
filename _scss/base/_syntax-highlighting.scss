@@ -1,13 +1,12 @@
 .highlight {
   -webkit-text-size-adjust: none;
   margin: 1rem 0;
-
-  pre {
-    border: 1px solid lighten(gray, 30%);
-  }
 }
 
-.highlight,
+pre {
+  border: 1px solid lighten(gray, 30%);
+}
+
 .gist-syntax .highlight { background-color: #fdf6e3; color: #586e75 }
 .highlight .c,
 .gist-syntax .highlight .c { color: #93a1a1 } /* Comment */

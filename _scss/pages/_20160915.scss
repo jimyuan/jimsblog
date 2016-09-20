@@ -1,0 +1,176 @@
+/* 开根号上面的一横 */
+.gh {
+  border-top: 1px solid;
+}
+
+.demo-content {
+  font-size: 1.5rem;
+
+  > div {
+    margin-bottom: 0.5em;
+    text-align: center;
+    color: white;
+    line-height: 2;
+    padding: 1em;
+    font-family: serif;
+  }
+}
+
+@media screen and (min-width: $viewport-medium) {
+  .demo-content {
+    display: flex;
+    justify-content: space-between;
+    font-size: inherit;
+
+    > div {
+      width: 30%;
+    }
+  }
+}
+
+.csss-bg,
+.csss-bgi {
+    border: 0.4em dashed purple;
+}
+
+.csss-bg {
+  background-color: violet;
+}
+
+.bgclip-pb {
+  background-clip: padding-box;
+}
+
+.bgclip-cb {
+  background-clip: content-box;
+}
+
+.csss-bgi {
+  background: white url(/img/nz/east-tunnel-nature-walk.jpg) no-repeat 0 / 100% 100%;
+}
+
+.bgorigin-bb {
+  background-origin: border-box;
+}
+
+.bgorigin-pb {
+  background-origin: padding-box;
+}
+
+.bgorigin-cb {
+    background-origin: content-box;
+}
+
+/* 内圆角效果 */
+.inner-rounding {
+  border-radius: 0.8em;
+  box-shadow: 0 0 0 0.4em #655;
+  outline: 0.6em solid #655;
+  max-width: 10em;
+  padding: 1em;
+  margin: 0.6em;
+  background: tan;
+  font: 100%/1.5 sans-serif;
+}
+
+.stripe {
+  height: 90px;
+  border-radius: 0.5em;
+}
+
+.stripe-90 {
+  background: linear-gradient(royalblue 15px, skyblue 0) 0 / 100% 30px;
+}
+
+.stripe-45 {
+  background: linear-gradient(45deg, royalblue 25%, skyblue 0, skyblue 50%, royalblue 0, royalblue 75%, skyblue 0) 0 / 30px 30px;
+}
+
+.stripe-45-good {
+  background-size: 42px 42px;
+}
+
+.stripe-45-real {
+  background: repeating-linear-gradient(45deg, royalblue, royalblue 15px, skyblue 0, skyblue 30px);
+}
+
+.drop-dots {
+  height: 120px;
+}
+
+.drop-init {
+  background: #556 radial-gradient(rgba(255,255,255,0.2) 20%, transparent 0) 0 / 40px 40px;
+}
+
+.drop-real {
+  background: #556;
+  background-image: radial-gradient(rgba(255,255,255,0.2) 20%, transparent 0), radial-gradient(rgba(255,255,255,0.2) 20%, transparent 0);
+  background-size: 40px 40px;
+  background-position: 0 0, 20px 20px;
+}
+
+.drop-fixed {
+  background-position: -8px -8px, 12px 12px;
+}
+
+/* 伪随机背景 */
+.random-part {
+  height: 100px;
+  background-color: hsl(20, 40%, 90%) ;
+}
+
+.random-part-1 {
+  background-image: linear-gradient(90deg, #fb3 11px, transparent 0);
+  background-size: 41px 100%;
+}
+
+.random-part-2 {
+  background-image: linear-gradient(90deg, #ab4 23px, transparent 0);
+  background-size: 61px 100%;
+}
+
+.random-part-3 {
+  background-image: linear-gradient(90deg, #655 41px, transparent 0);
+  background-size: 83px 100%;
+}
+
+.random-stripe {
+  height: 100px;
+  margin-bottom: 1em;
+  background: hsl(20, 40%, 90%);
+  background-image:
+      linear-gradient(90deg, #fb3 11px, transparent 0),
+      linear-gradient(90deg, #ab4 23px, transparent 0),
+      linear-gradient(90deg, #655 41px, transparent 0);
+  background-size: 41px 100%, 61px 100%, 83px 100%;
+}
+
+/* 伪图片边框 */
+.stripe-border {
+  height: 100px;
+  padding: 0.5em;
+  margin-bottom: 1em;
+  background:
+    linear-gradient(#fff, #fff) content-box,
+    repeating-linear-gradient(135deg,
+      #f00, #f00 15px, transparent 0, transparent 30px,
+      #058 0, #058 45px, transparent 0, transparent 60px)
+      padding-box 0 / 100% 100%;
+}
+
+/* 蚂蚁行军 */
+@keyframes ants {
+  to {
+    background-position: 100% 100%;
+  }
+}
+
+.stripe-rect {
+  height: 100px;
+  margin-bottom: 1em;
+  padding: 1em;
+	border: 1px solid transparent;
+	background: linear-gradient(white, white) padding-box,
+	            repeating-linear-gradient(-45deg, black 0, black 25%, transparent 0, transparent 50%) 0 / .6em .6em;
+	animation: ants 60s linear infinite;
+}
