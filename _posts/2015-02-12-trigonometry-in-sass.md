@@ -42,14 +42,15 @@ tags: Sass CSS
 
 用js的语法来表达，边长的长度`x = Math.tan(30 * Math.PI / 180) * y * 2`( JS里三角函数用的是弧度，要把角度转换一下才能计算 ), 问题解决了，我用该方法根据给定的高度，就能算出在一个矩形里用polygon画等边三角形路径时3个点得坐标了：`polygon(0.5x 0, x y, 0 y)`, y给定后，x的值通过以上方法就可以得出啦！
 
-其实这么简单的事情，是不值得太高兴的，问题来了，如果我想在 <span class="fa fa-link"></span> [Sass](http://sass-lang.com/)中要将这个东西封装一下，写一个mixin，传入高度，立刻给我生成一个等边三角形的CSS代码，那就省力了吧，嘿嘿，实现不了！
+其实这么简单的事情，是不值得太高兴的，问题来了，如果我想在 <span class="fa fa-link"></span> [Sass](http://sass-lang.com/) 中要将这个东西封装一下，写一个mixin，传入高度，立刻给我生成一个等边三角形的CSS代码，那就省力了吧，嘿嘿，实现不了！
 
 原因很简单，在Sass中，能够进行简单的加减乘除四则运算，但是没有内建的类似JS的`Math.sin()`或`Math.cos()`等三角函数的计算方法，傻眼了吧，没有三角函数，就没法做上面的事儿啊！
 
 #### 数值方法 (NUMERICAL METHODS)
 问题总是可以解决的，但是我的大部分数学知识早就灰飞烟灭了，如果你掌握了那啥 <span class="fa fa-link"></span> [数值分析](http://zh.wikipedia.org/wiki/数值分析), 那啥 <span class="fa fa-link"></span> [CORDIC算法](http://en.wikipedia.org/wiki/Cordic)，那啥 <span class="fa fa-link"></span> [Chebyshev多项式](http://en.wikipedia.org/wiki/Chebyshev_polynomial)，或者那啥 <span class="fa fa-link"></span> [极值逼近算法](http://en.wikipedia.org/wiki/Remez_algorithm)，这就不是问题啦！天哪，我在上面写了点啥？所以啊，我复制、粘贴了 <span class="fa fa-link"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)来实现咱们的`sin()`或者`cos()`计算：
-
+{% raw %}
 <figure class="equation">$$ \begin{aligned} \sin x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n+1)!}}x^{{2n+1}} = x - {\frac {x^{3}}{3!}} + {\frac {x^{5}}{5!}} - \cdots \\\\ \cos x & = \sum _{n=0}^{\infty}{\frac {(-1)^{n}}{(2n)!}}x^{{2n}} = 1 - {\frac {x^{2}}{2!}} + {\frac {x^{4}}{4!}} - \cdots \end{aligned} $$</figure>
+{% endraw %}
 
 哦，天那，上面又是啥玩意儿？习惯一下，随便看两眼…… 不管如何，我们要依靠上面的算法来解决问题啊亲！所以我们需要把以上的算法翻译成Sass能认的语法。
 

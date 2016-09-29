@@ -147,15 +147,15 @@
 
 /* 伪图片边框 */
 .stripe-border {
-  height: 100px;
-  padding: 0.5em;
+  padding: 0.8em;
+  border: 0.8em solid transparent;
   margin-bottom: 1em;
   background:
-    linear-gradient(#fff, #fff) content-box,
+    linear-gradient(#fff, #fff) padding-box,
     repeating-linear-gradient(135deg,
       #f00, #f00 15px, transparent 0, transparent 30px,
       #058 0, #058 45px, transparent 0, transparent 60px)
-      padding-box 0 / 100% 100%;
+      border-box 0 / 100% 100%;
 }
 
 /* 蚂蚁行军 */
@@ -171,6 +171,6 @@
   padding: 1em;
 	border: 1px solid transparent;
 	background: linear-gradient(white, white) padding-box,
-	            repeating-linear-gradient(-45deg, black 0, black 25%, transparent 0, transparent 50%) 0 / .6em .6em;
+	            repeating-linear-gradient(-45deg, black 0, black 25%, transparent 0, transparent 50%) border-box 0 / .6em .6em;
 	animation: ants 60s linear infinite;
 }

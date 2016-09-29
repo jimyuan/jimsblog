@@ -248,17 +248,17 @@ __方向__ | __关键词__ | __角度(deg)__
 
 ```css
 .stripe-border {
+  padding: 0.8em;
+  border: 0.8em solid transparent;
   background:
-    ...
-    linear-gradient(#fff, #fff) content-box,
+    linear-gradient(#fff, #fff) padding-box,
     repeating-linear-gradient(135deg,
       #f00, #f00 15px, transparent 0, transparent 30px,
       #058 0, #058 45px, transparent 0, transparent 60px)
-      padding-box 0 / 100% 100%;
-  padding: 10.5em;
+      border-box 0 / 100% 100%;
 }
 ```
-<div class="stripe-border"></div>
+<div class="stripe-border">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
 
 利用 `background-origin` 的不同为多重背景添加不同的覆盖范围，可以为容器添加这种奇妙的效果。我们再来看一个“蚂蚁行军”效果，就是大家在图片编辑软件里常看到的那种虚线框效果：
 
