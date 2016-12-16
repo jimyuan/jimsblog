@@ -174,3 +174,129 @@
 	            repeating-linear-gradient(-45deg, black 0, black 25%, transparent 0, transparent 50%) border-box 0 / .6em .6em;
 	animation: ants 60s linear infinite;
 }
+
+/* border-radius 容器, 正方形 */
+$block-color: (#058, #062, #fb3);
+
+.square-content {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2em;
+
+  > .square {
+    width: 30%;
+    padding-top: 30%;
+
+    &:nth-child(1) {
+      border-radius: 100%;
+    }
+
+    &:nth-child(2) {
+      border-radius: 100% 0;
+    }
+
+    &:nth-child(3) {
+      border-radius: 0 100% 0 0;
+    }
+  }
+
+  > .rectangle {
+    width: 30%;
+    padding-top: 20%;
+
+    &:nth-child(1) {
+      border-radius: 50%;
+    }
+
+    &:nth-child(2) {
+      border-radius: 100% 0 0 0;
+    }
+
+    &:nth-child(3) {
+      border-radius: 50% / 100% 100% 0 0;
+    }
+  }
+
+  @each $color in  $block-color{
+    > div:nth-child(#{index($block-color, $color)}) {
+      background: $color;
+    }
+  }
+}
+
+/* 平行四边形 */
+.parallelogram {
+  $w: 300px;
+  @include size($w, $w * 0.5);
+  margin: auto;
+  text-align: center;
+  font-size: 40px;
+  color: #fff;
+  line-height: $w * 0.5;
+  position: relative;
+
+  &::before {
+    @include absolute(top 0 right 0 bottom 0 left 0);
+    content: '';
+    background: #058;
+    transform: skew(-30deg);
+    z-index: -1;
+  }
+}
+
+/* 菱形 */
+.diamond {
+  @include size(180px / 1.42);
+  margin: 50px auto;
+  background: #052;
+  transform: rotate(45deg);
+  overflow: hidden;
+
+  > img {
+    width: 100%;
+    transform: rotate(-45deg) scale(1.42);
+  }
+}
+
+.diamond-img {
+  display: block;
+  max-width: 180px;
+  margin: 50px auto;
+  clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
+  transition: 1s;
+
+  &:hover {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+}
+
+/* 梯形 */
+.echelon {
+  position: relative;
+  display: inline-block;
+  padding: .5em 1em .35em;
+  font-size: 2em;
+  color: white;
+  margin-bottom: 1em;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0; right: 0; bottom: 0; left: 0;
+    z-index: -1;
+    background: #58a;
+    transform: scaleY(1.3) perspective(0.5em) rotateX(5deg);
+    transform-origin: bottom;
+  }
+
+  & + & {
+    margin-left: 1em;
+  }
+}
+
+.ec-2::before {
+  transform-origin: bottom left;
+}
+.ec-3::before {
+  transform-origin: bottom right;
+}
