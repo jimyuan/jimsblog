@@ -67,6 +67,7 @@ Good boy! 乖乖的回调出 4 啦！
 ## 牛逼闪闪： I PROMISE!
 
 我许诺，我会拿到你异步的值以后再行动！I promise！
+
 ```js
 function getValue() {
   let val = 0
