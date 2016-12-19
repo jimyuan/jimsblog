@@ -102,6 +102,7 @@ tags: css
 <div class="diamond"><img src="{{'/img/ios/touch-icon-180.png' | prepend: site.baseurl }}"></div>
 
 其实，CSS3 蕴藏了一个强大的多边形路径裁切属性 `clip-path`，有了它，任意复杂的图形描边都可以实现，只是…… 浏览器对它的兼容性支持稍微差了那么一点点。另外，该属性还能参与动画与过渡，实在是完美。
+
 ```css
 img {
   clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
