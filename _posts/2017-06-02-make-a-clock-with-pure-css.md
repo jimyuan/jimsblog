@@ -110,14 +110,14 @@ $mw: $cw / 10;
   > li {
     // 定义刻度所在容器，先全给水平居中了，给一个合适的 top 值，让刻度容器和父容器隔开一定空间
     @include absolute(left 50% top $mw / 2);
-    // 刻度所在容器大小定义
-    @include size($mw);
+    // 刻度所在容器大小定义，宽度要留有余地，避免不同字体因微小差别导致换行
+    @include size($mw * 2, $mw);
 
     display: block;
     // 修正一下偏移量，使其妥妥居中
-    margin-left: $mw / -2;
+    margin-left: $mw;
     // 重要：给即将要做旋转的刻度容器定义旋转中心，根据计算，定位在父容器的中心
-    transform-origin: $mw / 2 ($cw - $mw) / 2;
+    transform-origin: $mw ($cw - $mw) / 2;
     // 所有 1-12 的时刻不直接写在容器内，而是映射到它的伪元素中
     &::after {
       // 设置伪元素的大小，同 li 大小相当
@@ -126,8 +126,8 @@ $mw: $cw / 10;
       content: attr(data-time);
       text-align: center;
       // 字体大小，可以进行微调以适应不同的字体
-      font-size: 20px;
-      line-height: $mw;
+      font-size: $mw;
+      line-height: 1;
     }
   }
   // 做一个循环，让 12 个刻度按照 30 度，也就是 1/12 圈为间隔，绕之前定义的中心散开
@@ -306,5 +306,7 @@ document.querySelector('.hand-second').style.animationDelay = ss + 's';
 document.querySelector('.hand-minute').style.animationDelay = ms + 's';
 document.querySelector('.hand-hour').style.animationDelay = hs + 's';
 </script>
+
+以上！^o^
 
 附：完整例子可以参考 [codepan](https://codepen.io/jimyuan/pen/LywKXg/)

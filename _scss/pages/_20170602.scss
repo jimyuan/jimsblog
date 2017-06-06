@@ -25,18 +25,18 @@ $mw: $cw / 10;
   
   > li {
     @include absolute(left 50% top $mw / 2);
-    @include size($mw);
+    @include size($mw * 2, $mw);
 
     display: block;
-    margin-left: -$mw / 2;
-    transform-origin: $mw / 2 ($cw - $mw) / 2;
+    margin-left: -$mw;
+    transform-origin: $mw ($cw - $mw) / 2;
     
     &::after {
       content: attr(data-time);
       text-align: center;
       font-family: Arial;
-      font-size: 18px;
-      line-height: $mw;
+      font-size: $mw;
+      line-height: 1;
       @include absolute(top 0 right 0 bottom 0 left 0);
     }
   }
