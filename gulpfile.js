@@ -12,14 +12,22 @@
   }
   const browserSync = $.browserSync.create()
   const reload      = browserSync.reload
-
+  // jekyll build
+  const buildCall   = (done, origin = true) => {
+    const cp = require('child_process')
+    const subCmd = origin ? ['build'] : ['build', '--incremental']
+    browserSync.notify(msg.jekyllBuild)
+    return cp.spawn('jekyll', subCmd, {stdio: 'inherit'}).on('close', done)
+  }
+  
+  // original build
+  gulp.task('jekyll', buildCall)
+  
   //|**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
   //| ~ Build the Jekyll Site
   //|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
   gulp.task('jekyll-build', done => {
-    const cp = require('child_process')
-    browserSync.notify(msg.jekyllBuild)
-    return cp.spawn('jekyll', ['build'], {stdio: 'inherit'}).on('close', done)
+    buildCall(done, false)
   })
 
   //|**~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
