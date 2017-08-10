@@ -118,8 +118,8 @@ Google 查寻了下，貌似人家不接受非美帝的信用卡，TNND! 如何�
 ### [Day-1：倒转时空，初访异国 (July 1)]({{ '/2017/07/21/blue-hawaii-self-driving-day-1.html' | prepend: site.baseurl }})
 上海(Shanghai) -> 火奴鲁鲁(Honolulu) -> 科纳(Kona)
 
-### Day-2：悠游浮生，日餐助兴
-马哈依乌拉海滩(Mahai'ula Beach)
+### [Day-2：悠游浮生，日料助兴 (July 2)]({{ '/2017/08/04/blue-hawaii-self-driving-day-2.html' | prepend: site.baseurl }})
+科纳(Kona) -> 马哈依乌拉海滩(Mahai'ula Beach)
 
 ### Day-3：撒欢南角，碧沙猎奇
 科纳(Kona) -> 南端角(South Point) -> 绿沙滩(Green Sand Beach)
