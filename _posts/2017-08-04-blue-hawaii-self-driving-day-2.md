@@ -92,7 +92,7 @@ _科纳(Kona) -> 马哈依乌拉海滩(Mahai'ula Beach)_
 
 ### 晚餐 <small>DINNER</small>
 
-话说下午在浮潜的时候，海底的海胆勾起了我日料的念头，夏威夷作为日本人的“后花园”，日料店可是一点也不难找。打开 Yelp 查找，沿海边的那条 Ali'i Dr 周围遍布了好几家日料店，选定一家，叫做 [{{site.icon.food}} Seiji’s Sushi](https://goo.gl/UAZuUn)，离酒店步行 7-8 分钟路的样子。
+话说下午在浮潜的时候，海底的海胆勾起了我日料的念头，夏威夷作为日本人的“后花园”，日料店可是一点也不难找。打开 Yelp 查找，沿海边的那条 Alii Dr 周围遍布了好几家日料店，选定一家，叫做 [{{site.icon.food}} Seiji’s Sushi](https://goo.gl/UAZuUn)，离酒店步行 7-8 分钟路的样子。
 
 沿着海边的那条马路向北走，日已西沉，沿路有好多海钓的人群，不知他们今日收获几何。逛去小店一看，还真是小啊，只有三张桌子，里面的老板娘告诉我们过半小时再来，现在客满了。好吧呵呵，趁这个时间正好去对面的 [{{ site.icon.mark }} 凯卢阿湾(Kailua Bay)](https://goo.gl/L1T7Yv)逛逛。
 
@@ -112,4 +112,12 @@ _科纳(Kona) -> 马哈依乌拉海滩(Mahai'ula Beach)_
 
 ![fig: 日料]({{ '/img/hawaii/sejis-sushi.jpg' | prepend: site.baseurl }})
 
-作为一个日料控，在美国过了一把瘾，心里甚是满足啊。今晚是在 Knoa 的最后一晚啦，明天我们又将开赴新的景点，期望甚浓！
+夏威夷当地有一种特色刨冰，叫做彩虹摇摇冰，听说有些地方的彩虹摇摇冰生意特别好，这个排队买刨冰的队伍天天能排老长，吃完日料我们往回逛的路上，就碰到了一家卖彩虹刨冰的小冷饮店，叫做 [{{site.icon.food}} Scandinavian Shave Ice](https://goo.gl/Gf9xBQ)，那就进去给我家小朋友来上一杯吧！小店生意不错啊，已是晚上八点多，店里还是很多人啊！
+
+买完刨冰，坐在路边的黑色火山石上，边吃边看着依然游人如织的小城，这个就是度假啊！尤其是刚刚，在美国还过了一把日料瘾，心里甚是满足啊。今晚是在 Knoa 的最后一晚啦，明天我们又将开赴新的景点，期望甚浓！
+
+![fig: 彩虹摇摇冰]({{ '/img/hawaii/shave-ice.jpg' | prepend: site.baseurl }})
+
+---
+
+### 请看下篇：[Day-3：撒欢南角，碧沙猎奇 (July 3)]({{ '/2017/08/10/blue-hawaii-self-driving-day-3.html' | prepend: site.baseurl }})

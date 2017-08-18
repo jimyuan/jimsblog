@@ -121,10 +121,10 @@ Google 查寻了下，貌似人家不接受非美帝的信用卡，TNND! 如何�
 ### [Day-2：悠游浮生，日料助兴 (July 2)]({{ '/2017/08/04/blue-hawaii-self-driving-day-2.html' | prepend: site.baseurl }})
 科纳(Kona) -> 马哈依乌拉海滩(Mahai'ula Beach)
 
-### Day-3：撒欢南角，碧沙猎奇
-科纳(Kona) -> 南端角(South Point) -> 绿沙滩(Green Sand Beach)
+### [Day-3：撒欢南角，碧沙猎奇 (July 3)]({{ '/2017/08/10/blue-hawaii-self-driving-day-3.html' | prepend: site.baseurl }})
+科纳(Kona) -> 南角公园(South Point Park) -> 绿沙滩(Green Sand Beach)
 
-### Day-4：龟栖乌地，熔岩惊鸿
+### Day-4：黑沙赏龟，夜探火山
 黑沙滩(Black Sand Beach) -> 火山国家公园(Hawaii Volcanoes National Park)
 
 ### Day-5：广漠荒芜，撒欢东游
