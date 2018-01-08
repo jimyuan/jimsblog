@@ -141,7 +141,7 @@ tags: css
     </svg>');
 }
 ```
-> <div id="obj" class="demo105-7"> 各种资源尽管来啊！ </div>
+> <div class="demo105-7"> 各种资源尽管来啊！ </div>
 
 从以上示例可以看出，我们采用了 CSS 中一种通用的方法，就能将外部图片资源给引入。上面讲了，我们熟悉的背景图片引用就采用类似的方法，使用了内置的 `url()` 函数。我们这时候是否能发散一下想到，在 CSS3 标准下，我们不但可以使用 `background-image: url(http://your/data/uri)` 的方式引用图片资源，我们还可以使用一些渐变函数创造资源。是的，content 属性确实可以接受使用渐变函数！
 
@@ -155,9 +155,11 @@ tags: css
   overflow: hidden;
 }
 ```
-> <div id="obj" class="demo105-8"></div>
+> <div class="demo105-8"></div>
 
 瞧瞧，我们在 content 里实现了渐变。如果再深入一下的话，那我们还可以知道，要实现渐变，CSS 提供了 `linear-gradient()`, `gadial-gradient()`, `repeat-linear-gradient()`, `repeat-radial-gradient` 等 4 种函数，据说将来 CSS4 还会增加一个叫做 `conic-gradient()` 的渐变函数，我们称之为角向渐变(也称作圆锥渐变)。
+
+(_文章发表后发现，貌似 safari 不支持 content 中使用渐变函数嘛，在背景中是支持的，这……_)
 
 插个题外话，巧妙的利用 CSS 背景色、渐变、多背景堆叠、背景混合模式等，将会产生一些意想不到的美妙效果，具体例子可以参看 [{{ site.icon.link }} 这里](http://verou.me/css3patterns/) 赞叹一下吧！
 
