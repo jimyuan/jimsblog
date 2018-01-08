@@ -58,7 +58,7 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-gems:         [jekyll-paginate]
+plugins:      [jekyll-paginate]
 paginate:     8
 markdown:     kramdown
 sass:
