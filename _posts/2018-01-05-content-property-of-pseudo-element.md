@@ -4,7 +4,7 @@ title:  CSS 伪元素 content 属性的诸多取值
 tags: css
 ---
 
-2018 年的开篇 blog！大家新年好！这篇博客我们主要来讲一讲 CSS 伪元素中的 content 属性，仔细看了下 [{{site.icon.link}} MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/content) 文档所述，其罗列的 "Formal syntax" 还真是好多啊！有许多我们不太用的，或者忽略的属性值还是很有意思的！
+2018 年的开篇 blog！大家新年好！这篇博客我们主要来讲一讲 CSS 伪元素中的 content 属性，仔细看了下 [{{site.icon.link}} MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/content) 文档所述，其罗列的 "Formal syntax" 还真是好多啊！有许多我们平时不太用的，或者忽略的属性值还是很有意思的！
 <!--more-->
 
 有点 CSS 编写经验的人都知道，伪元素(Pseudo Element)可是个好东西，CSS 文档中的伪元素有好几个，这里我们着重介绍的是 `::before` 和 `::after` 两兄弟。借助它们，我们可以在布局中为正常的容器凭空添加两个虚拟的节点，配合一些 CSS 的“奇技淫巧”，便能展现一些 UI 交互上的 “黑魔法”。而让这两兄弟能够顺利生效的一个必备属性就是 `content` 了，没有它，这两兄弟就不起作用了。
@@ -157,9 +157,10 @@ tags: css
 ```
 > <div class="demo105-8"></div>
 
+( _艹！文章发表后发现，貌似 safari(v11, High Sierra) 不支持 content 中使用渐变函数嘛，在背景中是支持的，这……，看来兼容……性方面还是有问题_ )
+
 瞧瞧，我们在 content 里实现了渐变。如果再深入一下的话，那我们还可以知道，要实现渐变，CSS 提供了 `linear-gradient()`, `gadial-gradient()`, `repeat-linear-gradient()`, `repeat-radial-gradient` 等 4 种函数，据说将来 CSS4 还会增加一个叫做 `conic-gradient()` 的渐变函数，我们称之为角向渐变(也称作圆锥渐变)。
 
-(_文章发表后发现，貌似 safari 不支持 content 中使用渐变函数嘛，在背景中是支持的，这……_)
 
 插个题外话，巧妙的利用 CSS 背景色、渐变、多背景堆叠、背景混合模式等，将会产生一些意想不到的美妙效果，具体例子可以参看 [{{ site.icon.link }} 这里](http://verou.me/css3patterns/) 赞叹一下吧！
 

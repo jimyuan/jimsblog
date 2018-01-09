@@ -19,14 +19,16 @@
   <!-- Custom CSS -->
   <link rel="stylesheet" href="{{ '/css/docs.css' | prepend: site.baseurl }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
 
+  {% if site.google_verification %}
   <!-- Verifications -->
-  {% if site.google_verification %}<meta name="google-site-verification" content="{{ site.google_verification }}">{% endif %}
-  <!-- Icons -->
-
+  <meta name="google-site-verification" content="{{ site.google_verification }}">{% endif %}
+  
+  <!-- Desktop Icons -->
   {% for icon in site.touch_icons %}
   <link href="{{ '/img/ios/' | prepend: site.baseurl }}touch-icon-{{icon}}.png" sizes="{{icon}}x{{icon}}" rel="apple-touch-icon-precomposed">{% endfor %}
+  <!-- Favicon -->
   <link rel="icon" type="image/png" href="{{'/favicon.ico' | prepend: site.baseurl}}">
-
+  
   {% if site.google_analytics %}
   <script>
     var _gaq = _gaq || [];
