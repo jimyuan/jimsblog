@@ -62,12 +62,12 @@
     .pipe($.plumber())
     .pipe($.sourcemaps.init())
     .pipe($.sass({
-      outputStyle: 'compressed',
       onError: browserSync.notify
     }))
     .pipe($.autoprefixer({
-      browsers: ['last 10 versions', '> 1%']
+      browsers: ['last 5 versions', 'ie > 9']
     }))
+    .pipe($.cleanCss())
     .pipe($.sourcemaps.write('./'))
     .pipe(gulp.dest(`${_.dist}/css`))
     .pipe(browserSync.stream())
