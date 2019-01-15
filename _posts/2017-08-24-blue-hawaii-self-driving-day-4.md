@@ -11,6 +11,8 @@ _黑沙滩(Black Sand Beach) -> 火山国家公园(Hawaii Volcanoes National Par
 新的一天悄悄来到，这是我们在夏威夷的第四天。果然是个乡下地方，朦朦胧胧中，只听得窗边雄鸡打鸣，母鸡咯咯。屋外的鸟叫声也此起彼伏，就差狗叫猪哼了。隔壁房间应该也有住客，隔音不是很好，只是朦胧的听到有女的在骂 Fxxk！唉，起床吧，往外瞅了两眼，又是一个大晴天啊，太好了，今天安排的好节目，可不能让天气给毁了。
 <!--more-->
 
+---
+
 ### 休闲 <small>RELAX</small>
 昨晚投宿时老太告诉我们今天的早餐时间，七点半时我一如既往的担当起叫醒员的工作，把母子俩都拖起来，趁他们洗漱时，我就到屋外的大草地上走走。出门抬头一看，我们楼上原来不是房间，是个鸟舍，里面是一只非常美丽的精钢鹦鹉。
 
@@ -43,6 +45,8 @@ _黑沙滩(Black Sand Beach) -> 火山国家公园(Hawaii Volcanoes National Par
 
 ![fig: 百香果]({{ '/img/hawaii/passion-fruit.jpg' | prepend: site.baseurl }})
 {{site.icon.hand}} <span>满地百香果，真的好香！</span>
+
+---
 
 ### 黑沙滩 <small>BLACK SAND BEACH</small>
 告别热情的女主，我们再次踏上旅程，接下来我们前往的景点离此处不远，大概距离 10 英里远的海边，有一片由火山熔岩入海而形成的黑沙滩，[{{ site.icon.spot }} Punalu'u Black Sand Beach](https://goo.gl/MRnnbs)。
@@ -88,6 +92,8 @@ _黑沙滩(Black Sand Beach) -> 火山国家公园(Hawaii Volcanoes National Par
 ![fig: 海边小湖]({{ '/img/hawaii/lake-by-black-beach.jpg' | prepend: site.baseurl }})
 {{site.icon.hand}} <span>海边小湖，挺少见啊！</span>
 
+---
+
 ### 火山公园 <small>VOLCANOES PARK</small>
 自驾游的好处就是自由、随意，在黑沙滩这儿折腾够了，咱收拾行装，接下来向本次行程的一个重要景点——[{{ site.icon.spot }} 夏威夷火山国家公园](https://goo.gl/i11LZq)进发啦！依旧沿着 HI-11 向东行驶，大约有半个小时的行程，接近目的地时，有明显的景区指示，到目的地右拐，排队进入公园，$25 一辆车，凭票可以在七天内任意进出。
 
@@ -130,6 +136,8 @@ _黑沙滩(Black Sand Beach) -> 火山国家公园(Hawaii Volcanoes National Par
 
 车型环路就到此了，下面的路被路障拦截了。已是下午三点半了，趁着天色还早，咱暂时撤退一下，先去今晚的住宿地 check in，等等再来。
 
+---
+
 ### 投宿 <small>UGLY INN</small>
 话说我在安排行程的时候就计划好了要夜游火山公园了，因此在公园边上的沃尔卡诺小镇上也安排了一个 B&B。沃尔卡诺——Volcano，呵呵，文盲国家，起个地名真是随意啊！
 
@@ -155,6 +163,8 @@ _黑沙滩(Black Sand Beach) -> 火山国家公园(Hawaii Volcanoes National Par
 
 快到晚上七点了，夕阳西沉，不过离天黑还有好一会儿啊！咱出发去夜探火山公园咯！
 
+---
+
 ### 火山公园 <small>VOLCANO PARK</small>
 之前说到，火山公园下午 5 点就结束营业了，但是公园本身是 24 小时开放的，所以你要省钱的话，你就晚上来吧，没人管你要门票了哦。
 
@@ -175,6 +185,8 @@ _黑沙滩(Black Sand Beach) -> 火山国家公园(Hawaii Volcanoes National Par
 
 ![fig: 夜幕下的火山口]({{ '/img/hawaii/crater-night.jpg' | prepend: site.baseurl }})
 {{site.icon.hand}} <span>夜幕下的火山口，火红的色彩分外醒目！</span>
+
+---
 
 ### 返回 <small>RETURN</small>
 观赏完夜景，人们陆续开车回去了，可以看到有很多车是沿着 HI-11 公路一直往西的，那些人应该是住在西岸的 Hilo 城，离此地大概 30 英里左右，40分钟路程。而我则为了偷懒，在这公园边上订了这间小屋子，小床上挤一夜对付对付算了！

@@ -17,6 +17,8 @@ _火山国家公园(Hawaii Volcanoes National Park) -> 希洛(Hilo)_
 
 接下来未雨绸缪一下，白天的游览计划还是火山公园，基于这个情况，我们提前考虑一下午餐的着落。昨天用 Yelp 查了，这个小镇上为数不多的还值得推荐的餐厅，叫 [{{site.icon.food}} Volcano's Lava Rock Cafe](https://goo.gl/HtnDyi)，我看网上有很多人建议在此外卖汉堡薯条啥的带进公园即可。昨天独立日他们没开门，今天总开了吧，去买点汉堡啥的当午饭吧。到那儿一看，门口的美女服务员说现在人太多了，估计要一个小时，都是来买早餐（或午餐）的。看来大家的打算都差不都啊，唉算了，咱走吧，有机会中午再来吃吧。
 
+---
+
 ### 熔岩管道 <small>LAVA TUBE</small>
 眼前这么大一个国家公园，一千三百多平方公里的地儿，光靠我们这两天的时间是游览不过来的，只能挑几个走马观花啦！今天第一个景点离公园入口不远，很久以前曾经是火山喷发时岩浆流淌的管道，那儿就是 [{{site.icon.spot}} Thurston Lava Tube](https://goo.gl/enYAqL)。
 
@@ -52,6 +54,8 @@ _火山国家公园(Hawaii Volcanoes National Park) -> 希洛(Hilo)_
 
 ![fig: lava tube]({{ '/img/hawaii/narrow-tube.jpg' | prepend: site.baseurl }})
 {{site.icon.hand}} <span>通道的另一头，已渐渐收窄，不便同行，因此认为封闭了。</span>
+
+---
 
 ### 行走荒漠 <small>WALKING DESERT</small>
 在参观完 Lava Tube 后，我们再度沿着 Crater Rim Drive 一直开，没几分钟，就来到一处岔路口，好像记得当时做攻略的时候，里面也有一处景点，反正自驾着，咱就拐进去看看呗。一路上注意路边的限速标记，在国外开车，一路小心呗！
@@ -97,10 +101,14 @@ _火山国家公园(Hawaii Volcanoes National Park) -> 希洛(Hilo)_
 
 说实话，第一次领略这环形火山边的荒漠景象，非常有特色，希望能有机会来徒步一次！这儿的缺点就是风太大，连三脚架都能吹倒，太阳帽都差一点被吹走追不回来啊！
 
+---
+
 ### 午餐 <small>LUNCH</small>
 玩到中午快一点了，这个午饭需要解决一下，这荒漠里也不会有餐车开来啊，咱只好先退回来。在地图上查到，在游客中心对面，有一家开在公园里的小旅馆，叫做 [{{site.icon.stay}}Volcano House](https://goo.gl/91TVqQ)，那里应该会提供餐饮的。驱车前往一看，我的天，餐厅在公园里是稀缺资源啊，午餐的游客排着长长的队伍，这让我们立刻打消了在此进餐的想法，估计要排上一个小时才能轮到，太浪费我们的宝贵时间了。
 
 当即决定开车重回边上的小镇，去早上没吃到的那家 Lava Cafe 去！位还是要等哒，这里的服务员动作也不太麻利，等了 20 多分钟后终于轮到我们了。这地方也没啥好点的，也就薯条、汉堡啥的，只不过是牛肉、猪肉的分别，简单吃点吧，今天的重要游览任务还没完成呢！其实说实话，这个店的牛肉汉堡味道还是不错的，大概是饿了吧，呵呵！吃完走人咯，继续去火山公园游览！
+
+---
 
 ### 去海边 <small>TO THE SEASIDE</small>
 这次我们从上午走的环形路走，向南换到 Chain of Crater Rd，沿着此路一直走到海边。按常理，这一路上，一定还有一些 overlook 的地方供我们休憩和赏景的。
@@ -133,6 +141,8 @@ _火山国家公园(Hawaii Volcanoes National Park) -> 希洛(Hilo)_
 
 ![fig: Kealakomo]({{ '/img/hawaii/kealakomo-4.jpg' | prepend: site.baseurl }})
 
+---
+
 ### 海拱门 <small>SEA ARCH</small>
 根据对海拔的观察，我们从最高点的 1240m 一路下来，目前我们已经离海边越来越近了。远处，地底的岩浆通道探入海底，源源不断的把滚烫的岩浆注入到大海里，因此，那汹涌的火红同巨浪搏斗后产生的长长白烟依稀可以眺望到。
 
@@ -155,11 +165,16 @@ _火山国家公园(Hawaii Volcanoes National Park) -> 希洛(Hilo)_
 
 我们一家当然不准备徒步啦，只是稍微往里走了一英里多，看看海边的风景，给小朋友拍拍照，这边风景的确无敌！眼看快四点了，咱决定再次开拔，前往今日的住宿地，大岛上的第二大城市——Hilo。火山公园拜拜咯，还是感叹一下，这公园太大了，下次还想来这里玩！
 
+![fig: 全家留念]({{ '/img/hawaii/photos-at-sea-arch.jpg' | prepend: site.baseurl }})
+{{site.icon.hand}} <span>一家子在景点拍拍拍！</span>
+
 ![fig: 异域美景]({{ '/img/hawaii/perfect-view-of-seaside.jpg' | prepend: site.baseurl }})
 {{site.icon.hand}} <span>看着远处升腾的袅袅白烟，没有勇气徒步到那儿啊。</span>
 
 ![fig: 岩浆流淌痕迹]({{ '/img/hawaii/lava-flow.jpg' | prepend: site.baseurl }})
-{{site.icon.hand}} <span>在车上拍的，很清晰的岩浆随着地势向下冲击的痕迹。</span>
+{{site.icon.hand}} <span>在回程路上拍的，很清晰的看到岩浆随着地势向下冲击的痕迹。</span>
+
+---
 
 ### 去希洛 <small>TO HILO</small>
 从 Sea Arch 到今晚我们下榻的希洛夏威夷酒店大概有 50 英里的路程，不赶路的话大概一个半小时就能到了。这路也很好开，沿着来时的路出了公园后，继续驾车沿着 HI-11 一直往西走。进入城区后，这人气也开始旺盛起来了，红绿灯也渐渐增多。这里的绿灯变红灯都没有倒计时的，闪过黄灯后就变了，貌似这样就促使你在路口必须要减速，否则一不小心闯个红灯，不知道要被伐多少刀啊！下午五点半，在一条道路两边满是大榕树的路边，我们终于到达了今天的住宿地—— [{{site.icon.stay}} Hilo Hawaiian Hotel](https://goo.gl/38T5nD)，这可是个正式的大酒店了，可不是之前几天住的 B&B 啦，改善生活咯！
@@ -179,20 +194,24 @@ _火山国家公园(Hawaii Volcanoes National Park) -> 希洛(Hilo)_
 
 走在去餐厅的路上，沿着一条绕着公园的叫 Lihiwai St. 的小路直走，路两边也停满了来公园或者海边休闲的车辆，也有个别车辆里貌似躺着几个瘾君子，那飘出的烟，味道貌似…… 大麻？我瞎猜哈！
 
-啊哟，果然是个人气餐厅啊，在这个 cafe 门口登记一下，排队候餐吧。问了下 waiter, 估计至少还要等半个小时，啊哟喂，只好先出去逛一逛，海边的景色也不错，边等边拍拍照也好。饭店的后面靠着海边，在这儿吹吹海风，看看垂钓，沐浴夕阳，时间仿佛过的很快。
+等我们逛到 Cafe 门口一看，what！怎么啥动静都没有啊，没开门吗？还是已经关门歇业了？走近一看，阿欧，门口贴了张通告，说今晚餐厅员工 Team Building，暂停营业一天哦！这群人呐，你们好 Happy 啊，我们好 Hungry 哦！算了，打道回府，去酒店的餐厅解决晚饭吧，沿着 Lihiwai St. 边走边看夕阳，景色倒是不错。
 
 ![fig: Hilo Bay Cafe]({{ '/img/hawaii/hilo-bay-cafe-front.jpg' | prepend: site.baseurl }})
 {{site.icon.hand}} <span>cafe 正面。这地方到处都是大榕树。（谷歌街景图）</span>
 
 ![fig: 夕阳中的海湾]({{ '/img/hawaii/hilo-bay-cafe.jpg' | prepend: site.baseurl }})
-{{site.icon.hand}} <span>cafe 后面的风景不错哈。</span>
+{{site.icon.hand}} <span>Lihiwai St. 沿路的风景不错哈。</span>
 
 ![fig: 小袁摆 Pose]({{ '/img/hawaii/pose-by-seaside.jpg' | prepend: site.baseurl }})
 {{site.icon.hand}} <span>会自己摆 pose 了，无师自通啊！</span>
 
-只是这一等就是快一个小时，快八点了我们才吃上饭，上菜还特别的慢，我的天！好在美国的餐厅里，服务都不错（毕竟要给小费嘛），牛排也还行，吃的我们还算满意。饭店还特意给小朋友一些画画的小卡片，让他们打发一下无聊的等餐时间。
+回到酒店，大堂边上就是他们自己的餐厅，很大一个，叫 Queens Court Restaurant。用餐的人也不多，灯光还有点昏暗。waiter 带领我们找了个靠近窗口的位子，已经八点了，大家都饿坏了，要了汉堡、牛排、啤酒，我们呼啦呼啦先填饱肚子，略过不提。
 
 ![fig: 牛排]({{ '/img/hawaii/tasty-steak.jpg' | prepend: site.baseurl }})
 {{site.icon.hand}} <span>虽说等了好久，但牛排味道还不错！</span>
 
 吃完饭回到房间，把明天的行程梳理一遍，再安排一下后天的直升机巡游项目，比较了一下，选择了一家规模较大的公司，叫 [{{site.icon.link}} Blue Hawaiian](https://www.bluehawaiian.com/)，牙齿咬碎了八个，毫不浪费地再咽下后，在官网上订了个 Circle of Fire 游览套餐，3 个人小五千块 RMB 啊。散完钱，今晚可以舒舒服服的睡个大床了！
+
+---
+
+### 请看下篇：[Day-6：雨林徜徉，伸手摘星 (July 6)]({{ '/2017/08/28/blue-hawaii-self-driving-day-6.html' | prepend: site.baseurl }})

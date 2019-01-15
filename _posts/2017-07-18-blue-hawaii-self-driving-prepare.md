@@ -132,7 +132,7 @@ Google 查寻了下，貌似人家不接受非美帝的信用卡，TNND! 如何�
 ### [Day-5：广漠荒芜，一路东去（July 5）]({{ '/2017/08/26/blue-hawaii-self-driving-day-5.html' | prepend: site.baseurl }})
 火山国家公园(Hawaii Volcanoes National Park) -> 希洛(Hilo)
 
-### Day-6：雨林徜徉，伸手摘星（July 6）
+### [Day-6：雨林徜徉，伸手摘星（July 6）]({{ '/2017/08/28/blue-hawaii-self-driving-day-6.html' | prepend: site.baseurl }})
 彩虹瀑布(Rainbow Fall) -> 热带植物园(Tropical Botanical Garden) -> 冒纳凯亚(Mauna Kea)
 
 ### Day-7：云中漫步，初窥峥嵘（July 7）
