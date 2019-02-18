@@ -210,7 +210,7 @@ _火山国家公园(Hawaii Volcanoes National Park) -> 希洛(Hilo)_
 ![fig: 牛排]({{ '/img/hawaii/tasty-steak.jpg' | prepend: site.baseurl }})
 {{site.icon.hand}} <span>虽说等了好久，但牛排味道还不错！</span>
 
-吃完饭回到房间，把明天的行程梳理一遍，再安排一下后天的直升机巡游项目，比较了一下，选择了一家规模较大的公司，叫 [{{site.icon.link}} Blue Hawaiian](https://www.bluehawaiian.com/)，牙齿咬碎了八个，毫不浪费地再咽下后，在官网上订了个 Circle of Fire 游览套餐，3 个人小五千块 RMB 啊。散完钱，今晚可以舒舒服服的睡个大床了！
+吃完饭回到房间，把明天的行程梳理一遍，再安排一下后天的直升机巡游项目，比较了一下，选择了一家规模较大的公司，叫 [{{site.icon.link}} Blue Hawaiian](https://www.bluehawaiian.com/)，牙齿咬碎了八个，毫不浪费地再咽下后，在官网上订了个 Circle of Fire 游览套餐，3 个人的费用是 $777，五千多块 RMB 啊。散完钱，今晚可以舒舒服服的睡个大床了！
 
 ---
 

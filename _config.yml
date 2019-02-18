@@ -18,7 +18,8 @@ google_analytics:
 google_verification:
 
 # Baidu tongji
-baidu_tongji: "754e4c909194173b0646898b26d1acbd"
+# baidu_tongji: "754e4c909194173b0646898b26d1acbd"
+baidu_tongji:
 
 # Optional features
 animated:           true
@@ -59,7 +60,7 @@ share_hackernews: false
 
 # Build settings
 plugins:      [jekyll-paginate]
-paginate:     8
+paginate:     10
 markdown:     kramdown
 sass:
   compressed: true
