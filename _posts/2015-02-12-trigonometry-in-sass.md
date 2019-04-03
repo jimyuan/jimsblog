@@ -55,7 +55,7 @@ tags: Sass CSS
 哦，天那，上面又是啥玩意儿？习惯一下，随便看两眼…… 不管如何，我们要依靠上面的算法来解决问题啊亲！所以我们需要把以上的算法翻译成Sass能认的语法。
 
 #### 乘方 (POWER)
-上面的 <span class="fa fa-link"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)中，我们需要对x<sup>2n+1</sup>和x<sup>2n</sup>进行展开操作，但是在现有的Sass中没有这种运算方法，所以我们先先写个_power function_:
+上面的 <span class="fa fa-link"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)中，我们需要对x<sup>2n+1</sup>和x<sup>2n</sup>进行展开操作，但是在现有的Sass中没有这种运算方法，所以我们先先写个 _power function_:
 <figure class="equation">$$ \begin{aligned} b^{n} & = {\overbrace {b \times \cdots \times b}^{n}} \\\\ b^{-n} & = {\frac {1}{\underbrace {b \times \cdots \times b}_{n}}} \end{aligned} $$</figure>
 
 将“火星语”翻译成Sass能理解的语法：
