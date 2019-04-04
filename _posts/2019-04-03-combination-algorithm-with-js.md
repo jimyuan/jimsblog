@@ -4,10 +4,10 @@ title:  关于组合算法的 JS 实现
 jsfile: Math
 tags: js combination permutation
 ---
-之前遇到一个实际问题，想做一个关于双色球兑奖的小功能，输入本期开奖号码和自己买的号，实现自动兑奖。但如果我是复式投注的话，我们首先要将购买组合号码拆分出来。大家都读过高中代数，我们学习过排列组合的相关知识，通过它我们能很快计算出复式投注实际的注数。但如何用 JS 将这些组合号码都一个不漏地显示出来呢？
+之前在写一个小页面时，遇到一个实际问题，这是一个关于双色球兑奖的小功能，输入本期开奖号码和自己买的号，实现自动兑奖。自己的号跟样本号码一个个检查，通过累计命中个数来判断奖项。但问题来了，如果我是复式投注的话，我们首先要将购买组合号码拆分出来。大家都读过高中代数，学习过排列组合的一些基本知识，通过它我们能很快计算出复式投注实际的注数。但如何用 JS 将这些组合号码都一个不漏地显示出来呢？
 <!--more-->
 
-在各种组合中，排列英文名叫 Permutation，如果与排列顺序有关的组合，我们用数学表达式记做 $$P_{m}^{n}$$，与顺序无关的话，就叫做组合了，英文名叫 Combination，数学表达式记做 $$C_{m}^{n}$$，而今天我们先来了解一下用 JS 如何来实现 $$C_{m}^{n}$$。
+排列英文名叫 Permutation，如果与排列顺序有关的组合，我们用数学表达式记做 $$P_{m}^{n}$$，与顺序无关的话，就叫做组合了，英文名叫 Combination，数学表达式记做 $$C_{m}^{n}$$，而今天我们先来了解一下用 JS 如何来实现 $$C_{m}^{n}$$。
 
 在着手解决这个问题时，深感自己的算法水平匮乏，于是上网搜索了一下，希望能得到前辈们的启发，果不其然，让我找到一篇多年前的[博客](https://www.cnblogs.com/purediy/p/3375537.html)，其中的思路让我大受启发，具体算法请移驾该博客自行观赏，但其中精髓，作者称之为“01转换法”。
 
@@ -26,7 +26,9 @@ tags: js combination permutation
 [0, 1, 1, 1] // ["b", "c", "d"]
 ```
 
-仔细分析了一下博客里前辈的代码，发现他用了很多循环来实现 $$C_{m}^{n}$$，我想是否可以不用这么多 for 循环来简化代码，实现同样的效果呢？突然灵机一动，不就是 “0011” 吗，把它当做字符串处理不就得了？再说现在 ES6 早已大行其道，前辈兄的代码是该优化一下了。
+仔细分析了一下博客里前辈的代码，发现他用了很多循环来实现 $$C_{m}^{n}$$，我想是否可以不用这么多 for 循环来简化代码，实现同样的效果呢？突然灵机一动，不就是一堆 “0011” 的操作吗，把它当做字符串处理不就得了？用一个 while 循环不断的将字符串中的 “10” replace 成 “01”，同时整理前面的字符串，保证所有的 “1” 在字符串最前端，一直到字符串中再也找不出 “10” 为止。
+
+思路有了，写了个 demo 代码实验了一下，果然可行啊，那就开干了！现在新一代 ES 语法早已大行其道，很多之前写起来有点麻烦的代码已经有了原生支持的方法，所以，前辈兄的代码是该优化一下了。
 
 以下就是我琢磨出来的代码，为了能方便和原代码做对比，一些必要函数和变量名我都尽量保持和原来一致，得罪了前辈哥：
 
@@ -38,11 +40,11 @@ function arrayCombine(targetArr = [], count = 1) {
   if (!Array.isArray(targetArr)) return []
 
   const resultArrs = []
-  // 所有组合
+  // 所有组合的 01 排列
   const flagArrs = getFlagArrs(targetArr.length, count)
   while (flagArrs.length) {
     const flagArr = flagArrs.shift()
-    resultArrs.push(targetArr.filter((item, idx) => flagArr[idx] === 1))
+    resultArrs.push(targetArr.filter((_, idx) => flagArr[idx]))
   }
   return resultArrs
 }
@@ -60,20 +62,21 @@ function arrayCombine(targetArr = [], count = 1) {
 function getFlagArrs(m, n = 1) {
   if (n < 1 || m < n)  return []
 
-  // 1
+  // 先生成一个长度为 m 字符串，开头为 n 个 1， 例如“11100”
   let str = '1'.repeat(n) + '0'.repeat(m-n)
+  let pos
+  // 1
   const resultArrs = [Array.from(str, x => Number(x))]
-
   const keyStr = '10'
-  let flag
+
   while(str.indexOf(keyStr) > -1) {
-    flag = str.indexOf(keyStr)
+    pos = str.indexOf(keyStr)
     // 2
     str = str.replace(keyStr, '01')
     // 3
-    str = Array.from(str.slice(0, flag))
+    str = Array.from(str.slice(0, pos))
       .sort((a, b) => b-a)
-      .join('') + str.slice(flag)
+      .join('') + str.slice(pos)
     // 4
     resultArrs.push(Array.from(str, x => Number(x)))
   }
