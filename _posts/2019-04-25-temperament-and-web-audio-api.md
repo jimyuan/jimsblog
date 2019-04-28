@@ -15,13 +15,13 @@ tags: js waa api
 ## 标准音制定
 我们先来瞧一下十二平均律到底是怎样的概念，我们将某一段音程分成十二份，每一份我们称之为半音，两份则是全音，相邻半音间的频率比率都是相同的。下图中每个相邻的黑白键之间就是半音关系，当然，有特殊情况，E 和 F，B 和后一个 C 之间没有黑键，所以这两个白键也是相差半音。为啥会这样呢，大概是为了和谐吧。
 
-<img src="https://pic2.zhimg.com/80/v2-5ddb887b561c319dfd0ea3ca5118eba1_hd.png" class="center-block">
+<img src="{{ '/img/waa/12.png' | prepend: site.baseurl }}" class="center-block">
 
 我们这里也不去深入研究其他的乐理知识了，此刻我们上数学！每个半音之间的频率之比为整个纯八度音的  $$\frac{1}{12}$$，也就是半音之间的频率为 $$\sqrt[12]{2}$$ 倍关系，经过 12 个半音后， C 和高音 C 之间就是纯的 2 倍频率了。
 
 在 1935 年 5 月的伦敦国际音乐会议上，规定在 88 键钢琴上，第 49 键，即第 5 个 A（亦称 A4，中音 la）一般被用作调音标准。现行的标准是 440 赫兹，亦称 A440。
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Piano_Frequencies.svg/520px-Piano_Frequencies.svg.png" class="center-block">
+<img src="{{ '/img/waa/keyboard.png' | prepend: site.baseurl }}" class="center-block">
 
 _88键钢琴，以数字显示八度和中央 C (青色) 以及 A440 (黄色)_
 
@@ -38,7 +38,7 @@ _88键钢琴，以数字显示八度和中央 C (青色) 以及 A440 (黄色)_
 1. 选择音频的最终输出节点，通常是你的电脑的扬声器；
 1. 连接声源、效果器（如果有）和输出节点，完成音频输出。
 
-<img src="https://mdn.mozillademos.org/files/16043/audio-context_.png" class="center-block">
+<img src="{{ '/img/waa/audio-context.png' | prepend: site.baseurl }}" class="center-block">
 
 下面，我们来体验一下，用 API 提供的音频振荡器发声：
 
@@ -72,7 +72,7 @@ function beep () {
 
 刚才讲到 `oscillator.type` 的默认值为 `sine`，还有其他取值 `square`、`sawtooth`、`triangle`。当然，如果你的数学够好，还能通过 `audioCtx.createPeriodicWave()` 方法创建自定义周期波形，这个我就不深入展开了，因为…… 我也不会！^o^
 
-![波形示意](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Waveforms.svg/2560px-Waveforms.svg.png)
+![波形示意]({{ '/img/waa/sound-wave.png' | prepened: site.baseurl }})
 
 我们可以试试调整一下波形和频率的取值，听听由振荡器发出的不同声音：
 ```javascript
