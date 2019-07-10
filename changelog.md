@@ -3,6 +3,7 @@ layout: page
 title: 更新日志
 permalink: /changelog/
 ---
+* _2019-07-10_ 升级到 gulp 4
 * _2018-04-26_ 升级开发环境下的依赖包
 * _2016-12-20_ 升级了 gulp 任务各项模块的版本，并同步重写了部分 task
 * _2016-03-17_ 根据 github 的要求，修改 markdown 引擎为 kramdown
