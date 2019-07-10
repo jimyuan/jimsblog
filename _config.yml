@@ -2,7 +2,7 @@
 title:       摄氏零度
 email:
 author:      "Jim Yuan"
-description: "This is Jim\'s Blog. We talk about Front-end, Lego, Photo-graph"
+description: "This is Jim's Blog. We talk about Front-end, Lego, Photo-graph"
 baseurl:     /blog
 url:         "http://jimyuan.github.io/blog"
 date_format: "%b %-d, %Y"
@@ -29,7 +29,7 @@ show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: 
+disqus_shortname:
 
 # Social icons
 github_username:

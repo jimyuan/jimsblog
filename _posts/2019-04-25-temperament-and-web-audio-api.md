@@ -52,10 +52,10 @@ function beep () {
 
   // 创建一个音频振荡器
   const oscillator = audioCtx.createOscillator()
-  
+
   // 振荡器开始工作
   oscillator.start()
-  
+
   // 振荡器 1 秒后停止
   oscillator.stop(1)
 
@@ -84,7 +84,7 @@ function beep () {
   const destNode = audioCtx.destination
   oscillator.connect(destNode)
   /* 常规设定结束 */
-  
+
   // 设置鲨鱼齿波形，还可以赋值的预设值为：sine、square 和 triangle
   oscillator.type = 'sawtooth'
   // 设置振荡器频率为 262Hz，也就是中音 do
