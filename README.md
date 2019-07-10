@@ -1,7 +1,7 @@
 
 # Jim's Blog!
 
-See [CHANGELOG](./changelog/)
+See [CHANGELOG](http://jimyuan.github.io/blog/changelog/)
 
 ## 启动开发环境
 ```
