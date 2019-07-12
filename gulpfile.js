@@ -51,8 +51,7 @@ task('jekyll-rebuild', parallel('jekyll-build', done => {
 * Compile files from _scss into both _site/css (for live injecting)
 * and site (for future jekyll builds)
 */
-task('sass', () => {
-  return src(`${_.sass}/**/*.scss`)
+task('sass', () => src(`${_.sass}/**/*.scss`)
   .pipe(plumber())
   .pipe(sourcemaps.init())
   .pipe(sass({
@@ -66,7 +65,7 @@ task('sass', () => {
   .pipe(dest(`${_.dist}/css`))
   .pipe(browserSync.stream())
   .pipe(dest(_.css))
-})
+)
 
 /**
  * Compile files from js into _site/js (for live injecting)

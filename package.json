@@ -1,6 +1,6 @@
 {
   "name": "Jims-blog",
-  "version": "0.6.0",
+  "version": "1.0.0",
   "description": "Jim's blog by Jekyll",
   "main": "gulpfile.js",
   "author": "Jim Yuan",
