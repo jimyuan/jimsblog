@@ -61,61 +61,79 @@ toString.call(function(){})   // "[object Function]"
 这些操作符可以让你在最基础的二进制层面对数值进行操作，减小系统开销，提高代码效率，下面就讲讲几个运用场景：
 
 ### 奇偶判断
-{% highlight js %}
+```javascript
 2 & 1 // 0
 3 & 1 // 1
 100 & 1 // 0
 777 & 1 // 1
-{% endhighlight %}
+```
 从以上返回值可以知道，任何数和 1 做一个与运算，返回 0 的必然是偶数，返回 1 的是奇数，比用除以 2 看余数的方法来的简便。
 
 ### 向下取整
-{% highlight js %}
+```javascript
 2.308 | 0 // 2
 13.96 | 0 // 13
-{% endhighlight %}
+```
 利用“或”操作能达成 `Math.floor` 那样的运算结果。其实，连续采用两次“非”操作，也能达成如上的效果，例如：`~~103.95` 会返回数值 `103`。
 
 ### 向上取整
-{% highlight js %}
+```javascript
 2.308 | 1 // 3
-{% endhighlight %}
+```
 试验几个数字就可得知，数值与偶数做“或”操作，可以向下取整，与奇数做“或”操作，则向上取整
 
 ### 变量交换
-{% highlight js %}
+```javascript
 let num1 = 1, num2 = 2
 num1 ^= num2
 num2 ^= num1
 num1 ^= num2
 console.log(num1) // 2
 console.log(num2) // 1
-{% endhighlight %}
+```
 利用“亦或”操作符，装的一手好 X!
 
-### 有符号的左移和右移
-2 的 n 次方的装 X 写法！
-{% highlight js %}
-function power(n) {
-    return 1 << n
+### 找出数组中奇数个数的项
+再来一例：
+```javascript
+const arr = [2,3,2,4,4]
+let i, result
+for (i of arr) {
+  result ^= i
 }
-power(5); // 32
-{% endhighlight %}
+console.log(result) // 3
+```
+这里涉及到离散数学的异或运算性质了：
+> 1.交换律：a ^ b ^ c  <=> a ^ c ^ b
+>
+> 2.任何数与 0 异或为任何数 0 ^ n => n
+>
+> 3.相同的数异或为 0: n ^ n => 0
+
+因此上面的例子， `2 ^ 3 ^ 2 ^ 4 ^ 4` => `2 ^ 2 ^ 4 ^ 4 ^ 3` => `0 ^ 0 ^ 3` => `3`。
+
+### 有符号的左移和右移
+2 的高阶次方的装 X 写法！
+```javascript
+function power(n) {
+  return 1 << n
+}
+power(5); // 32，等同于 Math.pow(2, 5)
+```
 
 求一个数的二分之一，连这个都要装 X?
-{% highlight js %}
+```javascript
 let num = 64 >> 1 // 32
-{% endhighlight %}
+```
 
 ### 无符号右移来判断一个数的正负
-{% highlight js %}
+```javascript
 function isPos(n) {
   return (n === n >>> 0) ? true : false
 }
-
 isPos(-1) // false
 isPos(10) // true
-{% endhighlight %}
+```
 
 ### 总结
 以上的例子在平常可能会比较容易用到或看到，也是属于比较容易理解的。一些比较复杂的、难理解的，我觉得应该尽量少用，因为会给阅读者带来困难，也会给自己带来麻烦。

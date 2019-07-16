@@ -42,7 +42,7 @@ task('jekyll-build', done => {
   buildCall(done, false)
 })
 
-task('jekyll-rebuild', parallel('jekyll-build', done => {
+task('jekyll-rebuild', series('jekyll-build', done => {
   reload()
   done()
 }))
