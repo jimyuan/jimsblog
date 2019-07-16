@@ -1,0 +1,74 @@
+@charset 'utf-8';
+
+.demo105-1::before {
+  content: 'tips:';
+  color: red;
+}
+
+.demo105-2::before {
+  content: '';
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border: 0.5em solid transparent;
+  border-left-color: red;
+}
+
+.demo105-3 {
+  &::before {
+    content: open-quote;
+  }
+  &::after {
+    content: close-quote;
+  }
+}
+
+.demo105-4 {
+  quotes: "『" "』";
+  &::before {
+    content: open-quote;
+  }
+  &::after {
+    content: close-quote;
+  }
+}
+
+.demo105-5 {
+  quotes: "«" "»" "‹" "›";
+  &::before {
+    content: no-open-quote open-quote;
+  }
+  &::after {
+    content: close-quote;
+  }
+}
+
+.demo105-6::after {
+  content: '#' attr(id);
+  color: red;
+}
+
+.demo105-7 {
+  &::before {
+    content: url(http://jimyuan.github.io/blog/favicon.ico);
+  }
+  &::after {
+    content: url('data:image/svg+xml, \
+    <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"> \
+      <circle cx="16" cy="16" r="16" fill="#1296db" /> \
+      <circle cx="16" cy="16" r="10" fill="#fff" /> \
+      <circle cx="16" cy="16" r="6" fill="#1296db" /> \
+    </svg>');
+  }
+}
+
+.demo105-8 {
+  &::before {
+    content: radial-gradient(circle at 35% 35%, white 10%, pink 70%);
+    display: block;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+  }
+}

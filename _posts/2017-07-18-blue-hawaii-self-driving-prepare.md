@@ -38,7 +38,7 @@ tags: hawaii
 
 一开始同小袁子的好朋友可同学家说一起约去奥兰多的，去面签的时候也是按着这个计划来的。看过地图后就知道，那里遍地是游乐场，还有个肯尼迪航天中心，我蛮有兴趣的。后来可家的计划改变了，要去纽约和波士顿，并且我们的签证也比较晚到手，人家已经订好 Hotel 了，于是我看着 Google Map 上的浩瀚海域，金手指一点太平洋中央的那一串小岛，就这儿吧！夏威夷，我们要来了！你准备准备吧！
 
-陆陆续续做了 2 个多月攻略，考虑到连头带尾 14 天时间，带个孩子度假，过于劳累地赶景点是不太合适的。所以斟酌下来，这次跳岛不宜过多，就两个岛吧。瓦胡（O'ahu）岛当然是免不了的，国际航班都在这里起降，然后进过删选，再选了个大岛（Big Island）作为第二个观光岛。就这样吧，大方向确定了、时间确定了，那就不客气了，先杀到东航网站上，把一家人的直飞机票都定好，不用麻烦 OTA 这种二道贩子了！
+陆陆续续做了 2 个多月攻略，考虑到连头带尾 14 天时间，带个孩子度假，过于劳累地赶景点是不太合适的。所以斟酌下来，这次跳岛不宜过多，就两个岛吧。瓦胡（O'ahu）岛当然是免不了的，国际航班都在这里起降，然后经过删选，再选了个大岛（Big Island）作为第二个观光岛。就这样吧，大方向确定了、时间确定了，那就不客气了，先杀到东航网站上，把一家人的直飞机票都定好，不用麻烦 OTA 这种二道贩子了！
 
 ![fig: 夏威夷群岛]({{ '/img/hawaii/hawaii-map.jpg' | prepend: site.baseurl }})
 
@@ -112,6 +112,8 @@ Google 查寻了下，貌似人家不接受非美帝的信用卡，TNND! 如何�
 |{{site.icon.food}}|餐厅|
 |{{site.icon.stay}}|住宿|
 
+---
+
 ## 行程 <small>ROUTE</small>
 行程游记按日排列，点击每日标题，进入游记内容。点不进去说明……还没写好！
 
@@ -124,32 +126,32 @@ Google 查寻了下，貌似人家不接受非美帝的信用卡，TNND! 如何�
 ### [Day-3：撒欢南角，碧沙猎奇 (July 3)]({{ '/2017/08/10/blue-hawaii-self-driving-day-3.html' | prepend: site.baseurl }})
 科纳(Kona) -> 南角公园(South Point Park) -> 绿沙滩(Green Sand Beach)
 
-### Day-4：黑沙赏龟，夜探火山
+### [Day-4：黑沙漫地，夜观火山（July 4）]({{ '/2017/08/24/blue-hawaii-self-driving-day-4.html' | prepend: site.baseurl }})
 黑沙滩(Black Sand Beach) -> 火山国家公园(Hawaii Volcanoes National Park)
 
-### Day-5：广漠荒芜，撒欢东游
+### [Day-5：广漠荒芜，一路东去（July 5）]({{ '/2017/08/26/blue-hawaii-self-driving-day-5.html' | prepend: site.baseurl }})
 火山国家公园(Hawaii Volcanoes National Park) -> 希洛(Hilo)
 
-### Day-6：雨林漫步，伸手摘星
+### [Day-6：雨林徜徉，伸手摘星（July 6）]({{ '/2017/08/28/blue-hawaii-self-driving-day-6.html' | prepend: site.baseurl }})
 彩虹瀑布(Rainbow Fall) -> 热带植物园(Tropical Botanical Garden) -> 冒纳凯亚(Mauna Kea)
 
-### Day-7：云中漫步，初窥峥嵘
+### [Day-7：云中漫步，小桥流水（July 7）]({{ '/2017/08/31/blue-hawaii-self-driving-day-7.html' | prepend: site.baseurl }})
 希洛(Hilo)
 
-### Day-8：行走山脚，再入繁华
+### Day-8：穿越大岛，再入繁华（July 8）
 希洛(Hilo) -> 火奴鲁鲁(Honolulu)
 
-### Day-9：军港游弋，巨舰诉史
+### Day-9：军港游弋，巨舰诉史（July 9）
 珍珠港(Pearl Harbor)
 
-### Day-10：登高远眺，戏浪弄潮
+### Day-10：登高远眺，戏浪弄潮（July 10）
 钻石头山(Diamond Head Mountain) -> 怀基基海滩(Waikiki Beach)
 
-### Day-11：大牌云集，购物天堂
+### Day-11：大牌云集，购物天堂（July 11）
 奥特莱斯(Waikele Premium Outlets)
 
-### Day-12：鬼斧神工，山高水长
+### Day-12：鬼斧神工，山高水长（July 12）
 张学良将军墓(The Tomb of General Zhang Xueliang) -> 凯卢阿海滩公园(Kailua Beach Park)
 
-### Day-13：漫漫归程，落入丹炉
+### Day-13：漫漫归程，打落丹炉（July 13）
 火奴鲁鲁(Honolulu) -> 上海(Shanghai)

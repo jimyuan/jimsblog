@@ -2,7 +2,7 @@
 title:       摄氏零度
 email:
 author:      "Jim Yuan"
-description: "This is Jim\'s Blog. We talk about Front-end, Lego, Photo-graph"
+description: "This is Jim's Blog. We talk about Front-end, Lego, Photo-graph"
 baseurl:     /blog
 url:         "http://jimyuan.github.io/blog"
 date_format: "%b %-d, %Y"
@@ -18,7 +18,8 @@ google_analytics:
 google_verification:
 
 # Baidu tongji
-baidu_tongji: "754e4c909194173b0646898b26d1acbd"
+# baidu_tongji: "754e4c909194173b0646898b26d1acbd"
+baidu_tongji:
 
 # Optional features
 animated:           true
@@ -28,7 +29,7 @@ show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: 
+disqus_shortname:
 
 # Social icons
 github_username:
@@ -58,8 +59,8 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-gems:         [jekyll-paginate]
-paginate:     8
+plugins:      [jekyll-paginate]
+paginate:     10
 markdown:     kramdown
 sass:
   compressed: true
