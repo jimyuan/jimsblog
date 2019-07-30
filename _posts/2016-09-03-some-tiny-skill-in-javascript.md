@@ -9,18 +9,18 @@ tags: js
 
 ## 数据类型
 废话不多说，JS 的数据类型，基本类型就 5 个：
-{% highlight text %}
+```text
 - Undefined
 - Null
 - Boolean
 - Number
 - String
-{% endhighlight %}
+```
 别跟我扯啥还有数组啊，对象啊这些类型，那些都是引用类型，凡是 typeof 后的值是 `object` 或 `function` 的，都是引用类型。当然，我们还是要摒除那个著名的例外： `typeof null` 的值也为 `object`，至于原因么…… 网上也是一大堆的解释，我这里就不表了。
 
 所以呢，如果我们要精确地判断一个对象的数据类型，应该如何做？目前来讲，最佳方法当然是用 `Object.prototype.toString.call` 来判断，不废话，show you my code:
 
-{% highlight js %}
+```javascript
 // 不介意我用 ES6 语法吧？介意也没用，It's my blog!
 
 let toString = Object.prototype.toString // 懒得一遍遍写这么长的东东，赋个变量
@@ -37,7 +37,7 @@ toString.call(new Date())     // "[object Date]"
 toString.call(new Error())    // "[object Error]"
 toString.call(function(){})   // "[object Function]"
 
-{% endhighlight %}
+```
 
 其实，还有个数据类型容易被人忽略，那就是函数的传参，这种 Array-like 的数据它也有自己的数据类型，如果用以上方法测试的话，会返回 `[object Arguments]`，BUT…… 在一种叫 IE 的垃圾下，IE < 9 时对 arguments 调用 `Object.prototype.toString.call`，结果是 `[object Object]`，而并非我们期望的 `[object Arguments]`。咋整？我们可以用该元素是否含有 callee 属性来判断，或者，我建议，无视它！你懂的！
 

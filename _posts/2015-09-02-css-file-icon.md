@@ -19,14 +19,14 @@ tags: CSS
 采用这种方案一个不好的地方在于…… 图标要受人家字库的限制，下面我按着 cssmagic 的思路，用 pure css 来实现看看，每个图标只采用一个容器，不准备采取多层 DOM 结构将事情复杂化，这里，我用 Scss 重新实现了一遍，为啥？主要还是因为……好玩！
 
 文档结构：
-{% highlight html %}
+```html
 <div class="file-type file-doc" data-type="DOC"></div>
 <div class="file-type file-xls" data-type="XLS"></div>
 <div class="file-type file-ppt" data-type="PPT"></div>
-{% endhighlight %}
+```
 
 scss 代码：
-{% highlight scss %}
+```scss
 $iw: 80px;       // icon width
 $ih: $iw * 1.3;  // icon height
 $br: $ih / 20;   // icon radius
@@ -101,8 +101,7 @@ $types: (
     }
   }
 }
-
-{% endhighlight %}
+```
 
 现在，我们看看效果，我认为还是挺漂亮的 :-)
 

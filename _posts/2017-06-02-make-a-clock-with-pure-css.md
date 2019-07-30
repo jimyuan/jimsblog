@@ -40,20 +40,20 @@ CSS 方面，必要的东东都初始化一下：
   width: $w;
   height: $h;
 }
- 
+
 // 封装了一下容器定位的 CSS 代码
 @mixin position($position, $args) {
   @each $o in top right bottom left {
     $i: index($args, $o);
-    @if $i and 
-        $i + 1 <= length($args) and 
+    @if $i and
+        $i + 1 <= length($args) and
         type-of(nth($args, $i + 1)) == number {
       #{$o}: nth($args, $i + 1);
     }
   }
   position: $position;
 }
- 
+
 // 再次封装一下绝对定位的 mixin， 其他定位方式本次用不到，就先不封装了
 @mixin absolute($args: '') {
   @include position(absolute, $args);
@@ -238,7 +238,7 @@ OK! 很幸运没碰到啥麻烦，我们就定义好了三根指针，只不过�
 ```scss
 .hand-wrap {
   ...
-  
+
   &::before {
     // 以刻度容器的一半为容器尺寸
     @include size($mw / 2);

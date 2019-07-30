@@ -11,7 +11,7 @@ JS 的构造函数可以模拟其他语言“类”的功能，在其原型链�
 <!--more-->
 
 其实该段代码来自[这里](http://www.cnblogs.com/jikey/archive/2011/05/13/2045005.html)，我只是稍作排版，向原作者致意！
-{% highlight js %}
+```javascript
 /*
   构造函数
   使自己的对象多次复制，同时实例根据设置的访问等级可以访问其内部的属性和方法
@@ -86,8 +86,8 @@ myObject.sayHello(); //myObject.sayHello is not a function，sayHello是原型�
 //---- 测试 prototype ----//
 console.log(m1.prototype); //undefined, 实例对象没有prototype
 console.log(myObject.prototype); //Object
-alert(myObject.prototype.constructor); console.log返回myObject(msg)，此时alert()更清楚，相当于myObject
+alert(myObject.prototype.constructor); //console.log返回myObject(msg)，此时alert()更清楚，相当于myObject
 console.log(myObject.prototype.constructor.name); //china, 相当于myObject.name;
-{% endhighlight %}
+```
 
 还有那啥非常复杂的原型链调用图，我就不贴了，仔细研究以下以上代码，我觉得至少90%的概念应该是清楚了。

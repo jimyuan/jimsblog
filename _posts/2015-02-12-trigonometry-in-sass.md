@@ -9,27 +9,27 @@ tags: Sass CSS
 
 <!--more-->
 
-{% highlight css %}
+```css
 .triangle{
   width: 0; height: 0;
   border-width: 50px;
   border-style: solid;
   border-color: blue red yellow black;
 }
-{% endhighlight %}
+```
 
 做出来就下面那样，要哪个角度，就将其他的颜色设成transparent就行了。
 <div style="width: 0; height: 0;border-width: 50px; border-style: solid; border-color: blue red yellow black;"></div>
 
 当然，在CSS3中还有种新的方法叫`clip-path`的，可以绘制多边形，用法非常灵活，但是去了 <span class="fa fa-link"></span> [caniuse](http://caniuse.com/#search=clip-path)网站查了下，支持度貌似还很不够，不过是个不错的方法，例如下面的代码：
-{% highlight css %}
+```css
 .polygon {
   width: 100px;
   height: 100px;
   background: #f00;
   -webkit-clip-path:polygon(50px 0, 100px 37px, 82px 100px, 19px 100px, 0 37px);
 }
-{% endhighlight %}
+```
 
 （在查阅文档的过程中，一个CSS3的新属性`shape-outside`也蛮有意思的，这个以后再说……）
 
@@ -59,7 +59,7 @@ tags: Sass CSS
 <figure class="equation">$$ \begin{aligned} b^{n} & = {\overbrace {b \times \cdots \times b}^{n}} \\\\ b^{-n} & = {\frac {1}{\underbrace {b \times \cdots \times b}_{n}}} \end{aligned} $$</figure>
 
 将“火星语”翻译成Sass能理解的语法：
-{% highlight scss %}
+```scss
 @function pow($number, $exp) {
   $value: 1;
   @if $exp > 0 {
@@ -74,14 +74,13 @@ tags: Sass CSS
   }
   @return $value;
 }
-{% endhighlight %}
-
+```
 #### 阶乘 (FACTORIAL)
 表达式(2n+1)!和(2n)!需要一个阶乘算法的函数，不过这要比上面简单的多：
 <figure class="equation">$$ n! = { \begin{cases} 1 & \text{if } n = 0 \\\\ (n-1)! \times n & \text{if } n > 0 \end{cases} } $$</figure>
 
 同样，将算法转换成Sass的语法：
-{% highlight scss %}
+```scss
 @function fact($number) {
   $value: 1;
   @if $number > 0 {
@@ -91,11 +90,11 @@ tags: Sass CSS
   }
   @return $value;
 }
-{% endhighlight %}
+```
 
 #### 正弦、余弦和正切 (SINES, COSINES AND TANGENTS)
 现在，必要的算法工具已准备妥当，可以创建我们的三角函数算法了，让我们跟随着 <span class="fa fa-link"></span> [Taylor展开式](http://en.wikipedia.org/wiki/Taylor_series)的脚步，奔跑吧，兄弟！
-{% highlight scss %}
+```scss
 @function pi() {
   @return 3.14159265359;
 }
@@ -133,19 +132,19 @@ tags: Sass CSS
 @function tan($angle) {
   @return sin($angle) / cos($angle);
 }
-{% endhighlight %}
+```
 
 看看效果如何，杠杠大！
-{% highlight scss %}
+```scss
 @debug sin(pi()/4); // => 0.70711
 @debug cos(45deg);  // => 0.70711
-{% endhighlight %}
+```
 Yeah! Give me five!
 
 有了以上利器，我刚才说的在Sass中写等边三角形，简直就易如反掌了啊！
 
 *注：这里我在scss里把私有前缀省略了，建议编译的时候使用 [autoprefixer](https://www.npmjs.com/package/autoprefixer) 等 POSTCSS 工具帮助你自动添加前缀，在scss中，我们只写标准css语法*
-{% highlight scss %}
+```scss
 @mixin equ-triangle($height){
   $h: $height;
   $w: tan(30deg) * 2 * $h;
@@ -158,9 +157,9 @@ Yeah! Give me five!
   @include equ-triangle(100px);
   background: #f00;
 }
-{% endhighlight %}
+```
 编译出来的CSS代码如下：
-{% highlight css %}
+```css
 .my-triangle{
   width:115.47005px;
   height:100px;
@@ -169,25 +168,25 @@ Yeah! Give me five!
      -moz-clip-path:polygon(57.73503px 0, 115.47005px 100px, 0 100px);
       -ms-clip-path:polygon(57.73503px 0, 115.47005px 100px, 0 100px);
           clip-path:polygon(57.73503px 0, 115.47005px 100px, 0 100px);
-}
-{% endhighlight %}
+
+```
 
 <div class="my-triangle"></div>
 (啥，你又看不到？放着高大上的Chrome不用，那怪谁？)
 
 #### 补充
 利用以上计算出来的结果，我们用内联svg的语法来画一个等边三角形试试：
-{% highlight html %}
+```html
 <svg width="115.47" height="100">
     <polygon points="57.73 0, 115.47 100, 0 100" fill="red"></polygon>
 </svg>
-{% endhighlight %}
+```
 <svg width="115.47" height="100">
     <polygon points="57.73 0, 115.47 100, 0 100" fill="red"></polygon>
 </svg>
 
 当然啦，我们上面辛苦的来的_Sass function_不能白瞎，得充分利用！干脆把svg得到的图形作为背景图，用CSS定义出来如何？
-{% highlight scss %}
+```scss
 .svg-triangle {
   $h: 100;
   $w: tan(30deg) * 2 * $h;
@@ -195,15 +194,15 @@ Yeah! Give me five!
   height: $h + px;
   background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='#{$w}' height='#{$h}'><polygon points='#{$w/2},0 #{$w},#{$h} 0,#{$h}' fill='red'/></svg>");
 }
-{% endhighlight %}
+```
 编译后得到：
-{% highlight css %}
+```css
 .svg-triangle{
   width:115.47005px;
   height:100px;
   background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='115.47005' height='100'><polygon points='57.73503,0 115.47005,100 0,100' fill='red'/></svg>")
 }
-{% endhighlight %}
+```
 look! 这样做得好处就是内联svg的兼容性比上面的`clip-path`强好多。
 <div class="svg-triangle"></div>
 <hr>

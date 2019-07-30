@@ -16,13 +16,13 @@ tags: CSS
 
 
 __HTML:__
-{% highlight html %}
+```html
 <div class="lego-block">
   <div class="head">
     <div class="emotion"></div>
   </div>
 </div>
-{% endhighlight %}
+```
 
 用了三个容器，由外向内依次是画布、头像、表情。下面的 CSS 代码好长，Sass 的好处体现多多啊！
 

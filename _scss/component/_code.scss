@@ -65,3 +65,17 @@ pre a:last-of-type::before {
 pre a:only-of-type::before {
   padding: 10px;
 }
+
+[class^='language'] {
+  position: relative;
+
+  &::before {
+    @include absolute(right 1em top 1em);
+
+    content: attr(data-sort);
+    font-size: 0.6em;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #ccc;
+  }
+}
