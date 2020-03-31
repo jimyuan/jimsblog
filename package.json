@@ -1,5 +1,5 @@
 {
-  "name": "Jims-blog",
+  "name": "jims-blog",
   "version": "1.0.0",
   "description": "Jim's blog by Jekyll",
   "main": "gulpfile.js",
@@ -16,11 +16,11 @@
     "browsersync"
   ],
   "devDependencies": {
-    "browser-sync": "^2.23.7",
+    "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^6.1.0",
-    "gulp-clean-css": "^4.2.0",
-    "gulp-load-plugins": "^2.0.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-load-plugins": "^2.0.2",
     "gulp-plumber": "^1.2.1",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
