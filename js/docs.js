@@ -34,7 +34,7 @@
 
   // 代码块右上角标识
   function codeMark() {
-    var blocks = document.querySelectorAll('[class^=language]');
+    var blocks = document.querySelectorAll('div[class^=language]');
     for(var i = 0, len = blocks.length; i < len; i++) {
       blocks[i].dataset.sort = blocks[i].classList.value.match(/^language-(\S+)/)[1].toUpperCase()
     }
